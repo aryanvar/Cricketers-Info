@@ -1,1 +1,17 @@
-
+[
+    {
+        "id": 1,
+        "name": "Suresh Raina",
+        "Age": "35",
+        "Role": "Batting Allounder",
+    },
+  
+  
+  {
+        "id": 2,  
+        "Name": "Rohit Sharma",
+        "Role":"Batsman",
+  },
+  
+ 
+  ]
