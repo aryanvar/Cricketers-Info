@@ -72,12 +72,6 @@
         "Role":"Batsman",
 
     },
-{
-        "id": 11,  
-        "Name": "Sruyakumar Yadav",
-        "Age":"30",
-        "Role":"Batsman",
-    },
     ]
  {
         "id": 4,  
@@ -89,6 +83,11 @@
         "id": 1,
         "name": "sachin tendulkar ",
         "Age": "35",
+        "Role": " Allounder",
+    },
+         "id": 10,
+        "name": "umesh yadav ",
+        "Age": "38",
         "Role": " Allounder",
     },
     ]
