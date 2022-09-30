@@ -77,6 +77,7 @@
         "name": "Ravindra jadeja",
         "Age": "35",
         "Role": "Bowler",
+    },
 
 
     
@@ -100,6 +101,7 @@
         "name": "m.s. dhoni",
         "Age": "35",
         "Role": "Allounder",
+    },
 
     
  {
@@ -109,7 +111,7 @@
         "Role":"Batsman",
     },
 
-    ]
+    
 
 {
         "id": 11,  
@@ -149,13 +151,17 @@
 {
         "id": 20,  
         "Name": "Dinesh Karthik",
+},
 
   {
         "id": 18,  
         "Name": "kuldeep yadav",
+  },
+{
 
         "Age":"34",
-        "Role":" Wicketkeeper, Batsman",
+        "Role":" Wicketkeeper, Batsman"
+},
     },
          {
         "id": 18,  
@@ -177,7 +183,7 @@
         "Name": "jasprit bumrah",
         "Age":"28",
         "Role":" Wicketkeeper, Batsman",
-    }
+    },
         "id": 55,  
         "Name": " AB de Villiers ",
         "Age":"38",
@@ -238,19 +244,19 @@
         "Age": "30",
         "Role": "Batsman",
 
-    }
+    },
  {
         "id": 9,
         "name": "KL Rahul",
         "Age": "30",
         "Role": "Right-handed",
-    }
+    },
 {
         "id": 998,
         "name": "Gautam Gambhir",
         "Age": "40",
         "Role": "Batting",
-    }
+    },
 
 
     },
@@ -299,10 +305,11 @@
         "Role": "Batsman",
     },
 
-
+{
         "name": "M.S. Dhoni",
         "Age": "35",
-        "Role": "Allounder",
+        "Role": "Allounder"
+},
 {
         "id": 234,
         "name": "Arshadee singh",
@@ -328,7 +335,7 @@
         "name": "Suresh Raina",
         "Age": "35",
         "Role": "All rounder",
-    }
+    },
 
     {
         "id": 24,
@@ -336,13 +343,7 @@
         "Age": "23",
         "Role": "Batsman",
     },
-{
-    
-        "id": 25,
-        "name": "MS Dhoni",
-        "Age": "41",
-        "Role": "All Rounder",
-    },
+
 
 
     ]
