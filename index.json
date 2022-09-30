@@ -58,4 +58,11 @@
         "Age":"35",
         "Role":"wicket kepper",
     },
+    
+    {
+        "id": 10,  
+        "Name": "Jasprit Bhumrah",
+        "Age":"34",
+        "Role":"Bollwer",
+    },
     ]
