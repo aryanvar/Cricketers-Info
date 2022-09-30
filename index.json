@@ -45,6 +45,7 @@
         "Age":"35",
         "Role":"Batsman",
     },
+
     {
         "id": 1,
         "name": "Rohit Sharma ",
@@ -63,5 +64,51 @@
         "name": "Ravindra jadeja",
         "Age": "35",
         "Role": "Bowler",
+
+
+    
+  {
+        "id": 4,  
+        "Name": "Hardik",
+        "Age":"35",
+        "Role":"Batsman",
+    },
+    
+
+
+    
+    {
+        "id": 1,
+        "name": "m.s. dhoni",
+        "Age": "35",
+        "Role": "Allounder",
+
+    
+ {
+        "id": 4,  
+        "Name": "Hardik",
+        "Age":"35",
+        "Role":"Batsman",
+    },
+{
+        "id": 11,  
+        "Name": "Sruyakumar Yadav",
+        "Age":"30",
+        "Role":"Batsman",
+    },
+    
+ {
+        "id": 4,  
+        "Name": "suryakumar yadav",
+        "Age":"35",
+        "Role":"Batsman",
+    },
+{
+        "id": 1,
+        "name": "suryakumar yadav",
+        "Age": "35",
+        "Role": "Batting ",
+
     },
     ]
+
