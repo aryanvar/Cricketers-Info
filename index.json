@@ -45,11 +45,12 @@
         "Age":"35",
         "Role":"Batsman",
     },
+    
     {
         "id": 1,
-        "name": "Rohit Sharma ",
+        "name": "m.s. dhoni",
         "Age": "35",
-        "Role": "Batting Allounder",
+        "Role": "Allounder",
     },
     
      {
@@ -57,5 +58,11 @@
         "Name": "MS Dhoni",
         "Age":"35",
         "Role":"wicket kepper",
+    },
+    {
+        "id": 1,
+        "name": "sachin tendulkar ",
+        "Age": "35",
+        "Role": " Allounder",
     },
     ]
