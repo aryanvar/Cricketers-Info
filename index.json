@@ -45,18 +45,23 @@
         "Age":"35",
         "Role":"Batsman",
     },
-    ]
- {
-        "id": 4,  
-        "Name": "Yuraj sing",
-        "Age":"30",
-        "Role":"Batsman",
+    {
+        "id": 1,
+        "name": "Rohit Sharma ",
+        "Age": "35",
+        "Role": "Batting Allounder",
     },
     
+     {
+        "id": 4,  
+        "Name": "MS Dhoni",
+        "Age":"35",
+        "Role":"wicket kepper",
+    },
     {
-        "id": 10,  
-        "Name": "Jasprit Bhumrah",
-        "Age":"34",
-        "Role":"Bollwer",
+        "id": 1,
+        "name": "Ravindra jadeja",
+        "Age": "35",
+        "Role": "Bowler",
     },
     ]
