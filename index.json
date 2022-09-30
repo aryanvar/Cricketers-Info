@@ -317,6 +317,13 @@
         "Role": "Bowling",
     },
 
+    {
+        "id": 24,
+        "name": "Ross tyler",
+        "Age": "23",
+        "Role": "Batsman",
+    },
+
 
     ]
 
