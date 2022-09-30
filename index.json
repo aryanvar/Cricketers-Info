@@ -72,6 +72,12 @@
         "Role":"Batsman",
 
     },
+{
+        "id": 11,  
+        "Name": "Sruyakumar Yadav",
+        "Age":"30",
+        "Role":"Batsman",
+    },
     ]
  {
         "id": 4,  
