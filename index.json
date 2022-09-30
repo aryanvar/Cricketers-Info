@@ -226,6 +226,15 @@
         "name": "Nicholas Pooran",
         "Age": "30",
         "Role": "Batsman",
+
+    }
+
+{
+        "id": 526,
+        "name": "steve smith",
+        "Age": "33",
+        "Role": "batman",
+    
     },
 
 {
@@ -234,5 +243,6 @@
         "Age": "32",
         "Role": "Batsman",
     },
+
     ]
 
