@@ -46,7 +46,7 @@
         "Role":"Batsman",
     },
 
-    ]
+    
   {
         "id": 4,  
         "Name": "Hardik",
@@ -64,13 +64,11 @@
         "Role": "Allounder",
 
     
-
  {
         "id": 4,  
         "Name": "Hardik",
         "Age":"35",
         "Role":"Batsman",
-
     },
 {
         "id": 11,  
@@ -78,18 +76,18 @@
         "Age":"30",
         "Role":"Batsman",
     },
-    ]
+    
  {
         "id": 4,  
         "Name": "suryakumar yadav",
         "Age":"35",
         "Role":"Batsman",
     },
-    {
+{
         "id": 1,
-        "name": "sachin tendulkar ",
+        "name": "suryakumar yadav",
         "Age": "35",
-        "Role": " Allounder",
+        "Role": "Batting ",
     },
     ]
 
