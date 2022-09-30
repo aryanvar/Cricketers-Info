@@ -291,6 +291,12 @@
         "name": "M.S. Dhoni",
         "Age": "35",
         "Role": "Allounder",
+{
+        "id": 234,
+        "name": "Arshadee singh",
+        "Age": "23",
+        "Role": "Bowling",
+    },
 
 
     ]
