@@ -29,13 +29,6 @@
         "Role":"Batsman",
     },
     
-   {
-        "id": 5,  
-        "Name": "ms dhoni",
-        "Age":"34",
-        "Role":"Batsman",
-    },
-    
     
       {
         "id": 5,  
@@ -43,12 +36,20 @@
         "Age":"34",
         "Role":"Batsman",
     },
-       
+  
+        
   
     {
         "id": 4,  
         "Name": "Hardik",
         "Age":"35",
         "Role":"Batsman",
+    },
+    ]
+{
+        "id": 4,  
+        "Name": "MS Dhoni",
+        "Age":"35",
+        "Role":"wicket kepper",
     },
     ]
