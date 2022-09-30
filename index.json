@@ -316,7 +316,12 @@
         "Age": "23",
         "Role": "Bowling",
     },
-
+{
+        "id": 24,
+        "name": "Sam Curran",
+        "Age": "24",
+        "Role": "Allrounder",
+    },
 
     ]
 
