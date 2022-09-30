@@ -111,12 +111,10 @@
 
     },
     {
-        "id": 11,  
-        "Name": "Mahendra Singh Dhoni",
-        "Age":"41",
-        "Role":"Batsman",
+        "id": 15,  
+        "Name": "Rishab Pant",
+        "Age":"34",
+        "Role":" Wicketkeeper, Batsman",
     },
-    
-    
     ]
 
