@@ -269,9 +269,18 @@
     },
 
 {
+
+        "id": 1000,
+        "name": "Arshdeep Singh",
+        "Age": "23",
+        "Role": "Bowler",
+    },
+
+
         "name": "M.S. Dhoni",
         "Age": "35",
         "Role": "Allounder",
+
 
     ]
 
