@@ -45,7 +45,12 @@
         "Role":"kipper",
     },
   
-        
+        {
+        "id": 7,
+        "name": "Mayank Agarwal",
+        "Age": "31",
+        "Role": "Batter",
+    },
   
     {
         "id": 4,  
