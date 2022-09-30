@@ -52,4 +52,11 @@
         "Age":"30",
         "Role":"Batsman",
     },
+    
+    {
+        "id": 10,  
+        "Name": "Jasprit Bhumrah",
+        "Age":"34",
+        "Role":"Bollwer",
+    },
     ]
