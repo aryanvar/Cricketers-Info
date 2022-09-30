@@ -90,6 +90,9 @@
         "Age":"35",
         "Role":"Batsman",
     },
+
+    ]
+
 {
         "id": 11,  
         "Name": "Sruyakumar Yadav",
@@ -97,6 +100,7 @@
         "Role":"Batsman",
     },
     
+
  {
         "id": 4,  
         "Name": "suryakumar yadav",
@@ -110,11 +114,19 @@
         "Role": "Batting ",
 
     },
+
+         "id": 10,
+        "name": "umesh yadav ",
+        "Age": "38",
+        "Role": " Allounder",
+    },
+
     {
         "id": 15,  
         "Name": "Rishab Pant",
         "Age":"34",
         "Role":" Wicketkeeper, Batsman",
     },
+
     ]
 
