@@ -46,6 +46,26 @@
         "Role":"Batsman",
     },
 
+    {
+        "id": 1,
+        "name": "Rohit Sharma ",
+        "Age": "35",
+        "Role": "Batting Allounder",
+    },
+    
+     {
+        "id": 4,  
+        "Name": "MS Dhoni",
+        "Age":"35",
+        "Role":"wicket kepper",
+    },
+    {
+        "id": 1,
+        "name": "Ravindra jadeja",
+        "Age": "35",
+        "Role": "Bowler",
+
+
     
   {
         "id": 4,  
@@ -88,6 +108,7 @@
         "name": "suryakumar yadav",
         "Age": "35",
         "Role": "Batting ",
+
     },
     ]
 
