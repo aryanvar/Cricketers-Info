@@ -220,12 +220,19 @@
         "name": "KL Rahul",
         "Age": "30",
         "Role": "Right-handed",
-    }
+    },
 {
         "id": 997,
         "name": "Nicholas Pooran",
         "Age": "30",
         "Role": "Batsman",
-    }
+    },
+
+{
+        "id": 998,
+        "name": "warner",
+        "Age": "32",
+        "Role": "Batsman",
+    },
     ]
 
