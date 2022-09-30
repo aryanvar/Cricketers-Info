@@ -48,5 +48,11 @@
         "name": "Kunal pandya",
         "Age": "31",
         "Role": "Allounder"
+     {
+        "id": 6,
+        "name": "Jasprit Bumrah",
+        "Age": "28",
+        "Role": "Bawler",
+    },
     ]
 
