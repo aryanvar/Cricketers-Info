@@ -135,9 +135,15 @@
         "Age":"34",
         "Role":" Wicketkeeper, Batsman",
     },
+
+{
+        "id": 20,  
+        "Name": "Dinesh Karthik",
+
   {
         "id": 18,  
         "Name": "kuldeep yadav",
+
         "Age":"34",
         "Role":" Wicketkeeper, Batsman",
     },
