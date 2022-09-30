@@ -46,6 +46,16 @@
         "Role":"Batsman",
     },
 
+    ]
+  {
+        "id": 4,  
+        "Name": "Hardik",
+        "Age":"35",
+        "Role":"Batsman",
+    },
+    
+
+
     
     {
         "id": 1,
@@ -54,19 +64,20 @@
         "Role": "Allounder",
 
     
+
  {
         "id": 4,  
-        "Name": "Yuraj sing",
-        "Age":"30",
+        "Name": "Hardik",
+        "Age":"35",
         "Role":"Batsman",
 
     },
-    
-    {
-        "id": 10,  
-        "Name": "Jasprit Bhumrah",
-        "Age":"34",
-        "Role":"Bollwer",
+    ]
+ {
+        "id": 4,  
+        "Name": "suryakumar yadav",
+        "Age":"35",
+        "Role":"Batsman",
     },
     {
         "id": 1,
@@ -75,3 +86,4 @@
         "Role": " Allounder",
     },
     ]
+
