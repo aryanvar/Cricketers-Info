@@ -45,6 +45,7 @@
         "Age":"35",
         "Role":"Batsman",
     },
+
     ]
   {
         "id": 4,  
@@ -52,12 +53,24 @@
         "Age":"35",
         "Role":"Batsman",
     },
-    ]
+    
+
+
+    
+    {
+        "id": 1,
+        "name": "m.s. dhoni",
+        "Age": "35",
+        "Role": "Allounder",
+
+    
+
  {
         "id": 4,  
         "Name": "Hardik",
         "Age":"35",
         "Role":"Batsman",
+
     },
     ]
  {
@@ -65,6 +78,12 @@
         "Name": "suryakumar yadav",
         "Age":"35",
         "Role":"Batsman",
+    },
+    {
+        "id": 1,
+        "name": "sachin tendulkar ",
+        "Age": "35",
+        "Role": " Allounder",
     },
     ]
 
