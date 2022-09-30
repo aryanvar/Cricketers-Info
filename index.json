@@ -191,12 +191,7 @@
         "Age": "33",
         "Role": "Batting Allounder",
     },
-{
-        "id": 98,
-        "name": "Rajat Patidar",
-        "Age": "33",
-        "Role": "Batting Allounder",
-    },
+
 {
         "id": 99,
         "name": "Ricky Ponting",
@@ -227,6 +222,21 @@
         "Age": "30",
         "Role": "Batsman",
 
+    }
+ {
+        "id": 9,
+        "name": "KL Rahul",
+        "Age": "30",
+        "Role": "Right-handed",
+    }
+{
+        "id": 998,
+        "name": "Gautam Gambhir",
+        "Age": "40",
+        "Role": "Batting",
+    }
+
+
     },
 
 {
@@ -251,6 +261,7 @@
         "Age": "32",
         "Role": "Batsman",
     },
+
 
 
     ]
