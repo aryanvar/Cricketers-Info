@@ -46,7 +46,27 @@
         "Role":"Batsman",
     },
 
-    ]
+    {
+        "id": 1,
+        "name": "Rohit Sharma ",
+        "Age": "35",
+        "Role": "Batting Allounder",
+    },
+    
+     {
+        "id": 4,  
+        "Name": "MS Dhoni",
+        "Age":"35",
+        "Role":"wicket kepper",
+    },
+    {
+        "id": 1,
+        "name": "Ravindra jadeja",
+        "Age": "35",
+        "Role": "Bowler",
+
+
+    
   {
         "id": 4,  
         "Name": "Hardik",
@@ -64,31 +84,51 @@
         "Role": "Allounder",
 
     
-
  {
         "id": 4,  
         "Name": "Hardik",
         "Age":"35",
         "Role":"Batsman",
-
     },
+
     ]
+
+{
+        "id": 11,  
+        "Name": "Sruyakumar Yadav",
+        "Age":"30",
+        "Role":"Batsman",
+    },
+    
+
  {
         "id": 4,  
         "Name": "suryakumar yadav",
         "Age":"35",
         "Role":"Batsman",
     },
-    {
+{
         "id": 1,
-        "name": "sachin tendulkar ",
+        "name": "suryakumar yadav",
         "Age": "35",
-        "Role": " Allounder",
+        "Role": "Batting ",
+
     },
+
          "id": 10,
         "name": "umesh yadav ",
         "Age": "38",
         "Role": " Allounder",
     },
+
+    {
+        "id": 11,  
+        "Name": "Mahendra Singh Dhoni",
+        "Age":"41",
+        "Role":"Batsman",
+    },
+    
+    
+
     ]
 
