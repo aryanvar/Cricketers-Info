@@ -153,17 +153,15 @@
         "Role":" Wicketkeeper, Batsman",
     },
 
-{
-        "id": 20,  
-        "Name": "Dinesh Karthik",
-},
-
   {
         "id": 18,  
         "Name": "kuldeep yadav",
+        "Age": "32",
+        "Role": "Bowler",
   },
 {
-
+         "id": 20,  
+        "Name": "Dinesh Karthik",
         "Age":"34",
         "Role":" Wicketkeeper, Batsman"
 },
@@ -188,6 +186,7 @@
         "Age":"28",
         "Role":" Wicketkeeper, Batsman",
     },
+    {
         "id": 55,  
         "Name": " AB de Villiers ",
         "Age":"38",
@@ -307,7 +306,7 @@
     },
 {
 
-        "id": 1000,
+        "id": 100,
         "name": "Shreyas Iyer",
         "Age": "27",
         "Role": "Batsman",
@@ -394,14 +393,14 @@
      },
 {
 
-         "id":07,
+         "id":7,
          "Name":"Steve Smith",
          "Age":"33",
          "Role":"Batsman",
      },
 
-}
-         "id":020,
+    {
+         "id":20,
          "Name":"Arundhati Reddy",
          "Age":"25",
          "Role":"Bowler",
