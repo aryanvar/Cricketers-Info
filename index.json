@@ -171,6 +171,13 @@
         "Age": "32",
         "Role": "Bowler",
   },
+  {
+        "id": 56,  
+        "Name": "Irfan Pathan",
+        "Age": "37",
+        "Role": "All Rounder",
+  },   
+    
 {
          "id": 20,  
         "Name": "Dinesh Karthik",
