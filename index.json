@@ -124,6 +124,18 @@
         "Age":"30",
         "Role":"Batsman",
     },
+{
+        "id": 11,  
+        "Name": "Sruyakumar Yadav",
+        "Age":"30",
+        "Role":"Batsman",
+    },
+{
+        "id": 72,  
+        "Name": "Charith Asalanka",
+        "Age":"25",
+        "Role":"Batsman",
+    },
     
 
  {
@@ -437,6 +449,7 @@
          "Age":"31",
          "Role":"All Rounder",
      },
+
     
 {
 
@@ -447,6 +460,13 @@
          "Age":"73",
 
          "Role":"Batsman",
+
+},
+{
+         "id":98,
+         "Name":"Umran Malik",
+         "Age":"22",
+         "Role":"Fast Bowler",
 
      },
 
