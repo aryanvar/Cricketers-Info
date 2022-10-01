@@ -469,11 +469,19 @@
          "Role":"Batsman",
 
 },
-{
+    {
          "id":98,
          "Name":"Umran Malik",
          "Age":"22",
          "Role":"Fast Bowler",
+
+     },
+    
+     {
+         "id":333,
+         "Name":"Chahal",
+         "Age":"32",
+         "Role":"Spinner",
 
      },
 
