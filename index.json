@@ -139,7 +139,7 @@
         "Role": "Batting ",
 
     },
-
+    {
          "id": 10,
         "name": "Umesh yadav ",
         "Age": "38",
@@ -167,7 +167,6 @@
         "Age":"34",
         "Role":" Wicketkeeper, Batsman"
 },
-    },
          {
         "id": 18,  
         "Name": "kunal pandya ",
@@ -263,9 +262,6 @@
         "Age": "40",
         "Role": "Batting",
     },
-
-
-    },
  {
         "id": 76,  
         "Name": "piyush chawla",
@@ -281,7 +277,7 @@
         "Role": "Batsman",
     },
 
-
+{
         "id": 526,
         "name": "steve smith",
         "Age": "33",
@@ -362,10 +358,7 @@
         "Role": "Batsman",
     },
 
-
-    
-{
-    
+    {
         "id": 25,
         "name": "MS Dhoni",
         "Age": "41",
@@ -388,20 +381,20 @@
     },
 
     {
-         "id";56,
+         "id":56,
          "Name":"Babar Azam",
          "Age":"27",
          "Role":"Batsman",
      },
  {
-         "id";56,
+         "id":66,
          "Name":"de cock",
          "Age":"27",
          "Role":"Batsman",
      },
 {
 
-         "id";07,
+         "id":07,
          "Name":"Steve Smith",
          "Age":"33",
          "Role":"Batsman",
@@ -426,7 +419,7 @@
          "Role":"Bowler",
      },
  {
-         "id":220,
+         "id":120,
          "Name":"Gyale ",
          "Age":"27",
          "Role":"Batsmab",
