@@ -499,10 +499,17 @@
      },
     
      {
-         "id":71,
+         "id":72,
          "Name":"Rohit Sharma",
          "Age":"35",
          "Role":"Right Handed Batsman",
+
+     },
+     {
+         "id":73,
+         "Name":"Lance Klusener",
+         "Age":"51",
+         "Role":"batting and fast-medium swing bowling",
 
      },
 
