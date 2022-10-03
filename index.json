@@ -506,7 +506,6 @@
 
      },
     
-    
      {
          "id":73,
          "Name":"Mohammed Shami",
@@ -515,5 +514,47 @@
 
      },
 
-    ]
+     {
+         "id":73,
+         "Name":"Ajinkya Rahane",
+         "Age":"34",
+         "Role":"middle-order batsman",
 
+     },
+
+     {
+        "id":79,
+        "Name":"VVS Laxman",
+        "Age":"47",
+        "Role":"Right Handed Batsman",
+
+    },
+    {
+        "id":74,
+        "Name":"Zaheer Khan",
+        "Age":"43",
+        "Role":"Left-Arm Bowler",
+
+    },
+
+
+    
+    {
+        "id": 72,
+        "name": "Axar Patel",
+        "Age": "29",
+        "Role": "Bowler",
+    },
+    
+	 {
+	 	 "id":73,
+		 "Name":"Javagal Srinath",
+		 "Age":"53",
+		 "Role":"Right Handed Batsman",
+
+	 },
+	
+
+
+
+    ]
