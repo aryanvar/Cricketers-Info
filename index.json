@@ -505,6 +505,13 @@
          "Role":"Right Handed Batsman",
 
      },
+    
+    {
+        "id": 72,
+        "name": "Axar Patel",
+        "Age": "29",
+        "Role": "Bowler",
+    },
 
     ]
 
