@@ -604,5 +604,11 @@
        "Role":"Right Handed Batsman",
 
    },
+  {
+        "id": 12,
+        "name": "Ab deviliors",
+        "Age": "35",
+        "Role": "Batsman",
+    },
   
 ]
