@@ -730,11 +730,31 @@
         "Age": "23",
         "Role": "All rounder",
     },
-	
-    {
+	  {
         "id": 92,
         "Name": "Harleen Deol",
         "Age": "24",
         "Role": "Right-Handed Batsman",
     },	
+
+    {
+
+        "id": 92,
+        "Name": "Kedar Jadhav",
+        "Age": "37",
+        "Role": "All rounder",
+      },
+      {
+        "id": "Vivek-Battan",
+        "name": "Vivek",
+        "Age": "19",
+        "Role": "All Rounder",
+    },
+    {
+        "id": 92,
+        "Name": "Ashok Mulvantrai Mankad",
+        "Age": "23",
+        "Role": "A right-handed batsman",
+    },
+
 ]
