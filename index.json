@@ -625,4 +625,77 @@
         "Role": "Right-Handed Batsman",
     },
   
+   {
+        "id": 80,
+        "Name": "Smriti Mandhana",
+        "Age": "26",
+        "Role": "Left-Handed Batsman",
+    },
+    {
+        "id": 81,
+        "Name": "Jemimah Rodrigues",
+        "Age": "22",
+        "Role": "Right-Handed Batsman",
+	    
+    },
+    {
+        "id": 82,
+        "Name": "Harmanpreet Kaur",
+        "Age": "33",
+        "Role": "Right-Handed Batsman",
+    },
+   {
+        "id": 83,
+        "Name": "Renuka Singh",
+        "Age": "26",
+        "Role": "Bowler",
+    },
+ {
+        "id": 84,
+        "Name": "Deepti Sharma",
+        "Age": "25",
+        "Role": "Left-Handed Batsman",
+    },
+	 {
+        "id": 85,
+        "Name": "Mitahli Raj",
+        "Age": "39",
+        "Role": "Right-Handed Batsman",
+    },
+    {
+        "id": 86,
+        "Name": "Shafali Verma",
+        "Age": "18",
+        "Role": "Right-Handed Batsman",
+    },
+    {
+        "id": 87,
+        "Name": "Sabbhineni Meghana",
+        "Age": "26",
+        "Role": "Right-Handed Batsman",
+    },
+    {
+        "id": 88,
+        "Name": "Sneh Rana",
+        "Age": "28",
+        "Role": "Right-Handed Batsman",
+    },
+    {
+        "id": 89,
+        "Name": "Dayalan Hemlatha",
+        "Age": "28",
+        "Role": "Right-Handed Batsman",
+    },
+    {
+        "id": 90,
+        "Name": "Radha Yadav",
+        "Age": "22",
+        "Role": "Left-Handed Batsman",
+    },
+    {
+        "id": 91,
+        "Name": "Pooja Vastrakar",
+        "Age": "23",
+        "Role": "All rounder",
+    },
 ]
