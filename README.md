@@ -19,3 +19,6 @@ He is now an Indian international cricketer who is the current captain of the In
 
 ## Yuvraj Singh
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
+
+## AB de Villiers
+Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
