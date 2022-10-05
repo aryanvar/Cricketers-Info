@@ -17,3 +17,6 @@ Rohit Gurunath Sharma is an Indian international cricketer who is the current ca
 
 ## Rohit Sharma
 Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma. 
+
+## Yuvraj Singh
+Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
