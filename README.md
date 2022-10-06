@@ -62,3 +62,12 @@ Rahul had a middling tour of Australia with the India A team in July-August 2014
 
 A profitable IPL in 2016 set him up to make the Indian ODI and T20 squad that toured Zimbabwe in June, where he became the first batsman from his country to score a century on debut in 50-over cricket.
 Karthik Krishnaswamy
+
+
+## Chris Gayle
+
+Twenty20 cricket seemingly picked Chris Gayle as its ambassador, for he scored the very first hundred in the format and now uncontestedly owns almost every record there is, including that of the most runs (now 10,000+), most hundreds, fastest hundred, and most fours and sixes.
+
+Chris Gayle might stand tall at over six feet and wield his bat to make or break T20 leagues, but make no mistake about his affinity for Test cricket. His absenteeism from Tests later in his career may seem to suggest otherwise but Gayle has racked up 15 Test hundreds and over 7,000 runs across 103 matches so far, and frequently turns up for his many T20 franchises in jerseys numbered 333 - his highest First Class score, which he made against Sri Lanka at Galle, to become only the fourth batsman after Don Bradman, Brian Lara and Virender Sehwag with two Test triples in a lifetime.
+
+Renowned as one of the most barbarous hitters of the cricket ball ever - he once swung a Brett Lee delivery past the Lord Tennyson school outside Oval! - Gayle dismissed footwork to a famous cricketing redundancy of his time, and along with other contemporary opening batsmen in Tillakaratne Dilshan, Virender Sehwag, and Brendon McCullum later, fashioned a batting era characterized by an unreal dependence on hand-eye coordination and breakneck run-scoring across formats. No wonder he became the first batsman to hit the first ball of a Test match for a six. And it's only fair that he beat Sehwag to become the fastest double centurion in ODIs, minting 215 off 147 in a World Cup game against Zimbabwe in Canberra, 2015.
