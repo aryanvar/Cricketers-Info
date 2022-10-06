@@ -611,6 +611,21 @@
        "Role":"Right Handed Batsman",
     },
 
+    {
+        "id":78,
+        "Name":"Bhuvneshwar Kumar Singh",
+        "Age":"32",
+        "Role":"Right-arm medium bowler",
+    },
+
+
+     },
+    {
+       "id":99,
+       "Name":"Chris Gayle",
+       "Age":"43",
+       "Role":"Batsman",
+    },
 
    {
         "id":75,
@@ -762,6 +777,7 @@
         "Age": "29",
         "Role": "A right-handed batsman",
     },
+
     {
         "id": 94,
         "name": "Suresh Raina",
@@ -769,5 +785,12 @@
         "Role": "Attacking lefthander",
     },
 
+
+	{
+        "id": 94,
+        "Name": "Adam Gilchrist",
+        "Age": "56",
+        "Role": "right-handed batsman",
+    },
 
 ]
