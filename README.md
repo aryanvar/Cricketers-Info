@@ -62,3 +62,14 @@ Rahul had a middling tour of Australia with the India A team in July-August 2014
 
 A profitable IPL in 2016 set him up to make the Indian ODI and T20 squad that toured Zimbabwe in June, where he became the first batsman from his country to score a century on debut in 50-over cricket.
 Karthik Krishnaswamy
+
+
+## HARDIK PANDYA
+
+Hardik Himanshu Pandya is an Indian international cricketer who plays for the Indian national cricket team at the international level and the Baroda cricket team in Indian domestic cricket. He currently captains the newly debuted franchise Gujarat Titans in the Indian Premier League (IPL) and led them to their maiden IPL title in the 2022 edition. He is an all-rounder who bats right-handed and bowls right-arm fast-medium.
+
+Hardik Pandya was born on 11 October 1993 in Surat, Gujarat. His father, Himanshu Pandya, ran a small car finance business in Surat which he shut down and moved to Vadodara when Hardik was five to provide his sons with better cricket training facilities. Himanshu Pandya worked as Loan agent in Vadodara. He enrolled his two sons into Kiran More's cricket academy in Vadodara. Lacking finances, the Pandya family lived in a rented apartment in Gorwa, with the brothers using a second-hand car to travel to the cricket ground. Hardik studied at the MK High School until ninth grade before dropping out to focus on cricket.
+
+Hardik made steady progress in junior-level cricket, and according to Krunal, "won a lot of matches single-handedly" in club cricket. In an interview with the Indian Express, Hardik revealed that he was dropped from his state age-group teams due to his "attitude problems". He added that he was "just an expressive child" who did not "like to hide his emotions."
+
+Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
