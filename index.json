@@ -762,5 +762,11 @@
         "Age": "29",
         "Role": "A right-handed batsman",
     },
+	{
+        "id": 94,
+        "Name": "Adam Gilchrist",
+        "Age": "56",
+        "Role": "right-handed batsman",
+    },
 
 ]
