@@ -469,6 +469,12 @@
          "Role":"Fast Bowler",
 
      },
+    {
+       "id":99,
+       "Name":"Chris Gayle",
+       "Age":"43",
+       "Role":"Batsman",
+    },
 
     
     ]
