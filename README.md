@@ -29,7 +29,6 @@ He is now an Indian international cricketer who is the current captain of the In
 
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
 
-
 ## AB de Villiers
 Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
 
@@ -48,6 +47,13 @@ He made his maiden Test century against Bangladesh and was India's leading score
 Kapil Dev was known for his energetic curved run-up and lethal outswingers as a result of that open-chested action. With the bat, he was an aggressive lower-middle order batsman who could cause carnage with the bat in an era before helmets, monster bats, or T20s. On the field, he was known for his inspirational leadership and athletic fielding. Perhaps the fittest and most disciplined man in the Indian dressing room at the time, Kapil is still remembered for that backward running catch of Sir Vivian Richards. Furthermore, Kapil Dev never missed a Test match due to fitness issues. It would be fair to say that his value to the team lay beyond numbers, but even the stats bow down before him: he remains the only man in the history of the game to have taken 400 wickets and scored more than 5000 runs in Test cricket - making him one of the greatest all-rounders of all time.
 
 Kapil made his debut in 1978 and gradually started to produce performances of substance, especially in Test cricket. In his early years, he came across as a raw talent who was keen on just 'ripping his shoulder off' every ball, and 'tonking the leather off the ball' when he had the bat. The approach saw him score India's fastest Test half-century (off 33 balls) against Pakistan in his very third match. He came of age in the home series against Pakistan in 1979-80, where his all-round performances (32 wickets and 278 runs) helped India win 2 Tests. In the series, he became the youngest player to reach 100 wickets and 1000 runs in Test cricket. For the next two seasons, steady performances with the ball and useful contributions with the bat made him a certainty in the side and a viable candidate for captainship. Perhaps due to the nascent stages of the format or his priorities stacked up in favour of Test cricket, his ODI performances didn't quite live up to his antics in Test cricket.
+
+
+And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175\* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
+
+## RISHAB PANT
+
+At 19, Rishabh Pant has gone through all the highs and lows of a cricketing career. A promising talent from Delhi, Pant came into reckoning after his exploits for India Under-19 in the 2016 World Cup. A dashing left-handed wicket-keeper batsman, he lit up the tournament with a blitzing 24-ball 75, the fastest half-century of the tournament, against Nepal and followed it up with a century against Namibia. India lost the title round - but came back with several positives - nothing bigger than the emergence of Pant.
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
@@ -82,4 +88,5 @@ Hardik Pandya was born on 11 October 1993 in Surat, Gujarat. His father, Himansh
 Hardik made steady progress in junior-level cricket, and according to Krunal, "won a lot of matches single-handedly" in club cricket. In an interview with the Indian Express, Hardik revealed that he was dropped from his state age-group teams due to his "attitude problems". He added that he was "just an expressive child" who did not "like to hide his emotions."
 
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
+
 
