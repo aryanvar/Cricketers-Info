@@ -20,6 +20,12 @@
         "Age": "34",
         "Role": "Batsman",
     },
+{
+        "id": 94,
+        "Name": "Avesh Khan",
+        "Age": "25",
+        "Role": "Fast Bowler",
+    },
 
 
     {
@@ -611,6 +617,21 @@
        "Role":"Right Handed Batsman",
     },
 
+    {
+        "id":78,
+        "Name":"Bhuvneshwar Kumar Singh",
+        "Age":"32",
+        "Role":"Right-arm medium bowler",
+    },
+
+
+     },
+    {
+       "id":99,
+       "Name":"Chris Gayle",
+       "Age":"43",
+       "Role":"Batsman",
+    },
 
    {
         "id":75,
@@ -761,6 +782,33 @@
         "Name": "Arnav Great",
         "Age": "29",
         "Role": "A right-handed batsman",
+    },
+    {
+        "id": 94,
+        "Name": "Sachin Tendulkar",
+        "Age": "48",
+        "Role": "A right-handed batsman",
+
+        "id": 95,
+        "Name": "Dale Steyn",
+        "Age": "39",
+        "Role": "Fast Bowler",
+    },
+
+    {
+        "id": 94,
+        "name": "Suresh Raina",
+        "Age": "35",
+        "Role": "Attacking lefthander",
+    },
+
+
+	{
+        "id": 94,
+        "Name": "Adam Gilchrist",
+        "Age": "56",
+        "Role": "right-handed batsman",
+
     },
 
 ]
