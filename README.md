@@ -4,6 +4,10 @@ Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence
 Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
 Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
 
+## Sachin Tendulkar
+Sachin Tendulkar, in full Sachin Ramesh Tendulkar, (born April 24, 1973, Bombay [Mumbai], India), Indian professional cricket player, considered by many to be one of the greatest batsmen of all time. In 2012 he became the first cricketer to score 100 centuries (100 runs in a single innings) in international play.
+Tendulkar was given his first bat when he was 11 years of age. As a 14-year-old, he used it to score 329 out of a world-record stand of 664 in a school match. A year later he scored a century on his first-class debut for Bombay (Mumbai), and at age 16 years 205 days he became India’s youngest Test (international) cricketer, making his debut against Pakistan in Karachi in November 1989. When he was 18 he scored two centuries in Australia (148 in Sydney and 114 in Perth), and in 1994 he scored 179 against the West Indies. In August 1996, at age 23, Tendulkar was made captain of his country’s team.
+
 ## Mahendra Singh Dhoni
 
 Mahendra Singh Dhoni was born on July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
