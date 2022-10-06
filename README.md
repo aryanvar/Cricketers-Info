@@ -24,6 +24,9 @@ He is now an Indian international cricketer who is the current captain of the In
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
 
 
+## Jasprit Bumrah
+In an Indian team desperately searching for a death overs' bowler, Jasprit Bumrah came to the fore through the Indian Premier League, as a boon for cricket in the country. The scantily-built pacer from Gujarat has managed to perfect the art of bowling inch-perfect yorkers as an understudy to Lasith Malinga as a part of the Mumbai Indians franchise and has grown into an indispensable asset for the Indian team in the limited-overs format.
+
 ## DINESH KARTIK
 
 Krishnakumar Dinesh Karthik (born 1 June 1985) is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. He made his debut for the Indian cricket team in 2004. Karthik has become the 4th Indian batsman to play 300 T20 matches.[1]
