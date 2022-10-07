@@ -817,4 +817,11 @@
         "Age": "92",
         "Role": "Attacking righthander",
     },
+	
+	{
+        "id": 97,
+        "name": "Rajat Patidar",
+        "Age": "29",
+        "Role": "Batsman",
+    },
 ]
