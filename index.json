@@ -817,10 +817,35 @@
         "Age": "92",
         "Role": "Attacking righthander",
     },
+
 	{
         "id": 96,
         "name": "Kamlesh Nagarkoti",
         "Age": "22",
         "Role": "Right-Arm Fast Bowler",
     },
+
+	
+	{
+        "id": 96,
+        "name": "Brendon McCullum",
+        "Age": "41",
+        "Role": "Batsman",
+    },
+
+    {
+        "id": 96,
+        "name": "Steve Miller",
+        "Age": "35",
+        "Role": "wicket kepper Batsmen",   
+    },
+
+	
+	{
+        "id": 97,
+        "name": "Rajat Patidar",
+        "Age": "29",
+        "Role": "Batsman",
+    },
+
 ]
