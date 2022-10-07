@@ -73,3 +73,13 @@ Hardik Pandya was born on 11 October 1993 in Surat, Gujarat. His father, Himansh
 Hardik made steady progress in junior-level cricket, and according to Krunal, "won a lot of matches single-handedly" in club cricket. In an interview with the Indian Express, Hardik revealed that he was dropped from his state age-group teams due to his "attitude problems". He added that he was "just an expressive child" who did not "like to hide his emotions."
 
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
+
+
+## SANJU SAMSON
+
+Sanju Viswanath Samson is an Indian International Cricketer who captains Kerala in domestic cricket and Rajasthan Royals in Indian Premier League (IPL). A right-handed top-order batter and wicketkeeper, he was the vice-captain of the Indian U-19 team for the 2014 Under-19 Cricket World Cup.
+
+He made his India debut in the 2015 away T20I against Zimbabwe.
+He made his ODI debut in 2021 against Sri Lanka.
+
+Sanju started his cricketing career in Delhi and later moved to Kerala in his early teens. After creating waves in junior cricket, he made his first-class debut for Kerala in 2011. He made his IPL debut in 2013 for Rajasthan Royals and won the Emerging Player of the Year. He scored an unbeaten 212 in the 2019-20 Vijay Hazare Trophy in the sixth instance an Indian scored a double-century in List A cricket, which is also the second-fastest double ton in the format.
