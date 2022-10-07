@@ -590,6 +590,22 @@
 	 },
 
 	 {
+
+	 	 "id":74,
+		 "Name":"Bishan Singh Bedi",
+		 "Age":"76",
+		 "Role":"Left-Arm Bowler",
+
+	 },
+     {
+        "id":75,
+       "Name":"Venkatesh Prasad",
+       "Age":"53",
+       "Role":"Right-Arm Bowler",
+
+   },
+   
+
 	 	 "id":75,
 		 "Name":"Venkatesh Prasad",
 		 "Age":"53",
@@ -847,6 +863,7 @@
         "Age": "35",
         "Role": "wicket kepper Batsmen",   
     },
+
 
 	
 	{
