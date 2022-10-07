@@ -836,6 +836,15 @@
 
 	{
         "id": 96,
+        "name": "Jean Paul Duminy",
+        "Age": "38",
+        "Role": "Right Arm Offbreak All Rounder",
+    },
+	
+
+
+	{
+        "id": 96,
         "name": "Mitchell Johnson",
         "Age": "40",
         "Role": "Bowler",
@@ -880,6 +889,5 @@
         "Age": "29",
         "Role": "Batsman",
     },
-
 
 ]
