@@ -817,6 +817,14 @@
         "Age": "92",
         "Role": "Attacking righthander",
     },
+
+    {
+        "id": 96,
+        "name": "Steve Miller",
+        "Age": "35",
+        "Role": "wicket kepper Batsmen",   
+    },
+
 	
 	{
         "id": 97,
@@ -824,4 +832,5 @@
         "Age": "29",
         "Role": "Batsman",
     },
+
 ]
