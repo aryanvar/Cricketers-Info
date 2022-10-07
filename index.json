@@ -817,6 +817,14 @@
         "Age": "92",
         "Role": "Attacking righthander",
     },
+
+	{
+        "id": 96,
+        "name": "Kamlesh Nagarkoti",
+        "Age": "22",
+        "Role": "Right-Arm Fast Bowler",
+    },
+
 	
 	{
         "id": 96,
@@ -839,6 +847,5 @@
         "Age": "29",
         "Role": "Batsman",
     },
-
 
 ]
