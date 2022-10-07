@@ -62,3 +62,10 @@ Rahul had a middling tour of Australia with the India A team in July-August 2014
 
 A profitable IPL in 2016 set him up to make the Indian ODI and T20 squad that toured Zimbabwe in June, where he became the first batsman from his country to score a century on debut in 50-over cricket.
 Karthik Krishnaswamy
+
+
+## Bhuvneshwar kumar
+
+Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricketer and a former limited overs vice captain who plays for Uttar Pradesh in domestic first-class cricket and for Sunrisers Hyderabad in the Indian Premier League. He is considered to be one of the best swing bowlers in the world. Kumar swings the ball both ways efficiently, with his inswingers more effective than outswing.
+
+He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
