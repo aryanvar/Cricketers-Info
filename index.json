@@ -912,5 +912,12 @@
         "Role": "left handed batsman",
 
     },
+    {
+        "id": 100,
+        "Name": "Sanju Samson",
+        "Age": "27",
+        "Role": "A right-handed batsman",
+    },
+
 
 ]
