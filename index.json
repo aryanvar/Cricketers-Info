@@ -590,6 +590,22 @@
 	 },
 
 	 {
+
+	 	 "id":74,
+		 "Name":"Bishan Singh Bedi",
+		 "Age":"76",
+		 "Role":"Left-Arm Bowler",
+
+	 },
+     {
+        "id":75,
+       "Name":"Venkatesh Prasad",
+       "Age":"53",
+       "Role":"Right-Arm Bowler",
+
+   },
+   
+
 	 	 "id":75,
 		 "Name":"Venkatesh Prasad",
 		 "Age":"53",
@@ -817,10 +833,53 @@
         "Age": "92",
         "Role": "Attacking righthander",
     },
+
 	{
         "id": 96,
         "name": "Mitchell Johnson",
         "Age": "40",
         "Role": "Bowler",
     },
+
+
+	{
+        "id": 96,
+        "name": "Dale Steyn",
+        "Age": "39",
+        "Role": "Right-Handed Bowler",
+    },
+
+
+	{
+        "id": 96,
+        "name": "Kamlesh Nagarkoti",
+        "Age": "22",
+        "Role": "Right-Arm Fast Bowler",
+    },
+
+	
+	{
+        "id": 96,
+        "name": "Brendon McCullum",
+        "Age": "41",
+        "Role": "Batsman",
+    },
+
+    {
+        "id": 96,
+        "name": "Steve Miller",
+        "Age": "35",
+        "Role": "wicket kepper Batsmen",   
+    },
+
+
+	
+	{
+        "id": 97,
+        "name": "Rajat Patidar",
+        "Age": "29",
+        "Role": "Batsman",
+    },
+
+
 ]
