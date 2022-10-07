@@ -820,6 +820,14 @@
 
 	{
         "id": 96,
+        "name": "Dale Steyn",
+        "Age": "39",
+        "Role": "Right-Handed Bowler",
+    },
+
+
+	{
+        "id": 96,
         "name": "Kamlesh Nagarkoti",
         "Age": "22",
         "Role": "Right-Arm Fast Bowler",
@@ -847,5 +855,6 @@
         "Age": "29",
         "Role": "Batsman",
     },
+
 
 ]
