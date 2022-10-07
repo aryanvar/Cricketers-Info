@@ -90,3 +90,25 @@ Hardik made steady progress in junior-level cricket, and according to Krunal, "w
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
 
 
+
+## SANJU SAMSON
+
+Sanju Viswanath Samson is an Indian International Cricketer who captains Kerala in domestic cricket and Rajasthan Royals in Indian Premier League (IPL). A right-handed top-order batter and wicketkeeper, he was the vice-captain of the Indian U-19 team for the 2014 Under-19 Cricket World Cup.
+
+He made his India debut in the 2015 away T20I against Zimbabwe.
+He made his ODI debut in 2021 against Sri Lanka.
+
+Sanju started his cricketing career in Delhi and later moved to Kerala in his early teens. After creating waves in junior cricket, he made his first-class debut for Kerala in 2011. He made his IPL debut in 2013 for Rajasthan Royals and won the Emerging Player of the Year. He scored an unbeaten 212 in the 2019-20 Vijay Hazare Trophy in the sixth instance an Indian scored a double-century in List A cricket, which is also the second-fastest double ton in the format.
+
+## DALE STEYN
+
+Dale steyn is an south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
+
+steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
+
+## Bhuvneshwar kumar
+
+Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricketer and a former limited overs vice captain who plays for Uttar Pradesh in domestic first-class cricket and for Sunrisers Hyderabad in the Indian Premier League. He is considered to be one of the best swing bowlers in the world. Kumar swings the ball both ways efficiently, with his inswingers more effective than outswing.
+
+He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
+

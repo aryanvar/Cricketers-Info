@@ -605,7 +605,7 @@
 
    },
    
-
+	{
 	 	 "id":75,
 		 "Name":"Venkatesh Prasad",
 		 "Age":"53",
@@ -619,6 +619,7 @@
 		 "Age":"53",
 		 "Role":"Right Handed Batsman",
 	 },
+
 	{
         "id":77,
         "Name":"Dilip Vengasarkar",
@@ -633,15 +634,13 @@
        "Role":"Right Handed Batsman",
     },
 
-    {
+   {
         "id":78,
         "Name":"Bhuvneshwar Kumar Singh",
         "Age":"32",
         "Role":"Right-arm medium bowler",
     },
 
-
-     },
     {
        "id":99,
        "Name":"Chris Gayle",
@@ -767,6 +766,12 @@
         "Age": "23",
         "Role": "All rounder",
     },
+    {
+        "id": 92,
+        "Name": "Umesh Yadav",
+        "Age": "34",
+        "Role": "Right-Arm Fast Bowler",
+    },
 	  {
         "id": 92,
         "Name": "Harleen Deol",
@@ -881,21 +886,44 @@
         "Role": "wicket kepper Batsmen",   
     },
 
-
-	
 	{
         "id": 97,
         "name": "Rajat Patidar",
         "Age": "29",
         "Role": "Batsman",
     },
+
 	{
         "id": 98,
         "name": "Tony Munyonga",
         "Age": "23",
         "Role": "All Rounder",
     },
+	
+	{
+        "id": 98,
+        "name": "virat Kholi",
+        "Age": "29",
+        "Role": "Batsman",
+ },
+         {
+        "id": 98,
+        "name": "Jacques Kallis",
+        "Age": "29",
+        "Role": "Right handed batsman",
+    },	
+	{
+        "id": 99,
+        "name": "Mujeeb Ur Rahman",
+        "Age": "21",
+        "Role": "left handed batsman",
 
-
-
+    },
+    {
+        "id": 100,
+        "Name": "Sanju Samson",
+        "Age": "27",
+        "Role": "A right-handed batsman",
+    },
+    
 ]
