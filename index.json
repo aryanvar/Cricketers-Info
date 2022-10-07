@@ -880,14 +880,19 @@
         "Role": "wicket kepper Batsmen",   
     },
 
-
-	
 	{
         "id": 97,
         "name": "Rajat Patidar",
         "Age": "29",
         "Role": "Batsman",
     },
+	
+	{
+        "id": 98,
+        "name": "virat Kholi",
+        "Age": "29",
+        "Role": "Batsman",
+ },
          {
         "id": 98,
         "name": "Jacques Kallis",
@@ -899,6 +904,7 @@
         "name": "Mujeeb Ur Rahman",
         "Age": "21",
         "Role": "left handed batsman",
+
     },
 
 ]
