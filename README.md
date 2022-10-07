@@ -89,4 +89,10 @@ Hardik made steady progress in junior-level cricket, and according to Krunal, "w
 
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
 
+## DALE STEYN
+
+Dale steyn is an south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
+
+steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
+
 
