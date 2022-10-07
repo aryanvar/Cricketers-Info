@@ -95,4 +95,8 @@ Dale steyn is an south african international cricketer who plays for the south a
 
 steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
 
+## Bhuvneshwar kumar
 
+Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricketer and a former limited overs vice captain who plays for Uttar Pradesh in domestic first-class cricket and for Sunrisers Hyderabad in the Indian Premier League. He is considered to be one of the best swing bowlers in the world. Kumar swings the ball both ways efficiently, with his inswingers more effective than outswing.
+
+He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
