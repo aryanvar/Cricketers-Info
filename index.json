@@ -892,6 +892,13 @@
         "Age": "29",
         "Role": "Batsman",
     },
+
+	{
+        "id": 98,
+        "name": "Tony Munyonga",
+        "Age": "23",
+        "Role": "All Rounder",
+    },
 	
 	{
         "id": 98,
@@ -918,6 +925,5 @@
         "Age": "27",
         "Role": "A right-handed batsman",
     },
-
-
+    
 ]
