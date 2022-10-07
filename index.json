@@ -20,6 +20,12 @@
         "Age": "34",
         "Role": "Batsman",
     },
+{
+        "id": 94,
+        "Name": "Avesh Khan",
+        "Age": "25",
+        "Role": "Fast Bowler",
+    },
 
 
     {
@@ -584,6 +590,22 @@
 	 },
 
 	 {
+
+	 	 "id":74,
+		 "Name":"Bishan Singh Bedi",
+		 "Age":"76",
+		 "Role":"Left-Arm Bowler",
+
+	 },
+     {
+        "id":75,
+       "Name":"Venkatesh Prasad",
+       "Age":"53",
+       "Role":"Right-Arm Bowler",
+
+   },
+   
+	{
 	 	 "id":75,
 		 "Name":"Venkatesh Prasad",
 		 "Age":"53",
@@ -597,6 +619,7 @@
 		 "Age":"53",
 		 "Role":"Right Handed Batsman",
 	 },
+
 	{
         "id":77,
         "Name":"Dilip Vengasarkar",
@@ -611,6 +634,19 @@
        "Role":"Right Handed Batsman",
     },
 
+   {
+        "id":78,
+        "Name":"Bhuvneshwar Kumar Singh",
+        "Age":"32",
+        "Role":"Right-arm medium bowler",
+    },
+
+    {
+       "id":99,
+       "Name":"Chris Gayle",
+       "Age":"43",
+       "Role":"Batsman",
+    },
 
    {
         "id":75,
@@ -731,6 +767,19 @@
         "Role": "All rounder",
     },
     {
+        "id": 92,
+        "Name": "Umesh Yadav",
+        "Age": "34",
+        "Role": "Right-Arm Fast Bowler",
+    },
+	  {
+        "id": 92,
+        "Name": "Harleen Deol",
+        "Age": "24",
+        "Role": "Right-Handed Batsman",
+    },	
+
+    {
 
         "id": 92,
         "Name": "Kedar Jadhav",
@@ -751,8 +800,124 @@
     },
     {
         "id": 93,
+        "Name": "Arnav Great",
+        "Age": "29",
+        "Role": "A right-handed batsman",
+    },
+    {
+        "id": 94,
+        "Name": "Sachin Tendulkar",
+        "Age": "48",
+        "Role": "A right-handed batsman",
+
+        "id": 95,
+        "Name": "Dale Steyn",
+        "Age": "39",
+        "Role": "Fast Bowler",
+    },
+
+    {
+        "id": 94,
+        "name": "Suresh Raina",
+        "Age": "35",
+        "Role": "Attacking lefthander",
+    },
+
+
+	{
+        "id": 94,
+        "Name": "Adam Gilchrist",
+        "Age": "56",
+        "Role": "right-handed batsman",
+
+    },
+
+	{
+        "id": 95,
+        "name": "Sir Don Bradman",
+        "Age": "92",
+        "Role": "Attacking righthander",
+    },
+
+	{
+        "id": 96,
+        "name": "Jean Paul Duminy",
+        "Age": "38",
+        "Role": "Right Arm Offbreak All Rounder",
+    },
+	
+
+
+	{
+        "id": 96,
+        "name": "Mitchell Johnson",
+        "Age": "40",
+        "Role": "Bowler",
+    },
+
+
+	{
+        "id": 96,
+        "name": "Dale Steyn",
+        "Age": "39",
+        "Role": "Right-Handed Bowler",
+    },
+
+
+	{
+        "id": 96,
+        "name": "Kamlesh Nagarkoti",
+        "Age": "22",
+        "Role": "Right-Arm Fast Bowler",
+    },
+
+	
+	{
+        "id": 96,
+        "name": "Brendon McCullum",
+        "Age": "41",
+        "Role": "Batsman",
+    },
+
+    {
+        "id": 96,
+        "name": "Steve Miller",
+        "Age": "35",
+        "Role": "wicket kepper Batsmen",   
+    },
+
+	{
+        "id": 97,
+        "name": "Rajat Patidar",
+        "Age": "29",
+        "Role": "Batsman",
+    },
+	
+	{
+        "id": 98,
+        "name": "virat Kholi",
+        "Age": "29",
+        "Role": "Batsman",
+ },
+         {
+        "id": 98,
+        "name": "Jacques Kallis",
+        "Age": "29",
+        "Role": "Right handed batsman",
+    },	
+	{
+        "id": 99,
+        "name": "Mujeeb Ur Rahman",
+        "Age": "21",
+        "Role": "left handed batsman",
+
+    },
+    {
+        "id": 100,
         "Name": "Sanju Samson",
         "Age": "27",
         "Role": "A right-handed batsman",
     },
+
+
 ]
