@@ -11,6 +11,8 @@ Tendulkar was given his first bat when he was 11 years of age. As a 14-year-old,
 ## Mahendra Singh Dhoni
 
 Mahendra Singh Dhoni was born on July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
+He was captain of the Indian national cricket team in limited-overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. He is a right handed wicket-keeper batsman.He led the team to three ICC trophies including the 2007 ICC World Twenty20, 2011 ICC Cricket World Cup and 2013 ICC Champions Trophy. Under his captaincy, India won the ACC Asia Cup two times, in 2010 and 2016. India also won ICC Test Championship Mace two times in 2010, 2011 and ICC ODI Shield for one time in 2013 under his leadership. He is considered as one of the greatest Captains and Wicket Keeper Batsman of all time.Throughout his 15 year long international career, Dhoni has won several awards and accolades.
+In Indian domestic cricket he played for Bihar and Jharkhand Cricket team. He is the captain of Chennai Super Kings (CSK) in the Indian Premier League. He captained the side to championships in the 2010, 2011, 2018 and 2021 editions of IPL league. Also under his captaincy Chennai Super Kings (CSK) Won Champions League T20 two times, in 2010 and 2014.
 
 ## Virat Kohli
 
@@ -26,7 +28,6 @@ He is now an Indian international cricketer who is the current captain of the In
 ## Yuvraj Singh
 
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
-
 
 ## AB de Villiers
 Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
@@ -47,6 +48,13 @@ Kapil Dev was known for his energetic curved run-up and lethal outswingers as a 
 
 Kapil made his debut in 1978 and gradually started to produce performances of substance, especially in Test cricket. In his early years, he came across as a raw talent who was keen on just 'ripping his shoulder off' every ball, and 'tonking the leather off the ball' when he had the bat. The approach saw him score India's fastest Test half-century (off 33 balls) against Pakistan in his very third match. He came of age in the home series against Pakistan in 1979-80, where his all-round performances (32 wickets and 278 runs) helped India win 2 Tests. In the series, he became the youngest player to reach 100 wickets and 1000 runs in Test cricket. For the next two seasons, steady performances with the ball and useful contributions with the bat made him a certainty in the side and a viable candidate for captainship. Perhaps due to the nascent stages of the format or his priorities stacked up in favour of Test cricket, his ODI performances didn't quite live up to his antics in Test cricket.
 
+
+And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175\* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
+
+## RISHAB PANT
+
+At 19, Rishabh Pant has gone through all the highs and lows of a cricketing career. A promising talent from Delhi, Pant came into reckoning after his exploits for India Under-19 in the 2016 World Cup. A dashing left-handed wicket-keeper batsman, he lit up the tournament with a blitzing 24-ball 75, the fastest half-century of the tournament, against Nepal and followed it up with a century against Namibia. India lost the title round - but came back with several positives - nothing bigger than the emergence of Pant.
+
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
 
@@ -63,6 +71,13 @@ Rahul had a middling tour of Australia with the India A team in July-August 2014
 A profitable IPL in 2016 set him up to make the Indian ODI and T20 squad that toured Zimbabwe in June, where he became the first batsman from his country to score a century on debut in 50-over cricket.
 Karthik Krishnaswamy
 
+## Chris Gayle
+
+Twenty20 cricket seemingly picked Chris Gayle as its ambassador, for he scored the very first hundred in the format and now uncontestedly owns almost every record there is, including that of the most runs (now 10,000+), most hundreds, fastest hundred, and most fours and sixes.
+
+Chris Gayle might stand tall at over six feet and wield his bat to make or break T20 leagues, but make no mistake about his affinity for Test cricket. His absenteeism from Tests later in his career may seem to suggest otherwise but Gayle has racked up 15 Test hundreds and over 7,000 runs across 103 matches so far, and frequently turns up for his many T20 franchises in jerseys numbered 333 - his highest First Class score, which he made against Sri Lanka at Galle, to become only the fourth batsman after Don Bradman, Brian Lara and Virender Sehwag with two Test triples in a lifetime.
+
+Renowned as one of the most barbarous hitters of the cricket ball ever - he once swung a Brett Lee delivery past the Lord Tennyson school outside Oval! - Gayle dismissed footwork to a famous cricketing redundancy of his time, and along with other contemporary opening batsmen in Tillakaratne Dilshan, Virender Sehwag, and Brendon McCullum later, fashioned a batting era characterized by an unreal dependence on hand-eye coordination and breakneck run-scoring across formats. No wonder he became the first batsman to hit the first ball of a Test match for a six. And it's only fair that he beat Sehwag to become the fastest double centurion in ODIs, minting 215 off 147 in a World Cup game against Zimbabwe in Canberra, 2015.
 
 ## HARDIK PANDYA
 
@@ -75,6 +90,7 @@ Hardik made steady progress in junior-level cricket, and according to Krunal, "w
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
 
 
+
 ## SANJU SAMSON
 
 Sanju Viswanath Samson is an Indian International Cricketer who captains Kerala in domestic cricket and Rajasthan Royals in Indian Premier League (IPL). A right-handed top-order batter and wicketkeeper, he was the vice-captain of the Indian U-19 team for the 2014 Under-19 Cricket World Cup.
@@ -83,3 +99,16 @@ He made his India debut in the 2015 away T20I against Zimbabwe.
 He made his ODI debut in 2021 against Sri Lanka.
 
 Sanju started his cricketing career in Delhi and later moved to Kerala in his early teens. After creating waves in junior cricket, he made his first-class debut for Kerala in 2011. He made his IPL debut in 2013 for Rajasthan Royals and won the Emerging Player of the Year. He scored an unbeaten 212 in the 2019-20 Vijay Hazare Trophy in the sixth instance an Indian scored a double-century in List A cricket, which is also the second-fastest double ton in the format.
+
+## DALE STEYN
+
+Dale steyn is an south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
+
+steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
+
+## Bhuvneshwar kumar
+
+Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricketer and a former limited overs vice captain who plays for Uttar Pradesh in domestic first-class cricket and for Sunrisers Hyderabad in the Indian Premier League. He is considered to be one of the best swing bowlers in the world. Kumar swings the ball both ways efficiently, with his inswingers more effective than outswing.
+
+He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
+
