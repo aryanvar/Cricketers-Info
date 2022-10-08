@@ -925,5 +925,12 @@
         "Age": "27",
         "Role": "A right-handed batsman",
     },
+	{
+        "id": 101,
+        "name": "Irfan Ali Karim",
+        "Age": "30",
+        "Role": "left handed wicket keeper batsman",
+
+    },
     
 ]
