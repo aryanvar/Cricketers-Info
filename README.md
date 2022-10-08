@@ -113,6 +113,11 @@ Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricke
 
 He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
 
+
+##Mithali Raj
+Mithali Dorai Raj (born 3 December 1982) is an Indian cricketer and a former captain of the India women's national cricket team from 2004 to 2022. Mithali is the highest run-scorer in women’s international cricket and is considered one of the greatest cricketers of all time.
+Mithali holds numerous records in international cricket. She is the only female cricketer to surpass the 7,000-run mark in Women's One Day International matches. She is the first player to score seven consecutive 50s in ODIs. She also holds the record for most half-centuries in WODIs. In June 2018, during the 2018 Women's Twenty20 Asia Cup, she became the first player from India, male or female, to score 2000 runs in T20Is, and also became the first woman cricketer to reach 2000 WT20I runs.
+
 ## AB de Villiers
 
 Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
