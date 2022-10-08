@@ -1002,6 +1002,7 @@
 
 
     },
+
 	{
         "id": 109,
         "name": "smriti mandhana",
@@ -1010,5 +1011,34 @@
 
 
     },
+
+    {
+        "id": 110,
+        "name": "jhulan goswami",
+        "Age": "39",
+        "Role": "Bowler",
+
+
+    },
+
+     {
+        "id": 111,
+        "name": "richa ghosh",
+        "Age": "19",
+        "Role": "Batsman",
+},
+	
+	{
+        "id": 112,
+        "name": "pooja vastrakar",
+        "Age": "23",
+  },
+	{
+        "id": 106,
+        "name": "navdeep saini",
+        "Age": "29",
+        "Role": "Bowler",
+    },
+
 
 ]
