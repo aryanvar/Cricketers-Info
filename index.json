@@ -932,5 +932,12 @@
         "Role": "left handed wicket keeper batsman",
 
     },
+	{
+        "id": 102,
+        "name": "Ajit Agarkar",
+        "Age": "44",
+        "Role": "Left Hand Medium Fast Bowler",
+
+    },
     
 ]
