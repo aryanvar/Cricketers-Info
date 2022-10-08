@@ -112,3 +112,9 @@ Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricke
 
 He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
 
+## David Warner
+
+David Warner (born 27 October 1986) is an Australian international cricketer and a former captain of the Australian national team in limited overs format and also a former test vice-captain. A left-handed opening batsman, Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket. He is considered as one of the best batters of the current era. He plays for New South Wales and played for the Sydney Thunder in domestic cricket. He served as the Australian vice-captain across Test and ODI formats of the game between 2015 and 2018.
+
+In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
+
