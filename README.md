@@ -19,3 +19,21 @@ He is now an Indian international cricketer who is the current captain of the In
 
 ## Yuvraj Singh
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
+
+## Suresh Raina
+Suresh Raina is an Indian former international cricketer. He occasionally served as stand-in captain for Indian men's national cricket team during the absence of the main captain.
+
+## KL Rahul
+Kannaur Lokesh Rahul is an Indian cricketer who currently is the vice-captain of the India national team in all formats. He plays for Karnataka in domestic cricket. He is the current captain of Lucknow Super Giants in the Indian Premier League.
+
+## Virender Sehwag
+Virender Sehwag is a former Indian cricketer. He represented India from 1999 to 2013. He played for Delhi and Haryana in Indian domestic cricket. He played as aggressive opening batsman throughout his playing days.
+
+## Hardik Pandya
+Hardik Himanshu Pandya is an Indian international cricketer who plays for the India national cricket team at the international level and the Baroda cricket team in Indian domestic cricket. 
+
+## Rohit Sharma
+Rohit Gurunath Sharma is an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket.
+
+## Ravindra Jadeja
+Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
