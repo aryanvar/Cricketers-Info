@@ -665,6 +665,14 @@
 },
   
 
+     },
+        {
+         "id":72,
+         "Name":"Shivam Mavi",
+         "Age":"25",
+         "Role":"Right Arm Bowler",
+
+     },
 
  {
         "id": 76,
@@ -968,6 +976,30 @@
         "name": "ross taylor",
         "Age": "38",
         "Role": "right hand batsman",
+
+	},
+	{
+        "id": 103,
+        "name": "Sunil narain",
+        "Age": "34",
+        "Role": "Bowler",
+
+    },
+	
+	{
+        "id": 104,
+        "name": "Rahul tripathi",
+        "Age": "24",
+        "Role": "Batsman",
+
+    },
+	
+	{
+        "id": 105,
+        "name": "Akhok Dinda",
+        "Age": "34",
+        "Role": "Bowler",
+
 
     },
 
