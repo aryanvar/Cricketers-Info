@@ -982,9 +982,17 @@
 	},
 	{
         "id": 104,
-        "name": "Rhul tripathi",
+        "name": "Rahul tripathi",
         "Age": "24",
         "Role": "Batsman",
+
+    },
+	},
+	{
+        "id": 105,
+        "name": "Akhok Dinda",
+        "Age": "34",
+        "Role": "Bowler",
 
     },
 
