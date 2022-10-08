@@ -925,6 +925,14 @@
         "Age": "27",
         "Role": "A right-handed batsman",
     },
+
+    {
+        "id": 101,
+        "Name": "David Warner",
+        "Age": "35",
+        "Role": "A Left-handed batsman",
+    },	
+
 	{
         "id": 101,
         "name": "Irfan Ali Karim",
