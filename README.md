@@ -153,3 +153,10 @@ Exceptional performances in the U17 and U19 section earned Lee plenty of accolad
 Lee's exceptional speeds meant that his variations as a bowler became doubly effective, often foxing the batsmen all ends up with this slower deliveries and off cutters. He had a good repertoire in his arsenal and this was a major reason for his immense success as an ODI bowler. Also, Ricky Ponting's captaincy saw Lee blooming further. Although he mostly played supporting role to McGrath and Gillespie, his steady maturity as a pacer soon made him a gun bowler. Lee enjoyed bowling on the grandest stage of them all - the World Cup where his wicket-taking ability used to be at its peak. He was part of the successive title-winning Australian squads of 2003 and 2007 while also taking part in the 2011 edition where they were eliminated in the quarterfinal. He played on for a year more before calling it quits from all forms of international cricket. A fragile body and an intention to prolong his limited-overs career had earlier forced him to retire from Tests in 2008.
 
 
+## David Warner
+
+David Warner (born 27 October 1986) is an Australian international cricketer and a former captain of the Australian national team in limited overs format and also a former test vice-captain. A left-handed opening batsman, Warner is the first Australian cricketer in 132 years to be selected for a national team in any format without experience in first-class cricket. He is considered as one of the best batters of the current era. He plays for New South Wales and played for the Sydney Thunder in domestic cricket. He served as the Australian vice-captain across Test and ODI formats of the game between 2015 and 2018.
+
+In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
+
+
