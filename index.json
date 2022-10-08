@@ -930,6 +930,38 @@
         "Name": "Mohammad Azharuddin",
         "Age": "59",
         "Role": "All  rounder",
-    }
+    },
+
+
+
+    {
+        "id": 101,
+        "Name": "Ishant Sharma",
+        "Age": "37",
+        "Role": "Bowler",
+    },	
+
+
+    {
+        "id": 101,
+        "Name": "David Warner",
+        "Age": "35",
+        "Role": "A Left-handed batsman",
+    },	
+
+	{
+        "id": 101,
+        "name": "Irfan Ali Karim",
+        "Age": "30",
+        "Role": "left handed wicket keeper batsman",
+
+    },
+	{
+        "id": 102,
+        "name": "Ajit Agarkar",
+        "Age": "44",
+        "Role": "Left Hand Medium Fast Bowler",
+
+    },
 
 ]
