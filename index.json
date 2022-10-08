@@ -979,5 +979,13 @@
         "Role": "Bowler",
 
     },
+	},
+	{
+        "id": 104,
+        "name": "Rhul tripathi",
+        "Age": "24",
+        "Role": "Batsman",
+
+    },
 
 ]
