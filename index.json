@@ -1002,6 +1002,16 @@
 
 
     },
+
+	{
+        "id": 109,
+        "name": "smriti mandhana",
+        "Age": "26",
+        "Role": "Batsman",
+
+
+    },
+
     {
         "id": 110,
         "name": "jhulan goswami",
@@ -1029,5 +1039,6 @@
         "Age": "29",
         "Role": "Bowler",
     },
+
 
 ]
