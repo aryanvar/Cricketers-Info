@@ -91,6 +91,10 @@ Hardik made steady progress in junior-level cricket, and according to Krunal, "w
 
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
 
+## SHREYAS IYER
+Shreyas Iyer is an attacking top-order batsman capable of marrying classical shots with brute force. Iyer made headlines when Delhi Daredevils bought him at the 2015 IPL auction for a whopping INR 2.6 crore, and he repaid the faith with interest. Opening the batting, he aggregated 439 runs from 14 matches and went to win the IPL emerging player of the year award. By the end of the 2015-16 season, the hushed whispers calling for him to be fast-tracked to the national side had become a loud chorus as Iyer's career graph took another quantum leap in the Ranji Trophy. He amassed 1321 runs at an average of 73.38, including a century in the final, to help Mumbai storm to their 41st title.
+
+Iyer had come through the Under-19 ranks, hitting back-to-back half-centuries in the playoffs to help India Under-19s finish fifth in the 2014 World Cup in the UAE. Iyer made his first-class debut for Mumbai in 2014-15, and after a lukewarm stint in the middle-order, Iyer was eventually promoted. He finished as the team's leading run-getter with 809 runs at an average of 50.56.
 
 
 ## SANJU SAMSON
@@ -183,4 +187,14 @@ In January 2017, he became the fourth player to win the Allan Border Medal more 
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
 He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
 Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
+
+
+## Kapil Dev
+
+Kapil Dev was the greatest pace bowler India has produced, and their greatest fast-bowling allrounder. If he had played at any other time - not when Imran Khan, Ian Botham and Richard Hadlee were contemporaries - he would surely have been recognised as the best allrounder in the world. In any case he did enough to be voted India's Cricketer of the Century during 2002, ahead of Sunil Gavaskar and Sachin Tendulkar. His greatest feats were to lead India almost jauntily, and by his all-round example, to the 1983 World Cup, and to take the world-record aggregate of Test wickets from Hadlee. It was the stamina of the marathon runner that took him finally to 431 wickets and only a yard beyond. He might not have been quite the bowling equal of Imran, Hadlee or Botham at his best, and his strike rate was less than four wickets per Test, but he was still outstanding in his accuracy and ability to swing the ball, usually away from right-handers. And he could hit a ball even more brilliantly than he bowled it, with uncomplicated flair.
+
+
+## Lasith Malinga
+Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් මාලිංග; born 28 August 1983), nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time.[1][2][3] Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname.[4] Malinga announced his retirement from all forms of cricket on 14 September 2021.
+
 

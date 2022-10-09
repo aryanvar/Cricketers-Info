@@ -918,6 +918,12 @@
         "Age": "63",
 	"Role": "Fast-medium bowler",	
     },
+	{
+        "id": 101,
+        "name": "Manish Pandey",
+        "Age": "33",
+	"Role": "Right-handed batsman",	
+    },
 	
 	
 
@@ -1112,6 +1118,7 @@
         "Age": "25",
         "Role": "Bowler",
 },
+
  {
         "id": 119,
         "name": "Herschelle Gibbs",
@@ -1119,5 +1126,13 @@
         "Role": "Right Hand Batsman",
 },
 	
+
+	   {
+        "id": 119,
+        "name": "Lasith Malinga",
+        "Age": "39",
+        "Role": "Bowler"
+},
+
 
 ]
