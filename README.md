@@ -184,3 +184,23 @@ Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, 
 He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
 Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
 
+
+## SOURAV GANGULY
+Sourav Chandidas Ganguly, affectionately known as 'Dada', is an Indian cricket administrator, commentator and former national cricket team captain who is the 39th and current president of the Board of Control for Cricket in India.
+
+Sourav Ganguly (48) was born on 8 July 1972 in Calcutta (present-day Kolkata), India to Chandidas and Nirupa Ganguly.Sourav Ganguly initially played football as it is the favourite sport for the people of Kolkata but was later attracted to Cricket.He learnt cricket with his brother and despite being right-handed, he learnt to bat left-handed so that he could use his brother's sporting equipment. He scored a century against Orissa Under-15 and went on becoming the captain of St. Xavier's School's cricket team. 
+
+In 1989, Sourav Ganguly was selected to play for the Bengal team.After an impressive show in the Ranji Trophy in the 1990-91 season, the left-hander came into the limelight.
+
+In 1992, he made his international debut against West Indies. It was not an ideal start as he could score just 3 runs batting at No. 6 in an ODI at the Gabba, Brisbane. He was dropped immediately due to his as he was perceived to be "arrogant" and his attitude towards the game was openly questioned. He was removed from the team.
+
+He then went back to domestic cricket and worked hard.In the 1995-96 Duleep Trophy, he scored 171 and was called back to the Indian side. He played to the National Team for a tour of England in 1996. For the single ODI, he played but was omitted from the team for the first Test. Later, Sourav Ganguly got a chance to make his Test debut. He scored 136 and became the third batsman in the history to score centuries in the first 2 innings after Lawrence Rowe and Alvin Kallicharran. He had the gift of an immaculate timing and was termed as the "god of the Off side".
+
+After some match-fixing scandal by some of the players of the team in 2000. Sourav Ganguly was named as the Captain of the Indian Cricket Team.another highlight of Sourav Ganguly's career where India beat England in an ODI at Lord's and he swayed his T-shirt from the balcony of the Lord's. It was the response to Andrew Flintoff who swayed his T-shirt at the Wankhede stadium in Mumbai.As a captain by 2004, he had achieved significant success and was deemed as India's most successful captain by sections of the media. During his captaincy reign, his individual performance deteriorated especially after the World Cup, the tour of Australia in 2003, and in 2004 the Pakistan series. For the first time since 1969, Australia won a Test series in India.
+
+Sourav Ganguly was awarded the Padma Shri in 2004, India's fourth-highest civilian award, in recognition of his distinguished contribution in the field of sports. In the latter stages, he was doing well consistently and decided to bid adieu to international cricket after being in a form. He retired from international cricket in a Test series against Australia at home in 2008.
+
+In 2008, he was one of the icon players in the inaugural edition of the Indian Premier League. He was the captain of the Kolkata Night Riders. Zee Bangla the television channel also appointed him as the host of the reality quiz show titled Dadagiri Unlimited. He was also appointed the chairman of CAB's Cricket Development Committee. In 2019, Sourav Ganguly was elected as the President of the Board of Cricket Control of India. He has been awarded several awards for his outstanding contributions in the field of sports. Some of them are Sports Star Person of the Year, Arjuna Award, CEAT Indian Captain of the Year, Padma Shri 2004, Rammohan Roy Award. On 20 May 2013, the Government of West Bengal honoured Sourav Ganguly with the Banga Bibhushan Award.
+
+
+
