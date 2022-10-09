@@ -859,6 +859,12 @@
         "Age": "27",
 	"Role": "Left-arm fast-medium bowler",	
     },
+	{
+        "id": 100,
+        "name": "Kapil Dev",
+        "Age": "63",
+	"Role": "Fast-medium bowler",	
+    },
 	
 	
 
