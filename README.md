@@ -189,6 +189,12 @@ He is a right-arm fast bowler, who bowls the ball off the seam and using swing, 
 Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
 
 
+## Kapil Dev
+
+Kapil Dev was the greatest pace bowler India has produced, and their greatest fast-bowling allrounder. If he had played at any other time - not when Imran Khan, Ian Botham and Richard Hadlee were contemporaries - he would surely have been recognised as the best allrounder in the world. In any case he did enough to be voted India's Cricketer of the Century during 2002, ahead of Sunil Gavaskar and Sachin Tendulkar. His greatest feats were to lead India almost jauntily, and by his all-round example, to the 1983 World Cup, and to take the world-record aggregate of Test wickets from Hadlee. It was the stamina of the marathon runner that took him finally to 431 wickets and only a yard beyond. He might not have been quite the bowling equal of Imran, Hadlee or Botham at his best, and his strike rate was less than four wickets per Test, but he was still outstanding in his accuracy and ability to swing the ball, usually away from right-handers. And he could hit a ball even more brilliantly than he bowled it, with uncomplicated flair.
+
+
 ## Lasith Malinga
 Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් මාලිංග; born 28 August 1983), nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time.[1][2][3] Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname.[4] Malinga announced his retirement from all forms of cricket on 14 September 2021.
+
 
