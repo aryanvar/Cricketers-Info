@@ -1059,6 +1059,12 @@
 
         "Role": "Bowler",
     },
+     {
+        "id": 117,
+        "name": "dawid malan",
+        "Age": "30",
+	"Role": "Batsman",
+  },
 
 
 ]
