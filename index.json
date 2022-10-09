@@ -1049,6 +1049,7 @@
         "name": "pooja vastrakar",
         "Age": "23",
   },
+	
 	{
         "id": 106,
         "name": "navdeep saini",
@@ -1060,6 +1061,16 @@
         "name": "Umran Malik",
         "Age": "22",
         "Role": " Fast Bowler",
+
+        "id": 115,
+        "name": "ellyse perry",
+        "Age": "29",
+  },
+        "id": 116,
+        "name": "renuka thakur",
+        "Age": "25",
+
+        "Role": "Bowler",
     },
 
 
