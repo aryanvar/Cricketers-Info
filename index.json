@@ -1041,10 +1041,17 @@
         "name": "pooja vastrakar",
         "Age": "23",
   },
+	
 	{
         "id": 106,
         "name": "navdeep saini",
         "Age": "29",
+        "Role": "Bowler",
+    },
+	{
+        "id": 116,
+        "name": "renuka thakur",
+        "Age": "25",
         "Role": "Bowler",
     },
 
