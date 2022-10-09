@@ -1047,6 +1047,14 @@
 
     },
 
+	},
+	{
+        "id": 106,
+        "name": "Imran Tahir",
+        "Age": "38",
+        "Role": "spin Bowler",
+
+    },
     {
         "id": 110,
         "name": "jhulan goswami",
@@ -1076,6 +1084,11 @@
         "Role": "Bowler",
     },
 	{
+        "id": 107,
+        "name": "Umran Malik",
+        "Age": "22",
+        "Role": " Fast Bowler",
+
         "id": 115,
         "name": "ellyse perry",
         "Age": "29",
