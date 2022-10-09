@@ -1055,6 +1055,12 @@
         "Age": "29",
         "Role": "Bowler",
     },
+	{
+        "id": 107,
+        "name": "Umran Malik",
+        "Age": "22",
+        "Role": " Fast Bowler",
+    },
 
 
 ]
