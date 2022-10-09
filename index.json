@@ -973,6 +973,13 @@
     },
 	{
         "id": 103,
+        "name": "Heinrich Klaasen",
+        "Age": "31",
+        "Role": "Right Handed Wicket Keeper Batsman",
+
+    },
+    
+    {
         "name": "ross taylor",
         "Age": "38",
         "Role": "right hand batsman",
@@ -1059,6 +1066,7 @@
 
         "Role": "Bowler",
     },
+
 
 
 ]
