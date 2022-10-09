@@ -69,3 +69,9 @@ Karthik Krishnaswamy
 Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricketer and a former limited overs vice captain who plays for Uttar Pradesh in domestic first-class cricket and for Sunrisers Hyderabad in the Indian Premier League. He is considered to be one of the best swing bowlers in the world. Kumar swings the ball both ways efficiently, with his inswingers more effective than outswing.
 
 He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
+
+
+## Ravindra Jadeja
+
+Ravindrasinh Anirudhsinh Jadeja (born 6 December 1988), commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket. He is considered as one of the best fielders in the current decade.
+Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup in Malaysia in 2008, under the captaincy of former Indian captain Virat Kohli. He made his ODI debut against Sri Lanka on 8 February 2009 and scored an unbeaten 60 off 77 balls in that match. However, his Test debut came almost four years later, on 13 December 2012, against England at Nagpur.
