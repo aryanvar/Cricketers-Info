@@ -75,3 +75,8 @@ He made his international debut in December 2012 against Pakistan in December 20
 
 Ravindrasinh Anirudhsinh Jadeja (born 6 December 1988), commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket. He is considered as one of the best fielders in the current decade.
 Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup in Malaysia in 2008, under the captaincy of former Indian captain Virat Kohli. He made his ODI debut against Sri Lanka on 8 February 2009 and scored an unbeaten 60 off 77 balls in that match. However, his Test debut came almost four years later, on 13 December 2012, against England at Nagpur.
+
+## Shikhar Dhawan
+
+Shikhar Dhawan (born 5 December 1985) is an Indian cricketer. Being a left-handed opening batsman and occasional captain of the India national cricket team, he plays for Punjab Kings in the Indian Premier League and Delhi in first-class cricket. At the 2013 Champions Trophy, 2015 World Cup, and 2017 Champions Trophy, Dhawan was the leading run-scorer for India.He also became the first player in the history of IPL to score two back-to-back centuries.He was awarded the 'Player of the Tournament' for his exploits in the 2013 ICC Champions Trophy.
+Dhawan made his One Day International (ODI) debut against Australia in October 2010 at Visakhapatnam. His Test debut came against the same opposition in March 2013 at Mohali, where he scored the fastest century by any batsman on Test debut and ended his innings with 187 runs from 174 balls.
