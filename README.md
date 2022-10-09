@@ -166,3 +166,7 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
 
+## Mohammed Shami
+Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
+He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
+Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
