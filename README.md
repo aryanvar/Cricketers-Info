@@ -91,6 +91,10 @@ Hardik made steady progress in junior-level cricket, and according to Krunal, "w
 
 Hardik was a leg spinner until the age of 18 and turned to fast bowling at the insistence of the Baroda coach Sanath Kumar.
 
+## SHREYAS IYER
+Shreyas Iyer is an attacking top-order batsman capable of marrying classical shots with brute force. Iyer made headlines when Delhi Daredevils bought him at the 2015 IPL auction for a whopping INR 2.6 crore, and he repaid the faith with interest. Opening the batting, he aggregated 439 runs from 14 matches and went to win the IPL emerging player of the year award. By the end of the 2015-16 season, the hushed whispers calling for him to be fast-tracked to the national side had become a loud chorus as Iyer's career graph took another quantum leap in the Ranji Trophy. He amassed 1321 runs at an average of 73.38, including a century in the final, to help Mumbai storm to their 41st title.
+
+Iyer had come through the Under-19 ranks, hitting back-to-back half-centuries in the playoffs to help India Under-19s finish fifth in the 2014 World Cup in the UAE. Iyer made his first-class debut for Mumbai in 2014-15, and after a lukewarm stint in the middle-order, Iyer was eventually promoted. He finished as the team's leading run-getter with 809 runs at an average of 50.56.
 
 
 ## SANJU SAMSON
@@ -187,3 +191,4 @@ Shami made his international debut in a One Day International (ODI) against Paki
 
 ## Lasith Malinga
 Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් මාලිංග; born 28 August 1983), nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time.[1][2][3] Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname.[4] Malinga announced his retirement from all forms of cricket on 14 September 2021.
+
