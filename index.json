@@ -665,6 +665,14 @@
 },
   
 
+     },
+        {
+         "id":72,
+         "Name":"Shivam Mavi",
+         "Age":"25",
+         "Role":"Right Arm Bowler",
+
+     },
 
  {
         "id": 76,
@@ -925,6 +933,30 @@
         "Age": "27",
         "Role": "A right-handed batsman",
     },
+    {
+        "id": 101,
+        "Name": "Mohammad Azharuddin",
+        "Age": "59",
+        "Role": "All  rounder",
+    },
+
+
+
+    {
+        "id": 101,
+        "Name": "Ishant Sharma",
+        "Age": "37",
+        "Role": "Bowler",
+    },	
+
+
+    {
+        "id": 101,
+        "Name": "David Warner",
+        "Age": "35",
+        "Role": "A Left-handed batsman",
+    },	
+
 	{
         "id": 101,
         "name": "Irfan Ali Karim",
@@ -947,4 +979,94 @@
 
     },
     
+    {
+        "name": "ross taylor",
+        "Age": "38",
+        "Role": "right hand batsman",
+
+	},
+	{
+        "id": 103,
+        "name": "Sunil narain",
+        "Age": "34",
+        "Role": "Bowler",
+
+    },
+	
+	{
+        "id": 104,
+        "name": "Rahul tripathi",
+        "Age": "24",
+        "Role": "Batsman",
+
+    },
+	
+	{
+        "id": 105,
+        "name": "Akhok Dinda",
+        "Age": "34",
+        "Role": "Bowler",
+
+
+    },
+	{
+        "id": 107,
+        "name": "kevin-o-brein",
+        "Age": "34",
+        "Role": "Batsman",
+
+
+    },
+
+	{
+        "id": 109,
+        "name": "smriti mandhana",
+        "Age": "26",
+        "Role": "Batsman",
+
+
+    },
+
+    {
+        "id": 110,
+        "name": "jhulan goswami",
+        "Age": "39",
+        "Role": "Bowler",
+
+
+    },
+
+     {
+        "id": 111,
+        "name": "richa ghosh",
+        "Age": "19",
+        "Role": "Batsman",
+},
+	
+	{
+        "id": 112,
+        "name": "pooja vastrakar",
+        "Age": "23",
+  },
+	
+	{
+        "id": 106,
+        "name": "navdeep saini",
+        "Age": "29",
+        "Role": "Bowler",
+    },
+	{
+        "id": 115,
+        "name": "ellyse perry",
+        "Age": "29",
+  },
+        "id": 116,
+        "name": "renuka thakur",
+        "Age": "25",
+
+        "Role": "Bowler",
+    },
+
+
+
 ]
