@@ -918,6 +918,12 @@
         "Age": "63",
 	"Role": "Fast-medium bowler",	
     },
+	{
+        "id": 101,
+        "name": "Manish Pandey",
+        "Age": "33",
+	"Role": "Right-handed batsman",	
+    },
 	
 	
 
@@ -1113,12 +1119,45 @@
         "Role": "Bowler",
 },
 
+
 {
         "id": 119,
         "name": "deepti sharma",
         "Age": "25",
         "Role": "Bowler",
 },
-	
+
+
+  {
+        "id": 119,
+        "name": "Pravin Tambe",
+        "Age": 35",
+        "Role": "Bowler",
+},
+
+
+	{
+        "id": 119,
+        "name": "Akshat Agarwal",
+        "Age": "19",
+        "Role": "Batsman",
+},
+
+
+ {
+        "id": 119,
+        "name": "Herschelle Gibbs",
+        "Age": "48",
+        "Role": "Right Hand Batsman",
+},
+
+
+	   {
+        "id": 119,
+        "name": "Lasith Malinga",
+        "Age": "39",
+        "Role": "Bowler"
+},
+
 
 ]
