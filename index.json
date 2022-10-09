@@ -939,5 +939,12 @@
         "Role": "Left Hand Medium Fast Bowler",
 
     },
+	{
+        "id": 103,
+        "name": "Heinrich Klaasen",
+        "Age": "31",
+        "Role": "Right Handed Wicket Keeper Batsman",
+
+    },
     
 ]
