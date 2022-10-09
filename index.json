@@ -1129,8 +1129,18 @@
         "Age": "25",
         "Role": "Bowler",
 },
-
-
+{
+        "id": 119,
+        "name": "Hamilton Masakadza",
+        "Age": "39",
+        "Role": "All-rounder",
+},
+{
+        "id": 120,
+        "name": "Elton Chigumbura",
+        "Age": "36",
+        "Role": "Bowler",
+},
 {
         "id": 119,
         "name": "deepti sharma",
