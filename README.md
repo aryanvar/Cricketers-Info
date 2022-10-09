@@ -72,6 +72,7 @@ Rahul had a middling tour of Australia with the India A team in July-August 2014
 A profitable IPL in 2016 set him up to make the Indian ODI and T20 squad that toured Zimbabwe in June, where he became the first batsman from his country to score a century on debut in 50-over cricket.
 Karthik Krishnaswamy
 
+
 ## Chris Gayle
 
 Twenty20 cricket seemingly picked Chris Gayle as its ambassador, for he scored the very first hundred in the format and now uncontestedly owns almost every record there is, including that of the most runs (now 10,000+), most hundreds, fastest hundred, and most fours and sixes.
@@ -107,12 +108,24 @@ Dale steyn is an south african international cricketer who plays for the south a
 
 steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
 
+
 ## Bhuvneshwar kumar
 
 Bhuvneshwar Kumar Singh (born 5 February 1990) is an Indian international cricketer and a former limited overs vice captain who plays for Uttar Pradesh in domestic first-class cricket and for Sunrisers Hyderabad in the Indian Premier League. He is considered to be one of the best swing bowlers in the world. Kumar swings the ball both ways efficiently, with his inswingers more effective than outswing.
 
 He made his international debut in December 2012 against Pakistan in December 2012, taking three wickets in an Twenty20 International. He went on to make his One Day International (ODI) debut in the series which followed. He is the first Indian bowler to take a five-wicket haul in Test cricket, ODIs and T20Is.
 
+
+
+## Ravindra Jadeja
+
+Ravindrasinh Anirudhsinh Jadeja (born 6 December 1988), commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket. He is considered as one of the best fielders in the current decade.
+Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup in Malaysia in 2008, under the captaincy of former Indian captain Virat Kohli. He made his ODI debut against Sri Lanka on 8 February 2009 and scored an unbeaten 60 off 77 balls in that match. However, his Test debut came almost four years later, on 13 December 2012, against England at Nagpur.
+
+## Shikhar Dhawan
+
+Shikhar Dhawan (born 5 December 1985) is an Indian cricketer. Being a left-handed opening batsman and occasional captain of the India national cricket team, he plays for Punjab Kings in the Indian Premier League and Delhi in first-class cricket. At the 2013 Champions Trophy, 2015 World Cup, and 2017 Champions Trophy, Dhawan was the leading run-scorer for India.He also became the first player in the history of IPL to score two back-to-back centuries.He was awarded the 'Player of the Tournament' for his exploits in the 2013 ICC Champions Trophy.
+Dhawan made his One Day International (ODI) debut against Australia in October 2010 at Visakhapatnam. His Test debut came against the same opposition in March 2013 at Mohali, where he scored the fastest century by any batsman on Test debut and ended his innings with 187 runs from 174 balls.
 
 ##Mithali Raj
 Mithali Dorai Raj (born 3 December 1982) is an Indian cricketer and a former captain of the India women's national cricket team from 2004 to 2022. Mithali is the highest run-scorer in women’s international cricket and is considered one of the greatest cricketers of all time.
@@ -165,4 +178,9 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
+
+## Mohammed Shami
+Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
+He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
+Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
 

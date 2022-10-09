@@ -900,6 +900,26 @@
         "Age": "29",
         "Role": "Batsman",
     },
+	{
+        "id": 98,
+        "name": "Yashasvi Jaiswal",
+        "Age": "20",
+	"Role": "Left-Handed Batsman",	
+    },
+	{
+        "id": 99,
+        "name": "Mustafizur Rahman",
+        "Age": "27",
+	"Role": "Left-arm fast-medium bowler",	
+    },
+	{
+        "id": 100,
+        "name": "Kapil Dev",
+        "Age": "63",
+	"Role": "Fast-medium bowler",	
+    },
+	
+	
 
 	{
         "id": 98,
@@ -973,6 +993,13 @@
     },
 	{
         "id": 103,
+        "name": "Heinrich Klaasen",
+        "Age": "31",
+        "Role": "Right Handed Wicket Keeper Batsman",
+
+    },
+    
+    {
         "name": "ross taylor",
         "Age": "38",
         "Role": "right hand batsman",
@@ -1051,8 +1078,8 @@
   },
 	
 	{
-        "id": 106,
-        "name": "navdeep saini",
+        "id": 114,
+        "name": "morne morkel",
         "Age": "29",
         "Role": "Bowler",
     },
@@ -1076,6 +1103,12 @@
 
         "Role": "Bowler",
     },
+     {
+        "id": 117,
+        "name": "dawid malan",
+        "Age": "30",
+	      "Role": "Batsman",
+  },
 
     	{
         "id": 117,
@@ -1084,5 +1117,12 @@
 	"Role": "Batsman",	
   },
 
+    {
+        "id": 118,
+        "name": "deepti sharma",
+        "Age": "25",
+        "Role": "Bowler",
+},
+	
 
 ]
