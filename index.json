@@ -918,6 +918,12 @@
         "Age": "63",
 	"Role": "Fast-medium bowler",	
     },
+	{
+        "id": 101,
+        "name": "Manish Pandey",
+        "Age": "33",
+	"Role": "Right-handed batsman",	
+    },
 	
 	
 
@@ -1088,11 +1094,15 @@
         "name": "Umran Malik",
         "Age": "22",
         "Role": " Fast Bowler",
-
+	};
+		
+	{		
         "id": 115,
         "name": "ellyse perry",
         "Age": "29",
   },
+    
+    {
         "id": 116,
         "name": "renuka thakur",
         "Age": "25",
@@ -1106,18 +1116,94 @@
 	      "Role": "Batsman",
   },
 
+    	{
+        "id": 117,
+        "name": "Nitish Rana",
+        "Age": "24",
+	      "Role": "Batsman",	
+  },
+
     {
         "id": 118,
         "name": "deepti sharma",
         "Age": "25",
         "Role": "Bowler",
-},
+    },
     {
+
         "id": 121,
         "name": "Mark Burgess",
         "Age": "78",
+        "role":"bowler"
+},
+{
+        "id": 122,
+        "name": "Peter Webb",
+        "Age": "65",
         "Role": "Batsman",
 },
 	
+
+
+    {
+        "id": 123,
+        "name": "Hershelle gibbs",
+        "Age": "43",
+        "Role": "Batsman",
+},
+
+{
+        "id": 119,
+        "name": "Hamilton Masakadza",
+        "Age": "39",
+        "Role": "All-rounder",
+},
+{
+        "id": 120,
+        "name": "Elton Chigumbura",
+        "Age": "36",
+        "Role": "Bowler",
+},
+{
+        "id": 119,
+        "name": "deepti sharma",
+        "Age": "25",
+        "Role": "Bowler",
+},
+
+
+  {
+        "id": 119,
+        "name": "Pravin Tambe",
+        "Age": 35",
+        "Role": "Bowler",
+},
+
+
+	{
+        "id": 119,
+        "name": "Akshat Agarwal",
+        "Age": "19",
+        "Role": "Batsman",
+},
+
+
+ {
+        "id": 119,
+        "name": "Herschelle Gibbs",
+        "Age": "48",
+        "Role": "Right Hand Batsman",
+},
+
+
+	   {
+        "id": 119,
+        "name": "Lasith Malinga",
+        "Age": "39",
+        "Role": "Bowler"
+},
+
+
+
 
 ]
