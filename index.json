@@ -1213,7 +1213,13 @@
         "Role": "Bowler"
 },
 
-	   {
+{
+        "id": 125,
+        "name": "Martin Guptill",
+        "Age": "30",
+        "Role": "Batsman"
+},
+{
         "id": 124,
         "name": "Martin Guptill",
         "Age": "36",
@@ -1292,7 +1298,6 @@
         "name": "Lou Vincent",
         "Age": "23",
         "Role": "Batsman"
-
 },
 
 	   {
