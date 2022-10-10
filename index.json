@@ -1203,7 +1203,12 @@
         "Role": "Bowler"
 },
 
-
+   {
+        "id": 133,
+        "name": "rom malik",
+        "Age": "25",
+        "Role": "batsman"
+},
 
 
 ]
