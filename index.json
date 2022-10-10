@@ -924,6 +924,12 @@
         "Age": "33",
 	"Role": "Right-handed batsman",	
     },
+	{
+        "id": 102,
+        "name": "Ravi Bishnoi",
+        "Age": "22",
+	"Role": "Bowler",	
+    },
 	
 	
 
@@ -1142,7 +1148,12 @@
         "Age": "65",
         "Role": "Batsman",
 },
-	
+	{
+        "id": 119,
+        "name": "Yash Dhull",
+        "Age": "19",
+        "Role": "Batsman",
+},
 
 
     {
@@ -1195,20 +1206,188 @@
         "Role": "Right Hand Batsman",
 },
 
-
-	   {
+{
         "id": 119,
         "name": "Lasith Malinga",
         "Age": "39",
         "Role": "Bowler"
 },
 
-	   {
+{
         "id": 125,
         "name": "Martin Guptill",
         "Age": "30",
         "Role": "Batsman"
 },
+{
+        "id": 124,
+        "name": "Martin Guptill",
+        "Age": "36",
+        "Role": "Batsman"
+},
 
+{
+        "id": 120,
+        "name": "Dayalan Hemalatha",
+        "Age": "28",
+        "Role": "All Rounder"
+},
+	   {
+        "id": 127,
+        "name": "Chris Nevin",
+        "Age": "22",
+        "Role": "Wicket keeper"
+},
+{
+        "id": 128,
+        "name": "Glen Sulzberger",
+        "Age": "22",
+},
+ {
+        "id": 133,
+        "name": "j k pal",
+        "Age": "30",
+        "Role": "Bowler"
+},
+
+	   {
+        "id": 127,
+        "name": "Kane Williamson",
+        "Age": "32",
+        "Role": "Batsman"
+},
+
+ {
+        "id": 120,
+        "name": "Amit Mishra",
+        "Age": "39",
+        "Role": "Leg Breaker",
+},
+
+   {
+        "id": 133,
+        "name": "rom malik",
+        "Age": "25",
+        "Role": "batsman"
+},
+{
+        "id": 149,
+        "name": "arjun seth",
+        "Age": "29",
+        "Role": "batsman"
+},
+
+
+	   {
+        "id": 123,
+        "name": "raj bawa",
+        "Age": "18",
+        "Role": "All -rounder"
+},
+
+{
+        "id": 136,
+        "name": "Lasith patham",
+        "Age": "59",
+        "Role": "Bowler"
+},
+
+
+	   {
+        "id": 133,
+        "name": "Lou Vincent",
+        "Age": "23",
+        "Role": "Batsman"
+},
+
+	   {
+        "id": 126,
+        "name": "Glenn Phillips",
+        "Age": "25",
+        "Role": "Batsman"
+},
+{
+        "id": 119,
+        "name": "ajeet kumar",
+        "Age": "44",
+        "Role": "all rounder"
+  },
+
+	   {
+        "id": 132,
+        "name": "Jacob Oram",
+        "Age": "39",
+        "Role": "All rounder"
+},
+	   {
+        "id": 129,
+        "name": "Daryl Tuffey",
+        "Age": "22",
+        },
+{
+        "id": 139,
+        "name": "manoj dubey",
+        "Age": "51",
+        "Role": "Bowler"
+},
+	   {
+        "id": 131,
+        "name": "Chris Martin",
+        "Age": "23",
+},
+{
+        "id": 129,
+        "name": "j p panday",
+        "Age": "19",
+        "Role": "Bowler"
+},
+{
+        "id": 140,
+        "name": "arvind pathhak",
+        "Age": "52",
+        "Role": "Bowler"
+},
+{
+        "id": 137,
+        "name": "Lokesh malik",
+        "Age": "31",
+        "Role": "Bowler"
+},
+
+	   {
+        "id": 129,
+        "name": "Brooke Walker",
+        "Age": "22",
+        "Role": "Batsman"
+},
+{
+        "id": 130,
+        "name": "James Franklin",
+        "Age": "23",
+        "Role": "All rounder"
+        },
+{
+        "id": 149,
+        "name": "Lalit mishra",
+        "Age": "32",
+        "Role": "Batsman"
+},
+{
+        "name": "prakhar kumar singh",
+        "Age": "47",
+        "Role": "Bowler"
+},
+	   {
+        "id": 138,
+        "name": "RaJjesh yadav",
+        "Age": "29",
+        "Role": "Bowler"
+},
+	   {
+        "id": 141,
+        "name": "Lala panday",
+        "Age": "41",
+        "Role": "Bowler"
+},
 
 ]
