@@ -1221,6 +1221,12 @@
 },
 
    {
+        "id": 133,
+        "name": "rom malik",
+        "Age": "25",
+        "Role": "batsman"
+},
+{
         "id": 149,
         "name": "arjun seth",
         "Age": "29",
@@ -1233,6 +1239,7 @@
         "Age": "59",
         "Role": "Bowler"
 },
+
 
 	   {
         "id": 119,
