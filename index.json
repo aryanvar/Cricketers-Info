@@ -924,6 +924,12 @@
         "Age": "33",
 	"Role": "Right-handed batsman",	
     },
+	{
+        "id": 102,
+        "name": "Ravi Bishnoi",
+        "Age": "22",
+	"Role": "Bowler",	
+    },
 	
 	
 
@@ -1204,12 +1210,51 @@
 },
 
 	   {
+
         "id": 139,
         "name": "manoj dubey",
         "Age": "51",
         "Role": "Bowler"
 },
+{
+
+        "id": 140,
+        "name": "arvind pathhak",
+        "Age": "52",
+        "Role": "Bowler"
+},
+{
+        "id": 137,
+        "name": "Lokesh malik",
+        "Age": "31",
+        "Role": "Bowler"
+},
 
 
+	   {
+        "id": 149,
+        "name": "Lalit mishra",
+        "Age": "32",
+        "Role": "Batsman"
+},
+{
+        "name": "prakhar kumar singh",
+        "Age": "47",
+        "Role": "Bowler"
+},
+
+	   {
+        "id": 138,
+        "name": "RaJjesh yadav",
+        "Age": "29",
+        "Role": "Bowler"
+},
+
+	   {
+        "id": 141,
+        "name": "Lala panday",
+        "Age": "41",
+        "Role": "Bowler"
+},
 
 ]
