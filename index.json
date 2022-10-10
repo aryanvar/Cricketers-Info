@@ -1203,7 +1203,12 @@
         "Role": "Bowler"
 },
 
-
+	   {
+        "id": 149,
+        "name": "Lalit mishra",
+        "Age": "32",
+        "Role": "Batsman"
+},
 
 
 ]
