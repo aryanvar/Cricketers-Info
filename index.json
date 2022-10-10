@@ -1213,6 +1213,12 @@
         "Age": "39",
         "Role": "Bowler"
 },
+ {
+        "id": 133,
+        "name": "j k pal",
+        "Age": "30",
+        "Role": "Bowler"
+},
 
    {
         "id": 149,
@@ -1243,10 +1249,8 @@
         "Age": "51",
         "Role": "Bowler"
 },
+
 {
-
-
-   {
         "id": 129,
         "name": "j p panday",
         "Age": "19",
