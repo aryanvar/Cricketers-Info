@@ -1220,6 +1220,14 @@
         "Role": "Bowler"
 },
 
+
+ {
+        "id": 120,
+        "name": "Amit Mishra",
+        "Age": "39",
+        "Role": "Leg Breaker",
+},
+
    {
         "id": 133,
         "name": "rom malik",
