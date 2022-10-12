@@ -39,3 +39,15 @@ Rohit Gurunath Sharma is an Indian international cricketer who is the current ca
 
 ## Ravindra Jadeja
 Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
+
+## Mayank agarwal
+Mayank Anurag Agarwal is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League.
+
+## Glenn Maxwell
+Glenn James Maxwell is an Australian professional cricketer, who represents Australia national cricket team in One Day International and Twenty20 International formats of the game and has played Test cricket for Australia. Maxwell is an all-rounder who bats right handed and bowl off break.
+
+## Suryakumar yadav
+Suryakumar Ashok Yadav, also known as Suryakumar Yadav or SKY, is an Indian cricketer who plays for India in the ODI and T20I formats. He represents Mumbai cricket team in domestic cricket and plays for Mumbai Indians in the Indian Premier League.
+
+## Dinesh karthik
+Krishnakumar Dinesh Karthik is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket.
