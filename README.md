@@ -231,3 +231,17 @@ In October 2018, she was named in India's squad for the 2018 ICC Women's World T
 Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked in CISF for more than 25 years. Later Singh's family shifted to Kharar, near Chandigarh, where Singh now live with his family. Darshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
+
+##  JANNEMAN MALAN
+
+Malan was included in the North West squad for the 2016 Africa T20 Cup.[2] In August 2017, he was named in Bloem City Blazers' squad for the first season of the T20 Global League.[3] However, in October 2017, Cricket South Africa initially postponed the tournament until November 2018, with it being cancelled soon after.[4]
+
+Malan was the leading run-scorer in the 2017–18 CSA Provincial One-Day Challenge tournament, with 500 runs in ten matches.[5] He was also the leading run-scorer in the 2017–18 Sunfoil 3-Day Cup tournament, with 1,046 runs in ten matches.[6]
+
+In June 2018, Malan was named in the squad for the Cape Cobras team for the 2018–19 season.[7] In September 2018, he was named in Western Province's squad for the 2018 Africa T20 Cup.[8] He was the leading run-scorer for Western Province in the tournament, with 178 runs in four matches.[9]
+
+In October 2018, Malan was named in Cape Town Blitz's squad for the first edition of the Mzansi Super League T20 tournament.[10][11] In September 2019, he was named in the squad for the Cape Town Blitz team for the 2019 Mzansi Super League tournament.[12] In April 2021, he was named in Boland's squad, ahead of the 2021–22 cricket season in South Africa.[13]
+
+In April 2021, Malan was signed by Islamabad United to play in the rescheduled matches in the 2021 Pakistan Super League.[14] In July 2022, he was signed by the Galle Gladiators for the third edition of the Lanka Premier League.
+
+In September 2022 Malan was bought in the SA20 player auction by the Johannesburg Super Kings for the inaugural 2023 season.
