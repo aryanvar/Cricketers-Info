@@ -1471,4 +1471,11 @@
         "Role": "Batting Allounder",
     },
 
+{
+        "id": 150,
+        "name": "Jacque Kalis",
+        "Age": "53",
+        "Role": "Bowler"
+}
+
 ]
