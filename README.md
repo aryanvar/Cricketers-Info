@@ -231,3 +231,9 @@ In October 2018, she was named in India's squad for the 2018 ICC Women's World T
 Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked in CISF for more than 25 years. Later Singh's family shifted to Kharar, near Chandigarh, where Singh now live with his family. Darshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
+
+## Steve Smith
+
+Steven Peter Devereux Smith (born 2 June 1989) is an Australian international cricketer and former captain of the Australian national team. Smith has drawn comparisons to Don Bradman, widely acknowledged as the greatest batsman of all time, due to his distinctively high Test batting average.[3]
+
+Although he was initially selected for Australia as a right-arm leg spinner, Smith later played primarily as a batsman. After playing five matches from 2010 to 2011, he was recalled to the Australian team in 2013, and took over the captaincy from Michael Clarke in late 2015, after which he predominantly batted at number 3 or 4.
