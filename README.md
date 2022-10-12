@@ -59,6 +59,10 @@ At 19, Rishabh Pant has gone through all the highs and lows of a cricketing care
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
+##Cheteshwar Arvind Pujara
+
+Cheteshwar Arvind Pujara is an Indian international cricketer who plays Test cricket for India and represents Saurashtra in domestic cricket. He is a right-handed batsman who made his first-class debut for Saurashtra in December 2005 and made his Test debut at Bangalore in October 2010.
+He was a part of the India A team which toured England in the 2010 summers and was the highest scorer of the tour. In October 2011, the BCCI awarded him a D grade national contract. Known to have a sound technique and the temperament required to play long innings, he was one of the contenders for a spot in the Indian middle order after the retirement of Rahul Dravid and VVS Laxman.[3] and was a part of the IPL 2021 winning team Chennai Super Kings.
 
 ## K.L. Rahul
 
