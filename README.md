@@ -231,3 +231,25 @@ In October 2018, she was named in India's squad for the 2018 ICC Women's World T
 Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked in CISF for more than 25 years. Later Singh's family shifted to Kharar, near Chandigarh, where Singh now live with his family. Darshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
+
+## Mayank Anurag
+
+Mayank Anurag Agarwal (born 16 February 1991) is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League. He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG. 
+
+Agarwal was born on 16 February 1991 in Bangalore. His father Anurag Agarwal is the CEO of the US$35 million healthcare company Natural Remedies. Agarwal studied at the Bishop Cotton Boys' School and Jain University in Bangalore, where he was teammates with K. L. Rahul and Karun Nair.
+
+Agarwal came to prominence with his performances in the Under-19 Cooch Behar Trophy in 2008-09 and 2010 ICC Under-19 Cricket World Cup, in which he was the leading run-getter for India. He was also adjudged Man of the Series in the Karnataka Premier League in 2010.
+
+In November 2017, he scored his maiden triple century in first-class cricket, when he made 304 not out batting for Karnataka against Maharashtra in the 2017–18 Ranji Trophy. It was the 50th triple century scored in first-class cricket in India. During the same month, he scored 1,000 runs in first-class cricket. He was the leading run-scorer in the 2017–18 Ranji Trophy, finishing the tournament with 1,160 runs.
+
+In January 2018, he was bought by the Kings XI Punjab in the 2018 IPL auction. In February 2018, he was the leading run-scorer in the 2017–18 Vijay Hazare Trophy, with 723 runs in eight matches. He scored 2,141 runs across all formats, the highest total by any batsman in an Indian domestic season. In June 2018, he was awarded with the Madhavrao Scindia Award For The Highest Run-Scorer In Ranji Trophy by the Board of Control for Cricket in India (BCCI).
+
+He was the leading run-scorer for Karnataka in the 2018–19 Vijay Hazare Trophy, with 251 runs in seven matches. In October 2018, he was named in India B's squad for the 2018–19 Deodhar Trophy. The following month, he was named as one of eight players to watch ahead of the 2018–19 Ranji Trophy. In October 2019, he was named in India C's squad for the 2019–20 Deodhar Trophy.
+
+On 27 September 2020, Mayank scored his maiden Indian Premier League century for Kings XI Punjab against Rajasthan Royals in Sharjah Cricket Stadium. He scored 106 off 50 balls in the match but ended up on the losing side. He scored a total of 424 runs in 11 matches for Kings XI Punjab at an average of 38.54 in IPL 2020.
+
+Agarwal became the 13th captain of the Punjab Kings on 2 May 2021, when he captained the team against Delhi Capitals in the absence of the regular captain KL Rahul, who had undergone appendicitis surgery. He scored a 99*, making him the third batsman in the IPL to score 99 not out, and was awarded the Man of the Match award although the team ended up on the losing side.
+
+Ahead of IPL 2022 season, Mayank was retained by Punjab Kings for INR 12Cr (US$1.6 Million). 
+
+On 28 February 2022, He was appointed as a captain of Punjab Kings and became 12th full time captain of the franchise.
