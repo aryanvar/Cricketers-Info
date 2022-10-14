@@ -1,3 +1,8 @@
+## Gautam Gambhir
+Gautam Gambhir's cricketing career has all the trappings of a typical Bollywood flick- the glamour, the drama, the passion, the chutzpah, the wrangles, and of course the proverbial acche din and bure din.
+
+Gambhir's journey as a first-class cricketer began in the 1999-2000 season. But, it was a couple of years later, in 2002, that the Delhi lad first stole the spotlight. Then playing for the Board President's XI against a touring Zimbabwe team, the left-hander smashed a double century scoring 218 runs. A year later, came the big moment: Gambhir secured his place in the Indian team for the TVS Cup, a triangular fixture.
+
 # Cricketers-Info
 
 Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
