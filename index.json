@@ -1485,4 +1485,11 @@
         "Role": "A right-handed batsman",
     },
 
+    {
+        "id": 95,
+        "Name": "Ravindrasinh Anirudhsinh Jadeja",
+        "Age": "33",
+        "Role": "A Left Handed batsman",
+    },
+
 ]
