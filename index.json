@@ -1493,6 +1493,14 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+
+    {
+        "id": 189,
+        "Name":  "Yash Dhul",
+        "Age": "19",
+        "Role": "right hand Batsman",
+    },
+
 {
 
         "id": 143,
@@ -1570,5 +1578,6 @@
         "Role": " Left-handed Batsman ",
 
     },
+
 
 ]
