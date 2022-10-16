@@ -1532,6 +1532,11 @@
 
 
 {
+        "id": 150,
+        "name": "Jacque Kalis",
+        "Age": "53",
+        "Role": "Bowler"
+}
         "id": 142,
         "Name":  "Mahaboob Alam",
         "Age": "41",
@@ -1687,5 +1692,12 @@
 	
 },
 
+
+{
+        "id": 145,
+        "name": "Navjot sidhu",
+        "Age": "43",
+        "Role": "batsman"
+},
 
 ]
