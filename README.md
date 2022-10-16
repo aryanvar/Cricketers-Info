@@ -239,6 +239,24 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+## Rishad Pant
+Rishabh Rajendra Pant (born 4 October 1997), is an Indian cricketer who plays as a middle order wicket-keeper batter for India, Delhi, and captains the Delhi Capitals in the Indian Premier League. He was the vice-captain of the India U-19 team for the 2016 Under-19 Cricket World Cup.
+
+He made his Twenty20 International (T20I) debut for India in January 2017, his Test debut in August 2018, and his One Day International (ODI) debut in October 2018. In January 2019, Pant was named the ICC Men's Emerging Cricketer of the Year at the 2018 ICC Awards. In February 2021, Pant was named the Men's Player of the Month in the first edition of the ICC Player of the Month Awards.
+
+In June 2022, Pant was named as the Indian captain for the T20I series against South Africa, after the designated captain KL Rahul was ruled of the series due to an injury.
+
+Pant made his first-class debut on 22 October 2015 in the 2015–16 Ranji Trophy and his List A debut the next month in the 2015–16 Vijay Hazare Trophy.
+
+In the 2016–17 Ranji Trophy, while playing a match against Maharashtra, Pant scored 308 runs in an innings, becoming the third-youngest Indian to score a triple century in first-class cricket.
+
+On 8 November 2016, Pant scored the fastest century in the Ranji Trophy, from just 48 balls, in Delhi's match against Jharkhand.
+
+In February 2017, Pant was named Delhi's captain for the 2016–17 Vijay Hazare Trophy. He took over from Gautam Gambhir, who led Delhi to the final of the previous season. Delhi coach Bhaskar Pillai said it was a "consensus decision" to prepare Pant for the future.
+
+On 14 January 2018, in the 2017–18 Zonal T20 League match between Himachal Pradesh and Delhi, Pant scored the second-fastest century in a Twenty20 match, making 100 from 32 balls.
+
+
 ## Mahendra Singh Dhoni
 
 In 1995, M.S Dhoni joined the Commando cricket club and stood behind the stumps for them for the next three years. He was then picked for the Vinoo Mankad Trophy Under-16 Championship in the 1997/98 season and performed well.
