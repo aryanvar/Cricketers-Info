@@ -1527,7 +1527,12 @@
         "Role": "Batsman",
 
     },
-
+    {
+        "id": 2,
+        "Name" : "Arshdeep Singh",
+        "Age" : "23",
+        "Role" : "Bowler"
+    },
 
 
 ]
