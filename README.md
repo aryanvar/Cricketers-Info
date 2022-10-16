@@ -239,4 +239,14 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+## Mahendra Singh Dhoni
+
+In 1995, M.S Dhoni joined the Commando cricket club and stood behind the stumps for them for the next three years. He was then picked for the Vinoo Mankad Trophy Under-16 Championship in the 1997/98 season and performed well.
+In 1998, Dhoni started to play for the Central Coal Fields Limited (CCL) team. During his time at the CCL, Deval Sahay would gift him fifty rupees for every 6 that he scored in Sheesh Mahal tournament cricket games. Sahay then pushed for Dhoni selection in the Bihar team.
+Dhoni was selected in 1998 by Deval Sahay to play for the Central CoalFields Limited (CCL) team. This was the first time that Dhoni stepped into professional cricket. Dhoni showed exceptional talent which impressed Deval Sahay who used his contacts in Bihar Cricket Association to push for his selection in the Bihar team.
+Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was also included in the Bihar U-19 squad for the 1998-99 season where he scored 176 runs in 7 innings from 5 matches.Dhoni however was not picked for the East Zone U-19 squad (CK Nayudu Trophy) or Rest of India squad (MA Chidambaram Trophy and Vinoo Mankad Trophy). Dhoni made the first-class debut in Ranji Trophy debut for Bihar in the 1999 - 2000 season. He was just eighteen-year-old at that moment.
+After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
+Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
+
 ##Christopher Henry Gayle was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+

@@ -1484,12 +1484,19 @@
         "Name":  "Mahaboob Alam",
         "Age": "41",
         "Role": "left hand Batsman",
-    };
+    },
 
-]
- {
+{
+    "id": 7,
+    "Name" : "M.S Dhoni",
+    "Age" : "41",
+    "Role" : "wicket kepper Batsmen"
+},
+
+  {
         "id": 007,
         "name": "Virat Kohli",
         "Age": "33",
         "Role": "Batsman",
     },
+]
