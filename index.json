@@ -702,6 +702,14 @@
         "Role": "Bowler",
     },
   
+ {
+        "id": 12,
+        "name": "Rajat Patil",
+        "Age": "19",
+        "Role": "Batsman",
+    },
+  
+
    {
         "id": 80,
         "Name": "Smriti Mandhana",
@@ -1485,6 +1493,35 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+
+    {
+        "id": 189,
+        "Name":  "Yash Dhul",
+        "Age": "19",
+        "Role": "right hand Batsman",
+    },
+
+{
+
+        "id": 143,
+        "name": "Ravi Shastri",
+        "Age": "60",
+        "Role": "commentator and former captain ",
+    },
+    {
+        "id": 142,
+        "Name":  "raju pal",
+        "Age": "441",
+        "Role": " Batsman",
+    },
+
+{
+        "id": 242,
+        "Name":  "navdeep Alam",
+        "Age": "413",
+        "Role": "right hand Batsman",
+    },
+
     {
         "id": 132,
         "Name":  "manoj gautam",
@@ -1500,7 +1537,7 @@
     },
 
    {
-  "id": 992,
+        "id": 992,
         "Name":  "waseem ahmed",
         "Age": "471",
         "Role": " Batsman",
@@ -1527,7 +1564,20 @@
         "Role": "Batsman",
 
     },
+    {
 
+        "id": 2,
+        "Name" : "Arshdeep Singh",
+        "Age" : "23",
+        "Role" : "Bowler"
+    },
+    {
+        "id": 709,
+        "Name":  "Danushka Gunathilaka",
+        "Age": "31",
+        "Role": " Left-handed Batsman ",
+
+    },
 
 
 ]
