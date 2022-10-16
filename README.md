@@ -249,6 +249,16 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
 
+
+## Virender Sehwag
+Virender sehwag (born 20 october 1978) is a former indian cricketer. He represented india from 1999 to 2013. He played for delhi and haryana in indian domestic cricket. He played as aggressive opening batsman throughout his playing days.
+
+Widely regarded as one of the most destructive batsmen of all time. Sehwag played as an aggressive right-handed opening batsman and also bowled part-time right-arm off-spin.
+
+He played his first one day international in 1999 and joined the indian test side in 2001. In april 2009, sehwag became the first indian to be honoured as the wisden leading cricketer in the world for his performance in 2008, subsequently becoming the first player of any nationality to retain the award for 2009. He worked as stand-in captain occasionally during absence of main captain of india, also worked as vice-captain for indian squad. He is former captain of delhi daredevils and delhi ranji team.
+
+Sehwag holds multiple records including the highest score made by an indian in test cricket (319 against south africa at m. A. Chidambaram stadium in chennai), which was also the fastest triple century in the history of international cricket (reached 300 off only 278 balls) as well as the fastest 250 by any batsman (in 207 balls against sri lanka on 3 december 2009 at the brabourne stadium in mumbai). Sehwag also holds the distinction of being one of four batsmen in the world to have ever surpassed 300 twice in test cricket. In march 2009, sehwag smashed what was till then the fastest century ever scored by an indian in odi cricket, from 60 balls. On 8 december 2011, he hit his maiden double century in odi cricket, against west indies, becoming the second batsman after sachin tendulkar to reach the landmark. His score became the highest individual score in odi cricket219 off 149 balls which was later bettered by rohit sharma264 off 173 balls on 13 november 2014. He is one of only two players in the world to score a double hundred in odi and a triple hundred in test cricket, the other being chris gayle.
+
 ## Mayank Anurag
 
 Mayank Anurag Agarwal (born 16 February 1991) is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League. He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG. 
