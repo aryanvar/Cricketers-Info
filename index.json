@@ -1716,4 +1716,11 @@
         "Role": "Right-Handed Batsman",
     },
 
+  {
+        "id": 56,
+        "Name": "Anil Tiwary",
+        "Age": "30",
+        "Role": "left-arm fast bowler",
+    },
+
 ]
