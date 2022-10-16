@@ -1493,6 +1493,13 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+{
+        "id": 242,
+        "Name":  "navdeep Alam",
+        "Age": "413",
+        "Role": "right hand Batsman",
+    },
+
     {
         "id": 132,
         "Name":  "manoj gautam",
@@ -1548,6 +1555,7 @@
         "Age": "31",
         "Role": " Left-handed Batsman ",
     },
+
 
 
 ]
