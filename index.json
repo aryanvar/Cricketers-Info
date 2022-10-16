@@ -1485,6 +1485,13 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+   {
+  "id": 992,
+        "Name":  "waseem ahmed",
+        "Age": "471",
+        "Role": " Batsman",
+    },
+
   {
         "id": 155,
         "Name":  "kalip panday",
@@ -1506,4 +1513,5 @@
         "Role": "Batsman",
 
     },
+
 ]
