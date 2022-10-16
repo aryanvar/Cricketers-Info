@@ -1446,7 +1446,8 @@
         "name": "sandeep seni",
         "Age": "32",
         "Role": "Bowler"
-},{
+},
+{
 
         "id": 142,
         "name": "kuldeep ",
@@ -1501,6 +1502,14 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+
+{
+        "id": 146, 
+	      "Name": "Pat Cummins", 
+	      "Age": "29", 
+	      "Role": "Bowler",
+},
+
 
 {
         "id": 143,
