@@ -183,6 +183,12 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
+## Mahendra Singh Dhoni 
+Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
+Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
+Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
+
+
 
 ## Mohammed Shami
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
@@ -219,6 +225,7 @@ Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් ම
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
+## Mahend
 
 ## Dayalan Hemalatha
 
@@ -228,10 +235,9 @@ In October 2018, she was named in India's squad for the 2018 ICC Women's World T
 
 ## Arshdeep Singh
 
-Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked in CISF for more than 25 years. Later Singh's family shifted to Kharar, near Chandigarh, where Singh now live with his family. Darshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
+Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked inCISF for more than 25 years. Later Singh' family shifted to Kharar, near Chandigar, where Singh now live with his family. Drshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
-
 ## James Anderson
 James Michael Anderson OBE (born 30 July 1982) is an English international cricketer who plays for Lancashire County Cricket Club and the England cricket team. He is also a part time cricket commentator for the BBC. Among fast bowlers, Anderson is the leading wicket-taker of all-time at Test cricket level, being the only fast bowler to have taken 600 or more Test wickets; among all types of bowler, he is the third-highest wicket-taker overall.He also holds the record for the most wickets taken by an England player in One-Day International (ODI) cricket. In June 2021, he made his 174th appearance for England in Test cricket, becoming England's most capped player.He has also played nearly 200 One Day Internationals.He is regarded as one of the greatest swing bowlers in the history of cricket.
 
