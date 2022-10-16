@@ -1485,6 +1485,13 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+    {
+        "id": 122,
+        "Name":  "nitin patil",
+        "Age": "241",
+        "Role": " Batsman",
+    },
+
    {
   "id": 992,
         "Name":  "waseem ahmed",
@@ -1513,5 +1520,6 @@
         "Role": "Batsman",
 
     },
+
 
 ]
