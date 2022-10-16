@@ -248,6 +248,28 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+## Mayank Anurag
+
+Mayank Anurag Agarwal (born 16 February 1991) is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League. He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG. 
+
+Agarwal was born on 16 February 1991 in Bangalore. His father Anurag Agarwal is the CEO of the US$35 million healthcare company Natural Remedies. Agarwal studied at the Bishop Cotton Boys' School and Jain University in Bangalore, where he was teammates with K. L. Rahul and Karun Nair.
+
+Agarwal came to prominence with his performances in the Under-19 Cooch Behar Trophy in 2008-09 and 2010 ICC Under-19 Cricket World Cup, in which he was the leading run-getter for India. He was also adjudged Man of the Series in the Karnataka Premier League in 2010.
+
+In November 2017, he scored his maiden triple century in first-class cricket, when he made 304 not out batting for Karnataka against Maharashtra in the 2017–18 Ranji Trophy. It was the 50th triple century scored in first-class cricket in India. During the same month, he scored 1,000 runs in first-class cricket. He was the leading run-scorer in the 2017–18 Ranji Trophy, finishing the tournament with 1,160 runs.
+
+In January 2018, he was bought by the Kings XI Punjab in the 2018 IPL auction. In February 2018, he was the leading run-scorer in the 2017–18 Vijay Hazare Trophy, with 723 runs in eight matches. He scored 2,141 runs across all formats, the highest total by any batsman in an Indian domestic season. In June 2018, he was awarded with the Madhavrao Scindia Award For The Highest Run-Scorer In Ranji Trophy by the Board of Control for Cricket in India (BCCI).
+
+He was the leading run-scorer for Karnataka in the 2018–19 Vijay Hazare Trophy, with 251 runs in seven matches. In October 2018, he was named in India B's squad for the 2018–19 Deodhar Trophy. The following month, he was named as one of eight players to watch ahead of the 2018–19 Ranji Trophy. In October 2019, he was named in India C's squad for the 2019–20 Deodhar Trophy.
+
+On 27 September 2020, Mayank scored his maiden Indian Premier League century for Kings XI Punjab against Rajasthan Royals in Sharjah Cricket Stadium. He scored 106 off 50 balls in the match but ended up on the losing side. He scored a total of 424 runs in 11 matches for Kings XI Punjab at an average of 38.54 in IPL 2020.
+
+Agarwal became the 13th captain of the Punjab Kings on 2 May 2021, when he captained the team against Delhi Capitals in the absence of the regular captain KL Rahul, who had undergone appendicitis surgery. He scored a 99*, making him the third batsman in the IPL to score 99 not out, and was awarded the Man of the Match award although the team ended up on the losing side.
+
+Ahead of IPL 2022 season, Mayank was retained by Punjab Kings for INR 12Cr (US$1.6 Million). 
+
+On 28 February 2022, He was appointed as a captain of Punjab Kings and became 12th full time captain of the franchise.
+
 ## Deepak Chahar
 Deepak Chahar (born 7 August 1992) is an Indian International cricketer. He is a right-arm medium-fast bowler and bowling all rounder , who plays for Rajasthan in domestic cricket and Chennai Super Kings in the Indian Premier League.
 He became the first Indian male cricketer to take a hat-trick in a Twenty20 International (T20I) match. In January 2020, Chahar was awarded with the T20I Performance of the Year award by the International Cricket Council (ICC), after taking six wickets for seven runs against Bangladesh. 
@@ -311,5 +333,4 @@ He made his IPL debut for Kings XI Punjab on 16 April 2019. In the 2019 IPL, he 
 In May 2022, he was selected for the Indian teams home T20 series against South Africa. He was included in the Indian ODI and T20 squads that toured England in June 2022. Arshdeep made his T20I debut on 7 July 2022, playing against England. In July 2022, he again got a place in the Indian team that toured the West Indies, where he took 7 wickets in the 5-match series and won the man of the series title. After this, on 8 August 2022, he was included in the Indian team that toured Dubai in the Asia Cup
 Indias performance in the Asia Cup was quite disappointing and after Super 4 the team had to pull out of the tournament after losing two consecutive matches to Pakistan and Sri Lanka. In a match between India and Pakistan in the same tournament, when the match was very exciting and at its final stage, Arshdeep missed a very simple catch of a Pakistani batsman. After which people started trolling him very badly on social media. The match was won by Pakistan by 5 wickets, after which Arshdeeps Wikipedia page was also tampered with.
 Later tracing the IP address revealed that his page was vandalized from Pakistan. After dropping the catch, the trollers wrote on Arshdeeps Wikipedia page as a match player for Khalistan instead of India. Calling him a traitor also insulted him. Let us tell you that in that match between India and Pakistan also Arshdeep Singh bowled at an economy rate of 7.04 for 27 runs in 3.5 overs with a wicket. Even after missing the catch, Pakistan needed 27 runs. Pakistan needed seven runs in the last over, despite this Arshdeep defended the match for five balls and made Pakistan victory very difficult.
-
 
