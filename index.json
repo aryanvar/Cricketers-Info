@@ -1700,4 +1700,13 @@
         "Role": "batsman"
 },
 
+
+
+  {
+        "id": 2001,
+        "Name": "Chaminda Vaas",
+        "Age": "34",
+        "Role": "right-arm fast bowler",
+    },
+
 ]
