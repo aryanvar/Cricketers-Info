@@ -1495,6 +1495,20 @@
     },
 
     {
+        "id": 94,
+        "Name": "Mahendra Singh Dhoni",
+        "Age": "41",
+        "Role": "A right-handed batsman",
+    },
+
+    {
+        "id": 95,
+        "Name": "Ravindrasinh Anirudhsinh Jadeja",
+        "Age": "33",
+        "Role": "A Left Handed batsman",
+    },
+
+    {
         "id": 189,
         "Name":  "Yash Dhul",
         "Age": "19",
@@ -1578,6 +1592,5 @@
         "Role": " Left-handed Batsman ",
 
     },
-
 
 ]
