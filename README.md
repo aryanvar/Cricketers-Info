@@ -248,6 +248,20 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+##  JANNEMAN MALAN
+
+Malan was included in the North West squad for the 2016 Africa T20 Cup.[2] In August 2017, he was named in Bloem City Blazers' squad for the first season of the T20 Global League.[3] However, in October 2017, Cricket South Africa initially postponed the tournament until November 2018, with it being cancelled soon after.[4]
+
+Malan was the leading run-scorer in the 2017–18 CSA Provincial One-Day Challenge tournament, with 500 runs in ten matches.[5] He was also the leading run-scorer in the 2017–18 Sunfoil 3-Day Cup tournament, with 1,046 runs in ten matches.[6]
+
+In June 2018, Malan was named in the squad for the Cape Cobras team for the 2018–19 season.[7] In September 2018, he was named in Western Province's squad for the 2018 Africa T20 Cup.[8] He was the leading run-scorer for Western Province in the tournament, with 178 runs in four matches.[9]
+
+In October 2018, Malan was named in Cape Town Blitz's squad for the first edition of the Mzansi Super League T20 tournament.[10][11] In September 2019, he was named in the squad for the Cape Town Blitz team for the 2019 Mzansi Super League tournament.[12] In April 2021, he was named in Boland's squad, ahead of the 2021–22 cricket season in South Africa.[13]
+
+In April 2021, Malan was signed by Islamabad United to play in the rescheduled matches in the 2021 Pakistan Super League.[14] In July 2022, he was signed by the Galle Gladiators for the third edition of the Lanka Premier League.
+
+In September 2022 Malan was bought in the SA20 player auction by the Johannesburg Super Kings for the inaugural 2023 season.
+
 
 ## Ellyse Alexandra Perry
 Ellyse Alexandra Perry (born 3 November 1990) is an Australian sportswoman who has represented her country in cricket and association football. Having debuted for both the national cricket team and the national soccer team at the age of 16, she is the youngest Australian to play international cricket and the first to have appeared in both ICC and FIFA World Cups. Gradually becoming a single-sport professional athlete from 2014 onward, Perry's acclaimed cricket career has continued to flourish and she is now widely considered to be one of the greatest female players ever.
@@ -349,5 +363,6 @@ He made his IPL debut for Kings XI Punjab on 16 April 2019. In the 2019 IPL, he 
 In May 2022, he was selected for the Indian teams home T20 series against South Africa. He was included in the Indian ODI and T20 squads that toured England in June 2022. Arshdeep made his T20I debut on 7 July 2022, playing against England. In July 2022, he again got a place in the Indian team that toured the West Indies, where he took 7 wickets in the 5-match series and won the man of the series title. After this, on 8 August 2022, he was included in the Indian team that toured Dubai in the Asia Cup
 Indias performance in the Asia Cup was quite disappointing and after Super 4 the team had to pull out of the tournament after losing two consecutive matches to Pakistan and Sri Lanka. In a match between India and Pakistan in the same tournament, when the match was very exciting and at its final stage, Arshdeep missed a very simple catch of a Pakistani batsman. After which people started trolling him very badly on social media. The match was won by Pakistan by 5 wickets, after which Arshdeeps Wikipedia page was also tampered with.
 Later tracing the IP address revealed that his page was vandalized from Pakistan. After dropping the catch, the trollers wrote on Arshdeeps Wikipedia page as a match player for Khalistan instead of India. Calling him a traitor also insulted him. Let us tell you that in that match between India and Pakistan also Arshdeep Singh bowled at an economy rate of 7.04 for 27 runs in 3.5 overs with a wicket. Even after missing the catch, Pakistan needed 27 runs. Pakistan needed seven runs in the last over, despite this Arshdeep defended the match for five balls and made Pakistan victory very difficult.
+
 
 
