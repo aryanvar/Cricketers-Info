@@ -248,6 +248,12 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+## Steve Smith
+
+Steven Peter Devereux Smith (born 2 June 1989) is an Australian international cricketer and former captain of the Australian national team. Smith has drawn comparisons to Don Bradman, widely acknowledged as the greatest batsman of all time, due to his distinctively high Test batting average.[3]
+
+Although he was initially selected for Australia as a right-arm leg spinner, Smith later played primarily as a batsman. After playing five matches from 2010 to 2011, he was recalled to the Australian team in 2013, and took over the captaincy from Michael Clarke in late 2015, after which he predominantly batted at number 3 or 4.
+
 ##  JANNEMAN MALAN
 
 Malan was included in the North West squad for the 2016 Africa T20 Cup.[2] In August 2017, he was named in Bloem City Blazers' squad for the first season of the T20 Global League.[3] However, in October 2017, Cricket South Africa initially postponed the tournament until November 2018, with it being cancelled soon after.[4]
@@ -363,6 +369,4 @@ He made his IPL debut for Kings XI Punjab on 16 April 2019. In the 2019 IPL, he 
 In May 2022, he was selected for the Indian teams home T20 series against South Africa. He was included in the Indian ODI and T20 squads that toured England in June 2022. Arshdeep made his T20I debut on 7 July 2022, playing against England. In July 2022, he again got a place in the Indian team that toured the West Indies, where he took 7 wickets in the 5-match series and won the man of the series title. After this, on 8 August 2022, he was included in the Indian team that toured Dubai in the Asia Cup
 Indias performance in the Asia Cup was quite disappointing and after Super 4 the team had to pull out of the tournament after losing two consecutive matches to Pakistan and Sri Lanka. In a match between India and Pakistan in the same tournament, when the match was very exciting and at its final stage, Arshdeep missed a very simple catch of a Pakistani batsman. After which people started trolling him very badly on social media. The match was won by Pakistan by 5 wickets, after which Arshdeeps Wikipedia page was also tampered with.
 Later tracing the IP address revealed that his page was vandalized from Pakistan. After dropping the catch, the trollers wrote on Arshdeeps Wikipedia page as a match player for Khalistan instead of India. Calling him a traitor also insulted him. Let us tell you that in that match between India and Pakistan also Arshdeep Singh bowled at an economy rate of 7.04 for 27 runs in 3.5 overs with a wicket. Even after missing the catch, Pakistan needed 27 runs. Pakistan needed seven runs in the last over, despite this Arshdeep defended the match for five balls and made Pakistan victory very difficult.
-
-
 
