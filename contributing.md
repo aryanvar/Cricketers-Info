@@ -17,6 +17,12 @@
   <li>age=20</li>
   <li>role : added new player in index</li>
   </ul>
+<ul>
+  <li>id="Rivubanerjee04"</li>
+  <li>name=Rivu Banerjee</li>
+  <li>age=19</li>
+  <li>role : Virat Koholi</li>
+  </ul>
 
 
 ]
