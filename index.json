@@ -1446,12 +1446,13 @@
         "name": "sandeep seni",
         "Age": "32",
         "Role": "Bowler"
-},
+},{
 
         "id": 142,
         "name": "kuldeep ",
         "Age": "41",
-        "Role": "all-rounder"
+        "Role": "all-rounder"},
+    {
 
         "id": 141,
         "name": "smith",
@@ -1500,6 +1501,13 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
+    {
+        "id": 143,
+        "Name":  "Bobby Deol",
+        "Age": "41",
+        "Role": "Bowler"
+    }
+
 
     {
         "id": 94,
