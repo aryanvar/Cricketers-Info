@@ -249,6 +249,11 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
 
+## Ellyse Alexandra Perry
+Ellyse Alexandra Perry (born 3 November 1990) is an Australian sportswoman who has represented her country in cricket and association football. Having debuted for both the national cricket team and the national soccer team at the age of 16, she is the youngest Australian to play international cricket and the first to have appeared in both ICC and FIFA World Cups. Gradually becoming a single-sport professional athlete from 2014 onward, Perry's acclaimed cricket career has continued to flourish and she is now widely considered to be one of the greatest female players ever.
+
+Due to her on-field performance, off-field marketability and stature as "the ultimate role model", Perry is credited as a leading figure for the rising female presence in Australia's sporting culture.
+
 
 ## Virender Sehwag
 Virender sehwag (born 20 october 1978) is a former indian cricketer. He represented india from 1999 to 2013. He played for delhi and haryana in indian domestic cricket. He played as aggressive opening batsman throughout his playing days.
