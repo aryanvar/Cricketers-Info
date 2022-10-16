@@ -1,3 +1,7 @@
+
+## Suresh Raina
+Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
+
 ## Gautam Gambhir
 Gautam Gambhir's cricketing career has all the trappings of a typical Bollywood flick- the glamour, the drama, the passion, the chutzpah, the wrangles, and of course the proverbial acche din and bure din.
 
