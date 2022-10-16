@@ -183,6 +183,12 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
+## Mahendra Singh Dhoni 
+Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
+Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
+Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
+
+
 
 ## Mohammed Shami
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
@@ -219,6 +225,7 @@ Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් ම
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
+## Mahend
 
 ## Dayalan Hemalatha
 
@@ -228,6 +235,50 @@ In October 2018, she was named in India's squad for the 2018 ICC Women's World T
 
 ## Arshdeep Singh
 
-Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked in CISF for more than 25 years. Later Singh's family shifted to Kharar, near Chandigarh, where Singh now live with his family. Darshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
+Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna Madhya Pradesh, where his father was posted in Central Industrial Security Force (CISF). His father worked inCISF for more than 25 years. Later Singh' family shifted to Kharar, near Chandigar, where Singh now live with his family. Drshan Singh now works as a security head in Groz Beckert Asia inside Industrial Area of Chandigarh. He started playing gully cricket with neighborhood boys and later joined Jaswant Rai's cricket academy, Chandigarh in 2015.
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
+
+## Ravi Shastri
+Ravishankar Jayadritha Shastri (born 27 May 1962) is the former head coach of the India national cricket team, a cricket commentator and former captain of Indian Cricket Team. As a player, he played for the India national cricket team between 1981 and 1992 in both Test matches and One Day Internationals. Although he started his career as a left arm spin bowler, he later transformed into a batting all-rounder.
+
+As a cricketer, Shastri was essentially defensive with his trademark "chapati shot"[1][2] (a flick off the pads), but he could raise his strike rate when required. Due to his above-average height (he stood 6' 3" tall) and an upright stance, he had a limited number of shots against fast bowling, but was able to put the lofted shot to good use against spin bowling. Ravi played either as an opening batsman or in the middle order.
+
+The highlight of his career was when he was elected Champion of Champions in the World Championship of Cricket in Australia in 1985. In the same season, on 10 January 1985,[3] he equaled West Indian Garry Sobers's record of hitting six sixes in an over in first class cricket. He was regarded as a potential captain, but his image outside cricket,[4] injuries and tendency to lose form at crucial times meant that he captained India in only one Test match.
+## Rishad Pant
+Rishabh Rajendra Pant (born 4 October 1997), is an Indian cricketer who plays as a middle order wicket-keeper batter for India, Delhi, and captains the Delhi Capitals in the Indian Premier League. He was the vice-captain of the India U-19 team for the 2016 Under-19 Cricket World Cup.
+
+He made his Twenty20 International (T20I) debut for India in January 2017, his Test debut in August 2018, and his One Day International (ODI) debut in October 2018. In January 2019, Pant was named the ICC Men's Emerging Cricketer of the Year at the 2018 ICC Awards. In February 2021, Pant was named the Men's Player of the Month in the first edition of the ICC Player of the Month Awards.
+
+In June 2022, Pant was named as the Indian captain for the T20I series against South Africa, after the designated captain KL Rahul was ruled of the series due to an injury.
+
+Pant made his first-class debut on 22 October 2015 in the 2015–16 Ranji Trophy and his List A debut the next month in the 2015–16 Vijay Hazare Trophy.
+
+In the 2016–17 Ranji Trophy, while playing a match against Maharashtra, Pant scored 308 runs in an innings, becoming the third-youngest Indian to score a triple century in first-class cricket.
+
+On 8 November 2016, Pant scored the fastest century in the Ranji Trophy, from just 48 balls, in Delhi's match against Jharkhand.
+
+In February 2017, Pant was named Delhi's captain for the 2016–17 Vijay Hazare Trophy. He took over from Gautam Gambhir, who led Delhi to the final of the previous season. Delhi coach Bhaskar Pillai said it was a "consensus decision" to prepare Pant for the future.
+
+On 14 January 2018, in the 2017–18 Zonal T20 League match between Himachal Pradesh and Delhi, Pant scored the second-fastest century in a Twenty20 match, making 100 from 32 balls.
+
+
+## Mahendra Singh Dhoni
+
+In 1995, M.S Dhoni joined the Commando cricket club and stood behind the stumps for them for the next three years. He was then picked for the Vinoo Mankad Trophy Under-16 Championship in the 1997/98 season and performed well.
+In 1998, Dhoni started to play for the Central Coal Fields Limited (CCL) team. During his time at the CCL, Deval Sahay would gift him fifty rupees for every 6 that he scored in Sheesh Mahal tournament cricket games. Sahay then pushed for Dhoni selection in the Bihar team.
+Dhoni was selected in 1998 by Deval Sahay to play for the Central CoalFields Limited (CCL) team. This was the first time that Dhoni stepped into professional cricket. Dhoni showed exceptional talent which impressed Deval Sahay who used his contacts in Bihar Cricket Association to push for his selection in the Bihar team.
+Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was also included in the Bihar U-19 squad for the 1998-99 season where he scored 176 runs in 7 innings from 5 matches.Dhoni however was not picked for the East Zone U-19 squad (CK Nayudu Trophy) or Rest of India squad (MA Chidambaram Trophy and Vinoo Mankad Trophy). Dhoni made the first-class debut in Ranji Trophy debut for Bihar in the 1999 - 2000 season. He was just eighteen-year-old at that moment.
+After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
+Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
+
+##Christopher Henry Gayle was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+
+## Arshdeep Singh
+
+This article covers a detailed story about Indian Cricketer Arshdeep Singh. It Covers more details about Arshdeep Singh Biography, Wikipedia, Wiki, Early Life, Age, Date of Birth, IPL 2022,birthday, Height in Feet, Body measurement, Career, jersey number 2, Bowling Speed, Caste, original name, real name, wife, photos, Affairs, Marital Status, Father, Mother, Siblings, sisters, family photos, Kids, Son, Daughter, Photos, About, Facebook, Instagram, Twitter, House, Net Worth, IPL Salary, Facts, Occupation, Profession, Education, Education Qualification, Achievements, Awards, Photos, Videos, Gossips, News, Career & more.
+Arshdeep Singh is an Indian international fast bowler who plays cricket for the Indian team. He is one of the leading fast bowlers of the Punjab Kings in IPL. He was born on 5 February 1999 in Guna, Madhya Pradesh. He made his List A debut for Punjab in the Vijay Hazare Trophy on 19 September 2018. He was part of the Indian squad in the 2018 ICC Under 19 Cricket World Cup before making his List A debut. Seeing his excellent performance, Punjab Kings bought him in the IPL 2018 auction.
+He made his IPL debut for Kings XI Punjab on 16 April 2019. In the 2019 IPL, he became the second-highest wicket-taker of that season due to his superb bowling. Apart from this, Arshdeep made his first-class debut for Punjab in the Ranji Trophy on 25 December 2019. In June 2021, he was included as a net bowler for the Indian teams tour of Sri Lanka. The last two T20Is on that tour saw him play for the Indian team after most of the Indian players tested positive for COVID-19.
+In May 2022, he was selected for the Indian teams home T20 series against South Africa. He was included in the Indian ODI and T20 squads that toured England in June 2022. Arshdeep made his T20I debut on 7 July 2022, playing against England. In July 2022, he again got a place in the Indian team that toured the West Indies, where he took 7 wickets in the 5-match series and won the man of the series title. After this, on 8 August 2022, he was included in the Indian team that toured Dubai in the Asia Cup
+Indias performance in the Asia Cup was quite disappointing and after Super 4 the team had to pull out of the tournament after losing two consecutive matches to Pakistan and Sri Lanka. In a match between India and Pakistan in the same tournament, when the match was very exciting and at its final stage, Arshdeep missed a very simple catch of a Pakistani batsman. After which people started trolling him very badly on social media. The match was won by Pakistan by 5 wickets, after which Arshdeeps Wikipedia page was also tampered with.
+Later tracing the IP address revealed that his page was vandalized from Pakistan. After dropping the catch, the trollers wrote on Arshdeeps Wikipedia page as a match player for Khalistan instead of India. Calling him a traitor also insulted him. Let us tell you that in that match between India and Pakistan also Arshdeep Singh bowled at an economy rate of 7.04 for 27 runs in 3.5 overs with a wicket. Even after missing the catch, Pakistan needed 27 runs. Pakistan needed seven runs in the last over, despite this Arshdeep defended the match for five balls and made Pakistan victory very difficult.
