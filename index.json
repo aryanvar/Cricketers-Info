@@ -1478,4 +1478,12 @@
         "Role": "left hand Batsman",
     },
 
+{
+    "id": 7,
+    "Name" : "M.S Dhoni",
+    "Age" : "41",
+    "Role" : "wicket kepper Batsmen"
+}
+
 ]
+

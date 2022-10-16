@@ -17,6 +17,11 @@
   <li>age=20</li>
   <li>role : added new player in index</li>
   </ul>
-
+   <ul>
+  <li>id="Ritikraja07"</li>
+  <li>name=Ritik raja</li>
+  <li>age=20</li>
+  <li>role : added about M.S dhoni </li>
+  </ul>
 
 ]
