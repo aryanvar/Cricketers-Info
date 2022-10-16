@@ -264,6 +264,12 @@
         "name": "KL Rahul",
         "Age": "30",
         "Role": "Right-handed",
+    },	
+{
+        "id": 125,
+        "name": "Aasif Sheikh",
+        "Age": "21",
+        "Role": "Wicketkeeper",
     },
     {
         "id": 39,
