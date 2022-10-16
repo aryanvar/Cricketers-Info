@@ -252,6 +252,16 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+## Ravi Shastri
+
+Ravishankar Jayadritha Shastri (born 27 May 1962) is the former head coach of the India national cricket team, a cricket commentator and former captain of Indian Cricket Team. As a player, he played for the India national cricket team between 1981 and 1992 in both Test matches and One Day Internationals. Although he started his career as a left arm spin bowler, he later transformed into a batting all-rounder.
+
+As a cricketer, Shastri was essentially defensive with his trademark "chapati shot" (a flick off the pads), but he could raise his strike rate when required. Due to his above-average height (he stood 6' 3" tall) and an upright stance, he had a limited number of shots against fast bowling, but was able to put the lofted shot to good use against spin bowling. Ravi played either as an opening batsman or in the middle order.
+
+The highlight of his career was when he was elected Champion of Champions in the World Championship of Cricket in Australia in 1985. In the same season, on 10 January 1985, he equaled West Indian Garry Sobers's record of hitting six sixes in an over in first class cricket. He was regarded as a potential captain, but his image outside cricket, injuries and tendency to lose form at crucial times meant that he captained India in only one Test match.
+
+In domestic cricket, he played for Bombay and led them to the Ranji Trophy title in his final year of playing. He also played four seasons of county cricket for Glamorgan. He was forced to retire aged 31 due to a recurring knee injury. He has done commentary on behalf of BCCI in the matches that India play.In 2014, he became the director of Indian cricket team for a period of eight months from India's tour of England till the 2015 World Cup. On 13 July 2017, he was appointed as the head coach of Indian cricket team.On 16 August 2019, he was re-appointed as the head coach of the senior men's Indian team and remained in charge until the 2021 ICC T20 World Cup.
+
 ## Steve Smith
 
 Steven Peter Devereux Smith (born 2 June 1989) is an Australian international cricketer and former captain of the Australian national team. Smith has drawn comparisons to Don Bradman, widely acknowledged as the greatest batsman of all time, due to his distinctively high Test batting average.[3]
@@ -373,4 +383,5 @@ He made his IPL debut for Kings XI Punjab on 16 April 2019. In the 2019 IPL, he 
 In May 2022, he was selected for the Indian teams home T20 series against South Africa. He was included in the Indian ODI and T20 squads that toured England in June 2022. Arshdeep made his T20I debut on 7 July 2022, playing against England. In July 2022, he again got a place in the Indian team that toured the West Indies, where he took 7 wickets in the 5-match series and won the man of the series title. After this, on 8 August 2022, he was included in the Indian team that toured Dubai in the Asia Cup
 Indias performance in the Asia Cup was quite disappointing and after Super 4 the team had to pull out of the tournament after losing two consecutive matches to Pakistan and Sri Lanka. In a match between India and Pakistan in the same tournament, when the match was very exciting and at its final stage, Arshdeep missed a very simple catch of a Pakistani batsman. After which people started trolling him very badly on social media. The match was won by Pakistan by 5 wickets, after which Arshdeeps Wikipedia page was also tampered with.
 Later tracing the IP address revealed that his page was vandalized from Pakistan. After dropping the catch, the trollers wrote on Arshdeeps Wikipedia page as a match player for Khalistan instead of India. Calling him a traitor also insulted him. Let us tell you that in that match between India and Pakistan also Arshdeep Singh bowled at an economy rate of 7.04 for 27 runs in 3.5 overs with a wicket. Even after missing the catch, Pakistan needed 27 runs. Pakistan needed seven runs in the last over, despite this Arshdeep defended the match for five balls and made Pakistan victory very difficult.
+
 
