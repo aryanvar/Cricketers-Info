@@ -347,6 +347,7 @@
         "Age": "23",
         "Role": "Bowling",
     },
+
     {
         "id": 50,
         "name": "Sam Curran",
@@ -1470,6 +1471,13 @@
         "Age": "25",
         "Role": "Batting Allounder",
     },
+    {   
+        "id": 1006,
+        "name": "Mahendra Singh Dhoni",
+        "Age": 41,
+        "Role": "Wicketkeeper-Batsmen"
+    },
+
 
 {
         "id": 142,
@@ -1477,9 +1485,25 @@
         "Age": "41",
         "Role": "left hand Batsman",
     },
-  "id": 155,
+  {
+        "id": 155,
         "Name":  "kalip panday",
         "Age": "555",
         "Role": " Batsman",
+    },
+
+{
+    "id": 7,
+    "Name" : "M.S Dhoni",
+    "Age" : "41",
+    "Role" : "wicket kepper Batsmen"
+},
+
+  {
+        "id": 007,
+        "name": "Virat Kohli",
+        "Age": "33",
+        "Role": "Batsman",
+
     },
 ]
