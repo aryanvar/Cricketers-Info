@@ -239,6 +239,12 @@ Arshdeep Sigh was born in a Sikh family to Darshan Singh and Baljit Kaur at Guna
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.
 
+## Ravi Shastri
+Ravishankar Jayadritha Shastri (born 27 May 1962) is the former head coach of the India national cricket team, a cricket commentator and former captain of Indian Cricket Team. As a player, he played for the India national cricket team between 1981 and 1992 in both Test matches and One Day Internationals. Although he started his career as a left arm spin bowler, he later transformed into a batting all-rounder.
+
+As a cricketer, Shastri was essentially defensive with his trademark "chapati shot"[1][2] (a flick off the pads), but he could raise his strike rate when required. Due to his above-average height (he stood 6' 3" tall) and an upright stance, he had a limited number of shots against fast bowling, but was able to put the lofted shot to good use against spin bowling. Ravi played either as an opening batsman or in the middle order.
+
+The highlight of his career was when he was elected Champion of Champions in the World Championship of Cricket in Australia in 1985. In the same season, on 10 January 1985,[3] he equaled West Indian Garry Sobers's record of hitting six sixes in an over in first class cricket. He was regarded as a potential captain, but his image outside cricket,[4] injuries and tendency to lose form at crucial times meant that he captained India in only one Test match.
 ## Rishad Pant
 Rishabh Rajendra Pant (born 4 October 1997), is an Indian cricketer who plays as a middle order wicket-keeper batter for India, Delhi, and captains the Delhi Capitals in the Indian Premier League. He was the vice-captain of the India U-19 team for the 2016 Under-19 Cricket World Cup.
 

@@ -1494,6 +1494,13 @@
         "Role": "left hand Batsman",
     },
 {
+
+        "id": 143,
+        "name": "Ravi Shastri",
+        "Age": "60",
+        "Role": "commentator and former captain ",
+    },
+    {
         "id": 142,
         "Name":  "raju pal",
         "Age": "441",
@@ -1561,6 +1568,7 @@
         "Name":  "Danushka Gunathilaka",
         "Age": "31",
         "Role": " Left-handed Batsman ",
+
     },
 
 ]
