@@ -1865,5 +1865,41 @@
         "Age": "22",
         "Role": "Right Handed Batsman",
     },
+    {
+        "id": 306,
+        "name": "Smriti Mandhana",
+        "Age": "26",
+        "Role": "Left Handed Batter",
+    },
+   {
+        "id": 307,
+        "name": "Washington Sundar",
+        "Age": "23",
+        "Role": "Batting Allounder",
+    },
+   {
+        "id": 308,
+        "name": "Sarfaraz Khan",
+        "Age": "24",
+        "Role": "Right Handed Batter",
+    },
+   {
+        "id": 309,
+        "name": "Abhishek Sharma",
+        "Age": "22",
+        "Role": "Bowling Allounder",
+    },
+   {
+        "id": 310,
+        "name": "Jemimah Rodrigues",
+        "Age": "22",
+        "Role": "Right Handed Batter",
+    },
+   {
+        "id": 311,
+        "name": "Umran Malik",
+        "Age": "22",
+        "Role": "Right Arm Fast Bowler",
+    },
 
 ]
