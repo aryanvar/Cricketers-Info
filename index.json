@@ -1762,6 +1762,12 @@
         "Age": "42",
         "Role": "left-Handed Batsman",
     },
+{
+        "id": 202,
+        "Name": "Hashim Amla",
+        "Age": "39",
+        "Role": "right-Handed Batsman",
+    },
 
     {
         "id": 4004,
@@ -1787,4 +1793,5 @@
         "Age": "27",
         "Role": "left-Handed Batsman",
     },
+
 ]
