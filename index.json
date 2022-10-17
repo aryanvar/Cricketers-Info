@@ -1793,5 +1793,41 @@
         "Age": "27",
         "Role": "left-Handed Batsman",
     },
+    {
+        "id": 300,
+        "Name": "Shubman Gill",
+        "Age": "23",
+        "Role": "All-rounder",
+    },
+    {
+        "id": 301,
+        "Name": "Sam Curran",
+        "Age": "24",
+        "Role": "All-rounder",
+    },
+    {
+        "id": 302,
+        "Name": "Rashid Khan",
+        "Age": "24",
+        "Role": "Leg Breaker",
+    },
+    {
+        "id": 303,
+        "Name": "Ollie Pope",
+        "Age": "24",
+        "Role": "Wicketkeeper-Batsman",
+    },
+    {
+        "id": 304,
+        "Name": "Tom Banton",
+        "Age": "23",
+        "Role": "Wicketkeeper-Batsman",
+    },
+    {
+        "id": 305,
+        "Name": "Prithvi Shaw",
+        "Age": "22",
+        "Role": "Right Handed Batsman",
+    },
 
 ]
