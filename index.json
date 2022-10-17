@@ -1731,11 +1731,41 @@
         "Role": "left-arm fast bowler",
     },
 
-  {
-        "id": 4001,
-        "Name": "adam marcrum",
+    {
+        "id": 201,
+        "Name": "Manoj pandey",
         "Age": "32",
         "Role": "right-hand bowler",
     },
+{
+        "id": 4002,
+        "Name": "riky pointing",
+        "Age": "45",
+        "Role": "right-Handed Batsman",
+    },
 
+    {
+        "id": 4004,
+        "Name": "rahul dravid",
+        "Age": "39",
+        "Role": "right-Handed Batsman",
+    },
+    {
+        "id": 4005,
+        "Name": "asis tiwari",
+        "Age": "43",
+        "Role": "left-Handed Bbowler",
+    },
+    {
+        "id": 4008,
+        "Name": "unnat kut",
+        "Age": "37",
+        "Role": "right-Handed Batsman",
+    },
+    {
+        "id": 2001,
+        "Name": "Himanshu sharma",
+        "Age": "27",
+        "Role": "left-Handed Batsman",
+    },
 ]
