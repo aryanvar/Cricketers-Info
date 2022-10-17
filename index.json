@@ -1737,6 +1737,12 @@
         "Age": "32",
         "Role": "right-hand bowler",
     },
+    {
+        "id": 49,
+        "Name": "Sachin Tendulkar",
+        "Age": "49",
+        "Role": "batsman",
+},
 {
         "id": 4002,
         "Name": "riky pointing",
@@ -1748,7 +1754,7 @@
         "Name": "afridi",
         "Age": "42",
         "Role": "left-Handed Batsman",
-    }
+    },
 
     {
         "id": 4004,
