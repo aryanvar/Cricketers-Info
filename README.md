@@ -532,3 +532,12 @@ He was selected as a net bowler for India's team for the ICC Men's T20 World Cup
 first first-class match for India A against South Africa A.Malik was included in the Twenty20 International (T20I) team for India's series against South Africa in 
 May 2022. He was included in India's T20I squad for their two-match series against Ireland the following month. On June 26, 2022, he played his first T20 
 International for India against Ireland.
+
+
+##sarah taylor
+Sarah Jane Taylor (born 20 May 1989) is an English cricketer and cricket coach. She appeared in 10 Test matches, 126 One Day Internationals and 90 Twenty20 Internationals for England between 2006 and her retirement from international cricket in 2019 due to an anxiety issue. Taylor is the fastest cricketer, male or female, to earn their first cap in all three formats of international cricket, doing so in the space of nine days against India in 2006.
+
+She has played domestic cricket for Sussex, Lancashire Thunder, Surrey Stars, Northern Diamonds, Welsh Fire, Wellington, South Australia and Adelaide Strikers. She is a wicket-keeper-batter known for her free-flowing stroke play, opening the batting in limited-overs matches and batting in the middle order in Test cricket.
+She opened the batting for England in their victories in the 50 over World Cup in Australia and the World T20 in 2009. However, she pulled out of the England tours of 2010 and 2011, including the Ashes match in Australia.
+
+She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
