@@ -1793,6 +1793,14 @@
         "Age": "27",
         "Role": "left-Handed Batsman",
     },
+
+{
+        "id": 102,
+        "name": "Kane Williamson",
+        "Age": "32",
+        "Role": "Right-handed Batsman",
+    },
+
     {
         "id": 300,
         "Name": "Shubman Gill",
