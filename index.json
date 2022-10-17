@@ -1730,18 +1730,19 @@
         "Age": "30",
         "Role": "left-arm fast bowler",
     },
+
     {
         "id": 201,
         "Name": "Manoj pandey",
         "Age": "32",
-        "Role": "left-Handed Batsman",
+        "Role": "right-hand bowler",
     },
 {
         "id": 4002,
         "Name": "riky pointing",
         "Age": "45",
         "Role": "right-Handed Batsman",
-    }
+    },
 
     {
         "id": 4004,
