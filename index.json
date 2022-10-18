@@ -1920,5 +1920,18 @@
         "Age": "50",
         "Role": "Left Handed Batsman",
     },
+ {
+        "id": 315,
+        "name": "Umran Malik",
+        "Age": "22",
+        "Role": "Right Arm Fast Bowler",
+    },
+ {
+        "id": 316,
+        "name": "Mushfiqur Rahim",
+        "Age": "35",
+        "Role": "Right-handed Batter",
+    },
+
 
 ]
