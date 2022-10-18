@@ -1950,12 +1950,13 @@
         "Age": "35",
         "Role": "Right-handed Batter",
     },
- {
+    {
         "id": 317,
         "name": "Tamsin Tilley Beaumont",
         "Age": "31",
         "Role": "Right-handed",
     },
+
 {
 	"id": 318,
 	"name": "Kane Williamson",
@@ -1975,5 +1976,41 @@
 	"Role": "left-handed batsman",
 },
 
+{
+        "id": 469,
+        "name": " Ahmed Raza ",
+        "Age": "34",
+        "Role": "Left Handed Batsman",
+    },
+    {
+        "id": 3044,
+        "name": "parmanand",
+        "Age": "37",
+        "Role": "Right-handed bowler",
+    },
+    {
+        "id": 3046,
+        "name": "kiran",
+        "Age": "29",
+        "Role": "Right-handed",
+    },
+    {
+        "id": 3048,
+        "name": "krishna iyer",
+        "Age": "26",
+        "Role": "Right-handed",
+        },
+      {
+        "id": 3050,
+        "name": "Muyan ali",
+        "Age": "31",
+        "Role": "Right-handed bowler",
+     },
+{
+        "id": 3047,
+        "name": "devid miller",
+        "Age": "31",
+        "Role": "left-handed",
+    },
 
 ]
