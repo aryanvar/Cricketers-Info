@@ -1956,14 +1956,32 @@
         "Age": "31",
         "Role": "Right-handed",
     },
- {
+
+{
+	"id": 318,
+	"name": "Kane Williamson",
+	"Age": 32,
+	"Role": "Right-handed batsman",
+},
+{
+	"id":319,
+	"name": "Ben stokes",
+	"Age": 31,
+	"Role": "All-rounder",
+},
+{
+	"id": 320,
+	"name": "Quinton de Kock",
+	"Age": 29,
+	"Role": "left-handed batsman",
+},
+
+{
         "id": 469,
         "name": " Ahmed Raza ",
         "Age": "34",
         "Role": "Left Handed Batsman",
     },
-
-
     {
         "id": 3044,
         "name": "parmanand",
