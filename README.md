@@ -89,11 +89,17 @@ He also finished fourth on the first-class rankings, despite playing only six of
 De Kock made his international debut in the first match of South Africa's home Twenty20 International series against the touring New Zealanders during the 2012/13 season. He was asked to keep wickets in place of AB de Villiers, who asked to be rested. He has since played regularly for the team at both One Day International (ODI) and Twenty20 International (T20I) level. In February 2014, he also made his Test debut for South Africa, playing solely as a batsman.
 By his 20th ODI match, De Kock had already scored five centuries. He became the fourth player to score three successive one-day centuries and the second player to score four ODI centuries before his 21st birthday.In his 74th ODI, against Sri Lanka on 10 February 2017, he became the fastest player to complete 12 ODI hundreds, bettering Hashim Amla, who had achieved the landmark in 81 innings.
 
+## Glenn Maxwell
+Glenn James Maxwell (born 14 October 1988) is an Australian professional cricketer, who represents Australia national cricket team in One Day International and Twenty20 International formats of the game and has played Test cricket for Australia. Maxwell is an all-rounder who bats right handed and bowl off break. He represents Victoria and Melbourne Stars in Australian domestic cricket.
+His professional cricketing career was launched when he started playing for Victoria in the Twenty20 Big Bash in 2010.Known for his dramatic shot making and improvisation in the short form of the game,he scored 102 from 52 balls against Sri Lanka in the 2015 World Cup, the second fastest World Cup century to date.He also scored an unbeaten 145* from 65 balls against Sri Lanka in 2016, the fourth highest score in Twenty20 Internationals.
+In spite of his power hitting in the short form of the game, he has shown ability in the longer form of the game, including a maiden test century against India in Ranchi on 16 March 2017, in which he scored 104 from 185 balls. In doing so, he became the second Australian to score centuries in all three formats, after Shane Watson, and joined an elite club of only 13 other cricketers who have achieved this feat.On 24 November 2017 he scored his maiden double century in the Sheffield Shield competition, He was dismissed for 278 from 318 balls in an innings which included 36 fours and four sixes.
+In 2011, he set the record for the fastest ever half-century in Australian domestic one day cricket, scoring 50 runs off 19 balls.Then, in February 2013, the Indian Premier League team the Mumbai Indians bought him for $1 million US. In March 2013, he made his Test debut against India in the second Test at Hyderabad.
+
 
 ## Jasprit Bumrah
 In an Indian team desperately searching for a death overs' bowler, Jasprit Bumrah came to the fore through the Indian Premier League, as a boon for cricket in the country. The scantily-built pacer from Gujarat has managed to perfect the art of bowling inch-perfect yorkers as an understudy to Lasith Malinga as a part of the Mumbai Indians franchise and has grown into an indispensable asset for the Indian team in the limited-overs format.
 
-## DINESH KARTIK
+## DINESH KARTHIK
 
 Krishnakumar Dinesh Karthik (born 1 June 1985) is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. He made his debut for the Indian cricket team in 2004. Karthik has become the 4th Indian batsman to play 300 T20 matches.[1]
 
@@ -108,7 +114,7 @@ Kapil made his debut in 1978 and gradually started to produce performances of su
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175\* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
-## RISHAB PANT
+## RISHABH PANT
 
 At 19, Rishabh Pant has gone through all the highs and lows of a cricketing career. A promising talent from Delhi, Pant came into reckoning after his exploits for India Under-19 in the 2016 World Cup. A dashing left-handed wicket-keeper batsman, he lit up the tournament with a blitzing 24-ball 75, the fastest half-century of the tournament, against Nepal and followed it up with a century against Namibia. India lost the title round - but came back with several positives - nothing bigger than the emergence of Pant.
 
@@ -168,7 +174,7 @@ Sanju started his cricketing career in Delhi and later moved to Kerala in his ea
 
 ## DALE STEYN
 
-Dale steyn is an south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
+Dale steyn is a south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
 
 steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
 
@@ -561,3 +567,8 @@ In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auctio
 
 Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
 
+##Lasith Malinga
+
+Separamadu Lasith Malinga , nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname. Malinga announced his retirement from all forms of cricket on 14 September 2021.
+
+Malinga's unorthodox action and dipping slower ball yorkers are credited with much of his success.He changed the dynamics and landscape of death bowling in limited overs cricket by bowling his toe crushing yorkers. He is best known for his ability to take consecutive wickets, with in-swinging yorkers: he is the only bowler in the world to have two World Cup hat-tricks,first bowler to take a double hatrick, the only bowler to have taken three hat-tricks in ODIs and only bowler to have two double hatricks. He is also the first bowler to take five hat-tricks across all formats of international cricket, and holds the record for most hat-tricks in international cricket.
