@@ -1950,7 +1950,7 @@
         "Age": "35",
         "Role": "Right-handed Batter",
     },
- {
+    {
         "id": 317,
         "name": "Tamsin Tilley Beaumont",
         "Age": "31",
@@ -1976,6 +1976,80 @@
 },
 	
 
+      {
+        "id": 318,
+        "name": "Harmanpreet Kaur",
+        "Age": "33",
+        "Role": "Right-handed",
+    },
 
+
+{
+	"id": 318,
+	"name": "Kane Williamson",
+	"Age": 32,
+	"Role": "Right-handed batsman",
+},
+{
+	"id":319,
+	"name": "Ben stokes",
+	"Age": 31,
+	"Role": "All-rounder",
+},
+{
+	"id": 320,
+	"name": "Quinton de Kock",
+	"Age": 29,
+	"Role": "left-handed batsman",
+},
+
+{
+        "id": 469,
+        "name": " Ahmed Raza ",
+        "Age": "34",
+        "Role": "Left Handed Batsman",
+    },
+    {
+        "id": 3044,
+        "name": "parmanand",
+        "Age": "37",
+        "Role": "Right-handed bowler",
+    },
+    {
+        "id": 3046,
+        "name": "kiran",
+        "Age": "29",
+        "Role": "Right-handed",
+    },
+    {
+        "id": 3048,
+        "name": "krishna iyer",
+        "Age": "26",
+        "Role": "Right-handed",
+        },
+      {
+        "id": 3050,
+        "name": "Muyan ali",
+        "Age": "31",
+        "Role": "Right-handed bowler",
+     },
+{
+        "id": 3047,
+        "name": "devid miller",
+        "Age": "31",
+        "Role": "left-handed",
+    },
+{
+        "id": 3048,
+        "name": "Suresh Raina Stats",
+        "Age": "35",
+        "Role": " left-handed batsman ",
+    },
+{
+        "id": 3051,
+        "name": "Marcus Trescothick",
+        "Age": "50",
+        "Role": "right-handed batsman",
+    },
 
 ]
