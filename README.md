@@ -541,3 +541,12 @@ She has played domestic cricket for Sussex, Lancashire Thunder, Surrey Stars, No
 She opened the batting for England in their victories in the 50 over World Cup in Australia and the World T20 in 2009. However, she pulled out of the England tours of 2010 and 2011, including the Ashes match in Australia.
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
+
+##Venkatesh Iyer
+
+Venkatesh Iyer (born 25 December 1994) is an Indian cricketer who plays for Madhya Pradesh in domestic cricket and Kolkata Knight Riders in the Indian Premier League (IPL).
+Iyer made his Twenty20 debut against Railways cricket team at Holkar Stadium in March 2015 and made his List A debut against Saurashtra cricket team at Saurashtra Cricket Association Stadium in December of the same year, while he was pursuing a Bachelor of Commerce degree. After passing the CA Intermediate examinations, he decided to dropout and enroll himself in a Master of Business Administration in finance to allow him to pursue cricket further.[6] He made his first-class debut for Madhya Pradesh in the 2018–19 Ranji Trophy on 6 December 2018.
+
+In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auction ahead of the 2021 Indian Premier League.On 20 September 2021, upon resumption of the IPL in the United Arab Emirates, he made his IPL debut against Royal Challengers Bangalore. On 23 September 2021, he scored his maiden IPL fifty against Mumbai Indians.
+
+Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
