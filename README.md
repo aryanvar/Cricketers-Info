@@ -86,7 +86,7 @@ The late former New Zealand cricketer, Martin Crowe, noted that, "we're seeing t
 ## Jasprit Bumrah
 In an Indian team desperately searching for a death overs' bowler, Jasprit Bumrah came to the fore through the Indian Premier League, as a boon for cricket in the country. The scantily-built pacer from Gujarat has managed to perfect the art of bowling inch-perfect yorkers as an understudy to Lasith Malinga as a part of the Mumbai Indians franchise and has grown into an indispensable asset for the Indian team in the limited-overs format.
 
-## DINESH KARTIK
+## DINESH KARTHIK
 
 Krishnakumar Dinesh Karthik (born 1 June 1985) is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. He made his debut for the Indian cricket team in 2004. Karthik has become the 4th Indian batsman to play 300 T20 matches.[1]
 
@@ -101,7 +101,7 @@ Kapil made his debut in 1978 and gradually started to produce performances of su
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175\* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
-## RISHAB PANT
+## RISHABH PANT
 
 At 19, Rishabh Pant has gone through all the highs and lows of a cricketing career. A promising talent from Delhi, Pant came into reckoning after his exploits for India Under-19 in the 2016 World Cup. A dashing left-handed wicket-keeper batsman, he lit up the tournament with a blitzing 24-ball 75, the fastest half-century of the tournament, against Nepal and followed it up with a century against Namibia. India lost the title round - but came back with several positives - nothing bigger than the emergence of Pant.
 
@@ -161,7 +161,7 @@ Sanju started his cricketing career in Delhi and later moved to Kerala in his ea
 
 ## DALE STEYN
 
-Dale steyn is an south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
+Dale steyn is a south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
 
 steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
 

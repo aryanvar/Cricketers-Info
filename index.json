@@ -1956,11 +1956,24 @@
         "Age": "31",
         "Role": "Right-handed",
     },
-
+{
+        "id": 3048,
+        "name": "krishna iyer",
+        "Age": "26",
+        "Role": "Right-handed",
+        },
+      {
+        "id": 3050,
+        "name": "Muyan ali",
+        "Age": "31",
+        "Role": "Right-handed bowler",
+     },
 {
         "id": 3047,
         "name": "devid miller",
         "Age": "31",
         "Role": "left-handed",
-    }
+    },
+
+
 ]
