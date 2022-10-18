@@ -82,6 +82,13 @@ Williamson made his first-class cricket debut in December 2007.He made his U-19 
 Williamson was the only New Zealander to be named in the ICC Test Team of the Decade (2011–2020).
 The late former New Zealand cricketer, Martin Crowe, noted that, "we're seeing the dawn of probably our greatest ever batsman" in Williamson.
 
+## Quniton de Kock
+Quinton de Kock (born 17 December 1992) is a South African cricketer and former captain of the Proteas in all three formats. He currently plays for South Africa in limited overs cricket, Titans at the domestic level, and Lucknow Super Giants in the Indian Premier League. 
+He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards.An opening batsman and wicket-keeper, de Kock made his domestic debut for the Highveld Lions during the 2012/2013 season. He quickly caught the national selectors' eye when he starred in a match-winning partnership with Neil McKenzie in the Champions League T20 against the Mumbai Indians in the Indian Premier League (IPL). 
+He also finished fourth on the first-class rankings, despite playing only six of the 10 matches that summer.
+De Kock made his international debut in the first match of South Africa's home Twenty20 International series against the touring New Zealanders during the 2012/13 season. He was asked to keep wickets in place of AB de Villiers, who asked to be rested. He has since played regularly for the team at both One Day International (ODI) and Twenty20 International (T20I) level. In February 2014, he also made his Test debut for South Africa, playing solely as a batsman.
+By his 20th ODI match, De Kock had already scored five centuries. He became the fourth player to score three successive one-day centuries and the second player to score four ODI centuries before his 21st birthday.In his 74th ODI, against Sri Lanka on 10 February 2017, he became the fastest player to complete 12 ODI hundreds, bettering Hashim Amla, who had achieved the landmark in 81 innings.
+
 
 ## Jasprit Bumrah
 In an Indian team desperately searching for a death overs' bowler, Jasprit Bumrah came to the fore through the Indian Premier League, as a boon for cricket in the country. The scantily-built pacer from Gujarat has managed to perfect the art of bowling inch-perfect yorkers as an understudy to Lasith Malinga as a part of the Mumbai Indians franchise and has grown into an indispensable asset for the Indian team in the limited-overs format.
