@@ -554,3 +554,11 @@ In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auctio
 
 Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
 
+##Harmanpreet Kaur
+Kaur admits to being "... not at all good at cooking." Her favourite meal is dal, or anything gravy-based, and she eats non-vegetarian food only when eating out. During overseas tours, she is often served sandwiches, which she finds "challenging".[65] Prior to matches, she eats light; after them, she has a heavy meal, "... to make up for lost calories."[65] Since about 2019, she has avoided eating glutens, even though foods containing such proteins are traditionally popular in Punjab. In 2021, she told ESPNcricinfo:
+
+"That decision has paid off massively as my recovery post-match or post-injury has become quicker.
+
+Harmanpreet Kaur born 8 March 1989) is an Indian cricketer who serves as the captain of the India Women's National Cricket Team in all formats .She plays as an all-rounder for the Indian women's cricket team;[3][4][5] and was awarded the Arjuna Award for Cricket in the year 2017 by the Ministry of Youth Affairs and Sports.
+
+In November 2018, she became the first woman for India to score a century in a Women's Twenty20 International (WT20I) match. In October 2019, during the series against South Africa, she became the first cricketer for India, male or female, to play in 100 international Twenty20 matches.
