@@ -567,8 +567,18 @@ In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auctio
 
 Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
 
+##Harmanpreet Kaur
+Kaur admits to being "... not at all good at cooking." Her favourite meal is dal, or anything gravy-based, and she eats non-vegetarian food only when eating out. During overseas tours, she is often served sandwiches, which she finds "challenging".[65] Prior to matches, she eats light; after them, she has a heavy meal, "... to make up for lost calories."[65] Since about 2019, she has avoided eating glutens, even though foods containing such proteins are traditionally popular in Punjab. In 2021, she told ESPNcricinfo:
+
+"That decision has paid off massively as my recovery post-match or post-injury has become quicker.
+
+Harmanpreet Kaur born 8 March 1989) is an Indian cricketer who serves as the captain of the India Women's National Cricket Team in all formats .She plays as an all-rounder for the Indian women's cricket team;[3][4][5] and was awarded the Arjuna Award for Cricket in the year 2017 by the Ministry of Youth Affairs and Sports.
+
+In November 2018, she became the first woman for India to score a century in a Women's Twenty20 International (WT20I) match. In October 2019, during the series against South Africa, she became the first cricketer for India, male or female, to play in 100 international Twenty20 matches.
+
 ##Lasith Malinga
 
 Separamadu Lasith Malinga , nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname. Malinga announced his retirement from all forms of cricket on 14 September 2021.
 
 Malinga's unorthodox action and dipping slower ball yorkers are credited with much of his success.He changed the dynamics and landscape of death bowling in limited overs cricket by bowling his toe crushing yorkers. He is best known for his ability to take consecutive wickets, with in-swinging yorkers: he is the only bowler in the world to have two World Cup hat-tricks,first bowler to take a double hatrick, the only bowler to have taken three hat-tricks in ODIs and only bowler to have two double hatricks. He is also the first bowler to take five hat-tricks across all formats of international cricket, and holds the record for most hat-tricks in international cricket.
+
