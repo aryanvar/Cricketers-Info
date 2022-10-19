@@ -2052,6 +2052,12 @@
         "Role": "right-handed batsman",
     },
 {
+        "id": 84,
+        "name": "Stuart Binny",
+        "Age": "38",
+        "Role": "right-handed batsman",
+    },
+    {
         "id": 66,
         "name": "Sandeep Sharma",
         "Age": "29",
@@ -2062,7 +2068,6 @@
         "name": "Chetan Sakariya",
         "Age": "24",
         "Role": "left-handed batsman",
-
     },
 {
         "id": 96308,
