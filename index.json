@@ -1970,7 +1970,7 @@
 },
 {
 	"id": 320,
-	"name": "Quinton de Kock,
+	"name": "Quinton de Kock",
 	"Age": 29,
 	"Role": "left-handed batsman",
 },
@@ -2052,13 +2052,18 @@
         "Role": "right-handed batsman",
     },
 {
+        "id": 66,
+        "name": "Sandeep Sharma",
+        "Age": "29",
+        "Role": "right arm bowler",
+     },
+    {
         "id": 28,
         "name": "Chetan Sakariya",
         "Age": "24",
         "Role": "left-handed batsman",
-    },
 
-]
+    },
 {
         "id": 96308,
         "Name":  "AMOL MAJUMDAR",
