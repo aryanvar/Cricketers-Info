@@ -2050,6 +2050,13 @@
         "Age": "50",
         "Role": "right-handed batsman",
     },
+
+{
+        "id": 4323,
+        "name": "krih venketase",
+        "Age": "50",
+        "Role": "right-handed bowler",
+    },
     {
         "id": 43321,
         "name": "brendum singh",
@@ -2122,4 +2129,5 @@
         "Age": "47",
         "Role": "right hand Batsman",
     },
+
 ]
