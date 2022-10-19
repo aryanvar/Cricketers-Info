@@ -120,7 +120,7 @@ At 19, Rishabh Pant has gone through all the highs and lows of a cricketing care
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
-##Cheteshwar Arvind Pujara
+## Cheteshwar Arvind Pujara
 
 Cheteshwar Arvind Pujara is an Indian international cricketer who plays Test cricket for India and represents Saurashtra in domestic cricket. He is a right-handed batsman who made his first-class debut for Saurashtra in December 2005 and made his Test debut at Bangalore in October 2010.
 He was a part of the India A team which toured England in the 2010 summers and was the highest scorer of the tour. In October 2011, the BCCI awarded him a D grade national contract. Known to have a sound technique and the temperament required to play long innings, he was one of the contenders for a spot in the Indian middle order after the retirement of Rahul Dravid and VVS Laxman.[3] and was a part of the IPL 2021 winning team Chennai Super Kings.
@@ -197,7 +197,7 @@ Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup i
 Shikhar Dhawan (born 5 December 1985) is an Indian cricketer. Being a left-handed opening batsman and occasional captain of the India national cricket team, he plays for Punjab Kings in the Indian Premier League and Delhi in first-class cricket. At the 2013 Champions Trophy, 2015 World Cup, and 2017 Champions Trophy, Dhawan was the leading run-scorer for India.He also became the first player in the history of IPL to score two back-to-back centuries.He was awarded the 'Player of the Tournament' for his exploits in the 2013 ICC Champions Trophy.
 Dhawan made his One Day International (ODI) debut against Australia in October 2010 at Visakhapatnam. His Test debut came against the same opposition in March 2013 at Mohali, where he scored the fastest century by any batsman on Test debut and ended his innings with 187 runs from 174 balls.
 
-##Mithali Raj
+## Mithali Raj
 Mithali Dorai Raj (born 3 December 1982) is an Indian cricketer and a former captain of the India women's national cricket team from 2004 to 2022. Mithali is the highest run-scorer in women’s international cricket and is considered one of the greatest cricketers of all time.
 Mithali holds numerous records in international cricket. She is the only female cricketer to surpass the 7,000-run mark in Women's One Day International matches. She is the first player to score seven consecutive 50s in ODIs. She also holds the record for most half-centuries in WODIs. In June 2018, during the 2018 Women's Twenty20 Asia Cup, she became the first player from India, male or female, to score 2000 runs in T20Is, and also became the first woman cricketer to reach 2000 WT20I runs.
 
@@ -290,7 +290,6 @@ Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් ම
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
-## Mahend
 
 ## Dayalan Hemalatha
 
@@ -425,7 +424,8 @@ Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was
 After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
 Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
 
-##Christopher Henry Gayle was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+## Christopher Henry Gayle
+He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
 
 ## Arshdeep Singh
 
@@ -547,7 +547,7 @@ May 2022. He was included in India's T20I squad for their two-match series again
 International for India against Ireland.
 
 
-##sarah taylor
+## Sarah taylor
 Sarah Jane Taylor (born 20 May 1989) is an English cricketer and cricket coach. She appeared in 10 Test matches, 126 One Day Internationals and 90 Twenty20 Internationals for England between 2006 and her retirement from international cricket in 2019 due to an anxiety issue. Taylor is the fastest cricketer, male or female, to earn their first cap in all three formats of international cricket, doing so in the space of nine days against India in 2006.
 
 She has played domestic cricket for Sussex, Lancashire Thunder, Surrey Stars, Northern Diamonds, Welsh Fire, Wellington, South Australia and Adelaide Strikers. She is a wicket-keeper-batter known for her free-flowing stroke play, opening the batting in limited-overs matches and batting in the middle order in Test cricket.
@@ -555,10 +555,10 @@ She opened the batting for England in their victories in the 50 over World Cup i
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
 
-##Tamsin Tilley Beaumont
+## Tamsin Tilley Beaumont
 Beaumont was born in Dover, Kent.[1] She began playing cricket in nearby Sandwich,[2][3] where she also attended Sir Roger Manwood's School.[4] When she was eight years old, her mother, Julie, secured her very first selection in a cricket team.[1] Beaumont's brother, Michael, was captain of an Under-11 side coached by her father, Kevin, a research scientist. As Beaumont later explained to Wisden Cricketers' Almanack in 2019
 
-##Venkatesh Iyer
+## Venkatesh Iyer
 
 Venkatesh Iyer (born 25 December 1994) is an Indian cricketer who plays for Madhya Pradesh in domestic cricket and Kolkata Knight Riders in the Indian Premier League (IPL).
 Iyer made his Twenty20 debut against Railways cricket team at Holkar Stadium in March 2015 and made his List A debut against Saurashtra cricket team at Saurashtra Cricket Association Stadium in December of the same year, while he was pursuing a Bachelor of Commerce degree. After passing the CA Intermediate examinations, he decided to dropout and enroll himself in a Master of Business Administration in finance to allow him to pursue cricket further.[6] He made his first-class debut for Madhya Pradesh in the 2018–19 Ranji Trophy on 6 December 2018.
@@ -567,7 +567,7 @@ In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auctio
 
 Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
 
-##Harmanpreet Kaur
+## Harmanpreet Kaur
 Kaur admits to being "... not at all good at cooking." Her favourite meal is dal, or anything gravy-based, and she eats non-vegetarian food only when eating out. During overseas tours, she is often served sandwiches, which she finds "challenging".[65] Prior to matches, she eats light; after them, she has a heavy meal, "... to make up for lost calories."[65] Since about 2019, she has avoided eating glutens, even though foods containing such proteins are traditionally popular in Punjab. In 2021, she told ESPNcricinfo:
 
 "That decision has paid off massively as my recovery post-match or post-injury has become quicker.
@@ -576,7 +576,7 @@ Harmanpreet Kaur born 8 March 1989) is an Indian cricketer who serves as the cap
 
 In November 2018, she became the first woman for India to score a century in a Women's Twenty20 International (WT20I) match. In October 2019, during the series against South Africa, she became the first cricketer for India, male or female, to play in 100 international Twenty20 matches.
 
-##Lasith Malinga
+## Lasith Malinga
 
 Separamadu Lasith Malinga , nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname. Malinga announced his retirement from all forms of cricket on 14 September 2021.
 
