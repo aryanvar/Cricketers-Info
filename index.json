@@ -1970,7 +1970,7 @@
 },
 {
 	"id": 320,
-	"name": "Quinton de Kock,
+	"name": "Quinton de Kock",
 	"Age": 29,
 	"Role": "left-handed batsman",
 },
@@ -2001,9 +2001,8 @@
 	"name": "Quinton de Kock",
 	"Age": 29,
 	"Role": "left-handed batsman",
-},
-
-{
+   },
+   {
         "id": 469,
         "name": " Ahmed Raza ",
         "Age": "34",
@@ -2026,35 +2025,84 @@
         "name": "krishna iyer",
         "Age": "26",
         "Role": "Right-handed",
-        },
+      },
       {
         "id": 3050,
         "name": "Muyan ali",
         "Age": "31",
         "Role": "Right-handed bowler",
      },
-{
+     {
         "id": 3047,
         "name": "devid miller",
         "Age": "31",
         "Role": "left-handed",
     },
-{
+    {
         "id": 3048,
         "name": "Suresh Raina Stats",
         "Age": "35",
         "Role": " left-handed batsman ",
     },
-{
+    {
         "id": 3051,
         "name": "Marcus Trescothick",
         "Age": "50",
         "Role": "right-handed batsman",
     },
-{
+    {
         "id": 4536,
         "name": "krtik ken",
         "Age": "50",
         "Role": "right-handed batsman",
-    }
+    },
+    {
+        "id": 9870,
+        "name": "hritika chawhan",
+        "Age": "23",
+        "Role": "right-handed bowler",
+    },
+    {
+        "id": 3051,
+        "name": "renhudh chudari",
+        "Age": "20",
+        "Role": "left-handed batsman",
+    },
+    {
+        "id": 09898,
+        "name": "rectueb karker",
+        "Age": "50",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 56423,
+        "name": "runner kumb",
+        "Age": "32",
+        "Role": "left-handed bowler",
+    },
+    {
+        "id": 84,
+        "name": "Stuart Binny",
+        "Age": "38",
+        "Role": "right-handed batsman",
+    },
+    {
+        "id": 66,
+        "name": "Sandeep Sharma",
+        "Age": "29",
+        "Role": "right arm bowler",
+     },
+    {
+        "id": 28,
+        "name": "Chetan Sakariya",
+        "Age": "24",
+        "Role": "left-handed batsman",
+    },
+{
+        "id": 96308,
+        "Name":  "AMOL MAJUMDAR",
+        "Age": "47",
+        "Role": "right hand Batsman",
+    },
+
 ]
