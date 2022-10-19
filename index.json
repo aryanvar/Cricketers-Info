@@ -2056,6 +2056,17 @@
         "name": "Sandeep Sharma",
         "Age": "29",
         "Role": "right arm bowler",
-    },
+     },
+    {
+        "id": 28,
+        "name": "Chetan Sakariya",
+        "Age": "24",
+        "Role": "left-handed batsman",
 
-]
+    },
+{
+        "id": 96308,
+        "Name":  "AMOL MAJUMDAR",
+        "Age": "47",
+        "Role": "right hand Batsman",
+    },
