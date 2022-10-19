@@ -76,11 +76,30 @@ Krishnakumar Dinesh Karthik is an Indian professional cricketer & Commentator wh
 Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
 AB de Villiers began his international career as a wicket-keeper-batsman, but he has played most often solely as a batsman. He batted at various positions in the batting order, but predominantly in the middle-order. Regarded as one of the most innovative and destructive batsmen in the modern era, as well as one of the greatest of all time, de Villiers is known for a range of unorthodox shots, particularly behind the wicket-keeper. He made his international debut in a Test match against England in 2004 and first played a One Day International (ODI) in early 2005. His debut in Twenty20 International cricket came in 2006. He scored over 8,000 runs in both Test and ODI cricket and is one of the very few batsmen to have a batting average of over fifty in both forms of the game. In limited overs cricket, he is an attacking player. He holds the record for the fastest ODI century in just 31 balls.
 
+## Kane Williamson
+Kane Stuart Williamson (born 8 August 1990) is a New Zealand international cricketer who is currently the captain of the New Zealand national team in all formats. He is a right-handed batsman and an occasional off spin bowler.
+Williamson made his first-class cricket debut in December 2007.He made his U-19 debut against the touring Indian U-19 team the same year and was named captain of the New Zealand U-19 team for the 2008 U-19 Cricket World Cup. He made his international debut in 2010. Williamson has represented New Zealand at the 2011, 2015 and 2019 editions of the Cricket World Cup and 2012, 2014, 2016 and 2021 editions of the ICC World Twenty20. He made his full-time captaincy debut for New Zealand in the 2016 ICC World Twenty20 in India. He captained New Zealand at the 2019 Cricket World Cup, leading the team to the final and winning the Player of the Tournament award in the process. On 31 December 2020, he reached a Test batting rating of 890, surpassing Steve Smith and Virat Kohli as the number one ranked Test batsmen in the world.He was nominated for the Sir Garfield Sobers Award for ICC Male Cricketer of the Decade, and the award for Test cricketer of the decade. Ian Chappell and Martin Crowe have ranked Williamson among the top four or five Test cricket batsmen, along with Joe Root, Steve Smith, and Virat Kohli of the current era.
+Williamson was the only New Zealander to be named in the ICC Test Team of the Decade (2011–2020).
+The late former New Zealand cricketer, Martin Crowe, noted that, "we're seeing the dawn of probably our greatest ever batsman" in Williamson.
+
+## Quniton de Kock
+Quinton de Kock (born 17 December 1992) is a South African cricketer and former captain of the Proteas in all three formats. He currently plays for South Africa in limited overs cricket, Titans at the domestic level, and Lucknow Super Giants in the Indian Premier League. 
+He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards.An opening batsman and wicket-keeper, de Kock made his domestic debut for the Highveld Lions during the 2012/2013 season. He quickly caught the national selectors' eye when he starred in a match-winning partnership with Neil McKenzie in the Champions League T20 against the Mumbai Indians in the Indian Premier League (IPL). 
+He also finished fourth on the first-class rankings, despite playing only six of the 10 matches that summer.
+De Kock made his international debut in the first match of South Africa's home Twenty20 International series against the touring New Zealanders during the 2012/13 season. He was asked to keep wickets in place of AB de Villiers, who asked to be rested. He has since played regularly for the team at both One Day International (ODI) and Twenty20 International (T20I) level. In February 2014, he also made his Test debut for South Africa, playing solely as a batsman.
+By his 20th ODI match, De Kock had already scored five centuries. He became the fourth player to score three successive one-day centuries and the second player to score four ODI centuries before his 21st birthday.In his 74th ODI, against Sri Lanka on 10 February 2017, he became the fastest player to complete 12 ODI hundreds, bettering Hashim Amla, who had achieved the landmark in 81 innings.
+
+## Glenn Maxwell
+Glenn James Maxwell (born 14 October 1988) is an Australian professional cricketer, who represents Australia national cricket team in One Day International and Twenty20 International formats of the game and has played Test cricket for Australia. Maxwell is an all-rounder who bats right handed and bowl off break. He represents Victoria and Melbourne Stars in Australian domestic cricket.
+His professional cricketing career was launched when he started playing for Victoria in the Twenty20 Big Bash in 2010.Known for his dramatic shot making and improvisation in the short form of the game,he scored 102 from 52 balls against Sri Lanka in the 2015 World Cup, the second fastest World Cup century to date.He also scored an unbeaten 145* from 65 balls against Sri Lanka in 2016, the fourth highest score in Twenty20 Internationals.
+In spite of his power hitting in the short form of the game, he has shown ability in the longer form of the game, including a maiden test century against India in Ranchi on 16 March 2017, in which he scored 104 from 185 balls. In doing so, he became the second Australian to score centuries in all three formats, after Shane Watson, and joined an elite club of only 13 other cricketers who have achieved this feat.On 24 November 2017 he scored his maiden double century in the Sheffield Shield competition, He was dismissed for 278 from 318 balls in an innings which included 36 fours and four sixes.
+In 2011, he set the record for the fastest ever half-century in Australian domestic one day cricket, scoring 50 runs off 19 balls.Then, in February 2013, the Indian Premier League team the Mumbai Indians bought him for $1 million US. In March 2013, he made his Test debut against India in the second Test at Hyderabad.
+
 
 ## Jasprit Bumrah
 In an Indian team desperately searching for a death overs' bowler, Jasprit Bumrah came to the fore through the Indian Premier League, as a boon for cricket in the country. The scantily-built pacer from Gujarat has managed to perfect the art of bowling inch-perfect yorkers as an understudy to Lasith Malinga as a part of the Mumbai Indians franchise and has grown into an indispensable asset for the Indian team in the limited-overs format.
 
-## DINESH KARTIK
+## DINESH KARTHIK
 
 Krishnakumar Dinesh Karthik (born 1 June 1985) is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. He made his debut for the Indian cricket team in 2004. Karthik has become the 4th Indian batsman to play 300 T20 matches.[1]
 
@@ -95,13 +114,13 @@ Kapil made his debut in 1978 and gradually started to produce performances of su
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175\* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
-## RISHAB PANT
+## RISHABH PANT
 
 At 19, Rishabh Pant has gone through all the highs and lows of a cricketing career. A promising talent from Delhi, Pant came into reckoning after his exploits for India Under-19 in the 2016 World Cup. A dashing left-handed wicket-keeper batsman, he lit up the tournament with a blitzing 24-ball 75, the fastest half-century of the tournament, against Nepal and followed it up with a century against Namibia. India lost the title round - but came back with several positives - nothing bigger than the emergence of Pant.
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
-##Cheteshwar Arvind Pujara
+## Cheteshwar Arvind Pujara
 
 Cheteshwar Arvind Pujara is an Indian international cricketer who plays Test cricket for India and represents Saurashtra in domestic cricket. He is a right-handed batsman who made his first-class debut for Saurashtra in December 2005 and made his Test debut at Bangalore in October 2010.
 He was a part of the India A team which toured England in the 2010 summers and was the highest scorer of the tour. In October 2011, the BCCI awarded him a D grade national contract. Known to have a sound technique and the temperament required to play long innings, he was one of the contenders for a spot in the Indian middle order after the retirement of Rahul Dravid and VVS Laxman.[3] and was a part of the IPL 2021 winning team Chennai Super Kings.
@@ -155,7 +174,7 @@ Sanju started his cricketing career in Delhi and later moved to Kerala in his ea
 
 ## DALE STEYN
 
-Dale steyn is an south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
+Dale steyn is a south african international cricketer who plays for the south africa and in ipl for royal challengers banglore.
 
 steyn made his Test debut in 2004, along with a fellow rookie by the name of AB de Villiers, after he impressed Ray Jennings with his raw pace and stamina, in the home series against England after a combined experience of just 7 first-class games. A humbling loss on debut set him back as he picked up just 3 wickets in the game, although it included a ripper of an outswinger to knock over Michael Vaughan in the second innings. After a tally of just 8 wickets in the 3-Test series, Steyn failed to make a significant impact and was dropped from the side.
 
@@ -178,7 +197,7 @@ Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup i
 Shikhar Dhawan (born 5 December 1985) is an Indian cricketer. Being a left-handed opening batsman and occasional captain of the India national cricket team, he plays for Punjab Kings in the Indian Premier League and Delhi in first-class cricket. At the 2013 Champions Trophy, 2015 World Cup, and 2017 Champions Trophy, Dhawan was the leading run-scorer for India.He also became the first player in the history of IPL to score two back-to-back centuries.He was awarded the 'Player of the Tournament' for his exploits in the 2013 ICC Champions Trophy.
 Dhawan made his One Day International (ODI) debut against Australia in October 2010 at Visakhapatnam. His Test debut came against the same opposition in March 2013 at Mohali, where he scored the fastest century by any batsman on Test debut and ended his innings with 187 runs from 174 balls.
 
-##Mithali Raj
+## Mithali Raj
 Mithali Dorai Raj (born 3 December 1982) is an Indian cricketer and a former captain of the India women's national cricket team from 2004 to 2022. Mithali is the highest run-scorer in women’s international cricket and is considered one of the greatest cricketers of all time.
 Mithali holds numerous records in international cricket. She is the only female cricketer to surpass the 7,000-run mark in Women's One Day International matches. She is the first player to score seven consecutive 50s in ODIs. She also holds the record for most half-centuries in WODIs. In June 2018, during the 2018 Women's Twenty20 Asia Cup, she became the first player from India, male or female, to score 2000 runs in T20Is, and also became the first woman cricketer to reach 2000 WT20I runs.
 
@@ -271,7 +290,6 @@ Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් ම
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
-## Mahend
 
 ## Dayalan Hemalatha
 
@@ -406,7 +424,8 @@ Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was
 After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
 Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
 
-##Christopher Henry Gayle was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+## Christopher Henry Gayle
+He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
 
 ## Arshdeep Singh
 
@@ -417,4 +436,149 @@ In May 2022, he was selected for the Indian teams home T20 series against South 
 Indias performance in the Asia Cup was quite disappointing and after Super 4 the team had to pull out of the tournament after losing two consecutive matches to Pakistan and Sri Lanka. In a match between India and Pakistan in the same tournament, when the match was very exciting and at its final stage, Arshdeep missed a very simple catch of a Pakistani batsman. After which people started trolling him very badly on social media. The match was won by Pakistan by 5 wickets, after which Arshdeeps Wikipedia page was also tampered with.
 Later tracing the IP address revealed that his page was vandalized from Pakistan. After dropping the catch, the trollers wrote on Arshdeeps Wikipedia page as a match player for Khalistan instead of India. Calling him a traitor also insulted him. Let us tell you that in that match between India and Pakistan also Arshdeep Singh bowled at an economy rate of 7.04 for 27 runs in 3.5 overs with a wicket. Even after missing the catch, Pakistan needed 27 runs. Pakistan needed seven runs in the last over, despite this Arshdeep defended the match for five balls and made Pakistan victory very difficult.
 
+## Sachin Tendulkar
+Sachin Tendulkar was the most complete batter of his time, the most prolific run-maker of all time, and arguably the biggest cricket icon the game has ever known.
+His batting was based on the purest principles: perfect balance, economy of movement, precision in stroke-making, and that intangible quality given only to genius batters - anticipation. If he didn't have a signature stroke (though the upright, back-foot punch comes close) it was because he was proficient at so many and could pull them out at will.
+There were no apparent weaknesses in Tendulkar's game. He could score all around the wicket, off both feet, could temper his game to suit every situation, and made runs in all parts of the world, in all conditions.
+Some of his finest performances came against Australia, the dominant team of his era. His century as a 19-year-old on a lightning-fast pitch at the WACA is considered one of the best innings ever to have been played in that country. A few years later he received the ultimate compliment from the ultimate batter: Don Bradman confided to his wife that Tendulkar reminded him of himself.
+Blessed with the keenest of cricket minds, and driven by a loathing for defeat, Tendulkar established his greatness early. He was only 16 when he made his Test debut, and was hit in the face by Waqar Younis in that game, but continued to bat. His first Test hundred, a match-saving one at Old Trafford, came when he was 17, and he had 16 Test hundreds before he turned 25. In 2000 he became the first batter to have scored 50 international hundreds, in 2008 he passed Brian Lara as the leading Test run-scorer, and in the years after, he went past 13,000 Test runs, 30,000 international runs, and 50 Test hundreds.
+He holds the record for most hundreds in both Tests and ODIs - remarkable, considering he didn't score his first ODI hundred until his 79th match. At just under 37 years of age, he made the first double-century in one-day cricket. In 2012, a month short of his 39th birthday, he became the first player to score 100 international centuries, which, like Bradman's batting average, might be a mark that lasts for ever. Later that year, though, he announced his retirement from ODIs after a disappointing 18 months in international cricket. And on November 16, 2013, he retired from Test cricket after a memorable 200th Test, against West Indies.
+Tendulkar's considerable achievements seem greater still when looked at in the light of the burden of expectation he had to bear from his adoring but somewhat unreasonable followers, who were prone to regarding anything less than a hundred in every innings as a failure. He still remains, by a distance, the most worshipped cricketer in the world.
+
+# Meghann Moira Lanning
+
+Meghann Moira Lanning AM (born 25 March 1992) is an Australian cricketer who currently captains the national women's team. She has been a member of six successful world championship campaigns, winning two Women's Cricket World Cup and four ICC Women's World Twenty20 titles. Lanning holds the record for the most Women's One Day International centuries[1] and is the first Australian to score 2,000 Twenty20 International runs.[2][3] Domestically, she is the captain of Victoria in the Women's National Cricket League and the Melbourne Stars in the Women's Big Bash League
+
+## Shubman Gill
+Shubman Gill (born September 8, 1999) is the latest prodigy of India's familial batting production line. He shot to fame with 418 runs at an average of 104.50 in the 2018 ICC U19 World Cup, where he served as Prithvi Shaw's deputy and batted at No. 3 to play a crucial role in India's record fourth world title. Also the edition's Player of the Tournament, Gill was a favourite in the 2018 IPL auctions and was picked by Kolkata Knight Riders for INR 1.8 crore (USD 280,000).
+
+Gill won the BCCI award for the Best Junior Cricketer for consecutive years in 2013-14 and 2014-15, knocking hard on the doors of the U19 team. When picked, Gill starred in India's handsome 3-1 win at home over England in the Youth ODIs, scoring 351 runs in 4 innings and then went on to match up to his high standards in his first tour of England soon after. India whitewashed the hosts 5-0 and Gill top-scored again with 278 runs across 4 innings.
+
+With India facing the eternal number-four issue, many felt Gill would be punted with the World Cup not far away but after a handful of games (that too on extremely tough surfaces), he found himself out of the squad. Of course, the selectors and he himself knew that age is on his side and that his time would come. In the 2019 IPL, he batted in the top order and on expected lines, managed to create a bigger impact. However, it’s his exploits in red-ball cricket that’s convinced people of his completeness as a batsman. By churning out runs for fun in his brief First-class career thus far, Gill has now staked a claim for a spot across formats and has rightly been picked as a back-up opener for the home Tests against South Africa.
+
+## Sam Curran 
+His father being a national cricketer for Zimbabwe - Sam Curran (born June 3, 1998) is one of the many white African cricketers of this decade to have moved out of his traditional roots and to have relocated in the United Kingdom to ply his trade. A diminutive, mild-looking left-arm seamer whose natural angle helps him swing the Dukes away from right-handers, he doubles up as an able batsman lower down the order; and given the ease he looks in with the bat, it could soon become his primary skill.
+
+He was soon picked for the 2016 under-19 World Cup, followed by a spot in the England Lions' tour to the UAE later in the year. An injury to Ben Stokes meant that Sam was fast-tracked into national reckoning, getting his maiden Test cap at Headingly against Pakistan in June 2018. His biggest moment under the sun came in the home summer of 2018 against the then number one side in the world, India. Picked primarily as a bowler, it was his abilities with the bat from number seven that helped rescue England after middle-order collapses, match after match. It was no surprise when he was named the Man of the Series for his all-round contributions (272 runs and 11 wickets) that saw England win 4-1. He carried on his form into the Sri Lankan tour, playing a key role in England whitewashing the islanders. 
+
+And performances against India never go unrecognised monetarily. Despite being a relatively unknown quantity for his T20 exploits, Sam Curran's name at the IPL auction later in the year attracted a bidding war. In the end, he was sold for a colossal 7.2 crores INR to KXIP to become one of the biggest surprises at the auctions over the last twelve seasons. He endured a strictly average time in the IPL, with the lack of swing on Indian pitches making him cannon fodder at his pace which generally is the late 120s or early 130s. That said, he did have a game where he produced a hat-trick and has shown promise to be of use, except that it could be as a batting all-rounder. Sam is a clean striker of the ball and in T20, it's this attribute of his that will hold him in better stead while his bowling could be more of a bonus. CSK picked him at the 2020 IPL auctions and although he doesn't seem like a sure starter at this point. Sam is definitely a handy addition to the squad.
+
+## Rashid Khan
+Rashid Khan (born September 20, 1998) has been Afghanistan's first global superstar, and the key to their successes in their early years in international cricket. His extraordinarily effective legspin has made him one of the greatest T20 bowlers ever, among the first names on wishlists of teams in leagues all around the world. Not a big turner of the ball, he puts batters under pressure with his speed through the air, like his bowling idol Shahid Afridi, while maintaining a stump-to-stump line. His biggest weapon is an accurate googly, and he has variations aplenty. With bat in hand he is more than capable of clearing the boundary late in an innings, and he has airbrushed many a middling total into a match-winning one for his team.
+
+Rashid was just 17 when he made his ODI debut on Afghanistan's tour of Zimbabwe in October 2015. Less than two years later, he was snapped up by Sunrisers Hyderabad in the IPL for close to US$600,000. After a superb 17-wicket first season with them, he picked up franchise deals with Guyana Amazon Warriors - for whom he took the first-ever hat-trick in the CPL in 2017 - and Adelaide Strikers, with whom he won his (and their) first BBL title in 2018. He scaled new heights for Afghanistan as well, taking 5 for 3 in a T20I against Ireland to keep a record 11-match T20I winning streak alive, and later in 2017, taking his country to a win over West Indies in their first ODI in the Caribbean with 7 for 18. He was duly honoured as the 2017 ICC Associate Cricketer of the Year. The following year, he became the youngest cricketer to top the ODI bowling rankings, the youngest man to captain an international side, and the fastest to 100 ODI wickets.
+
+In Afghanistan's inaugural year in Test cricket, Rashid took five second-innings wickets in their first win, against Ireland, and six months later made an important fifty and took twin five-fors, finishing with 11 wickets in a famous win over Bangladesh in Chattogram. In 2021, he took 11 again, this time in a win over Zimbabwe. In his five seasons with Sunrisers, he was a totemic presence, taking 93 wickets at an economy rate of 6.33. When he moved to Gujarat Titans in 2022, he took 19 wickets in a run that led the side to the title.
+
+## Ollie Pope
+Ollie Pope (born January 2, 1998) is an up-and-coming wicketkeeper-batsman with all the traits of the modern-day cricketer: innovative, fit, agile, and powerful. The 20-year-old cricketer rose through the ranks of age-group cricket and reached the peak of his powers in the 2017 season for Surrey, excelling with the bat in all three formats.
+
+He made his List A debut in 2016, playing in the all-important Royal London Cup semi-final, where he was part of the winning side that contained 5 specialist keepers - naturally, he didn't don the gloves. He didn't make an impression with the bat, or at least the scoreboard won't reflect it, but Pope managed to show decent temperament in the context of the game to score a few quick runs at the death which ensured his place in the side for the final. Pope made his Twenty20 debut for Surrey in the 2017 NatWest T20 Blast on 7th July 2017 and has done well down the order with some pinch-hitting, although he might want to make amends to his relatively low strike-rate, which he has started to do of late.
+
+Pope's consistency and the fetish of the England team management to blood youngsters meant he received a call-up during the home season of 2018, against the touring Indian team. Having batted at number six for Surrey right through, Pope was asked to bat at four on his debut at Lord's, a task which seemed beyond his ability. Two Tests later, he found himself out of the team, but was always in the horizon as the elegant right-hander was named in England's Test squad for the tour of New Zealand in late 2019.
+
+## Tom Banton
+A dynamic wicket-keeper batsman who burst into the England domestic scene in 2017, Tom Banton (born November 11, 1998) is a rising star for Somerset. Extremely unorthodox with the willow and lightning-quick behind the sticks, he’s already been touted as a potential successor to Jos Buttler. A product of the Warwickshire system and thereafter, the England U19, Banton’s skill set was explicitly obvious to all those who saw him play and he landed a contract at Somerset for the T20 blast in the 2017-18 season. Next year, he debuted in other formats as well and has been a regular for his county ever since. At this point, Banton looks ready made for white-ball cricket and a phenomenal T20 Blast campaign in 2019 showed how much he had progressed as a player. It wasn’t just the runs but also the manner in which he was manipulating the field with unconventional strokes that caught the eye. Fittingly, he found himself picked for the national side in the shortest format when they toured New Zealand in late 2019. Still early days in his career but if groomed well, there’s no denying that Banton will be England’s next superstar.
+
+## Prithvi Shaw
+Prithvi Shaw (born November 9, 1999) is not the first young Mumbai batsman to get heads turning in cricket, and most certainly won't be the last. A precocious child prodigy, Shaw has been created a bit of a stir in the Indian cricketing fraternity with a manic display of batting in Mumbai's Harris Shield as a mere 14-year-old - an unprecendented 546, the highest score in any competitive cricket at the time in more than a century until surpassed by one Pranav Dhanawade in 2016.
+
+His Harris shield performance was followed by several others of note, including centuries on debut in both Ranji Trophy (2016-17) and Duleep Trophy (2017) - a feat only previously achieved only by the Great Sachin Tendulkar, thereby drawing comparisons of great magnitude with the little master and being hailed as one of the future batting mainstays of Indian cricket. After skyrocketing through grade- and age-level cricket, he was declared the captain of the Indian U-19 side for the 2018 Junior World Cup in New Zealand. With a capable leader in Shaw, a stellar bowling line-up, and under the keen eye of Rahul Dravid, India coasted to the title, as Shaw contributed handsomely with the bat, scoring 261 runs at an average of 65 with 2 fifties to his name.
+
+Prithvi Shaw for long has been touted as the next big thing in Indian cricket and judging by that Delhi bought him at an excellent price of 1.2 Crores. Initially, he wasn't getting an opportunity to be a part of the playing eleven but the poor form of Gautam Gambhir opened the door for Shaw. He made most of his opportunities and got Delhi off to brisk starts on most occasions. He started off well with a 10-ball 22 and a flurry of aggressive innings over the course of the season and ended up cementing his spot in the side, running riot in the powerplay, before Rishabh Pant could cut loose at the death. Shaw will look to replicate those performances when he will churn out for Delhi this year.
+
+## Smriti Mandhana
+Smriti Shriniwas Mandhana is a prominent left-hand batswoman who plays for the Indian Cricket team. She was born on July 18, 1996, in Mumbai. She is the Vice-Captain 
+of the Indian Women's cricket team and also captained the side leading to many promising victories. In April 2013, she made her first International appearance in a 
+T20I match against Bangladesh. Five days later, she made her ODI debut. She scored her first century in just her second ODI game, scoring 102 against Australia in 
+Hobart. In the Women's T20 challenge she led her team Trailblazers to a magnificent victory in the final against SuperNovas to lift the trophy.The left-hander joined 
+the Brisbane Heat in the 2016–17 season, making her WBBL debut. Later, the Hobart Hurricanes signed Mandhana for the 2018–19 campaign.
+
+Mandhana was awarded the best female cricketer of the year as well as the ODI player of the year in December 2018. She was aslo awarded the honorable 'Arjuna Award 
+in the same year.
+
+## Washington Sundar
+Washington Sundar was born on October 5, 1999, in Chennai, Tamil Nadu. He is an all-rounder who represents the Indian cricket team on the international stage. He is a 
+left-handed batter who bowls off-spin with his right arm. On December 13th, 2017, he made his ODI debut against Srilanka. Then, on December 24, 2017, he played in his 
+first T20I for India against Sri Lanka. Young Sundar started as a batsman before becoming an offspinner. He made his first-ever century in first-class cricket in 
+October 2017 while playing for Tamil Nadu against Tripura in the 2017–18 Ranji Trophy. He represented India in the 2016 edition of the U-19 World Cup. 
+
+On April 22, 2017, he played his first Twenty20 match for Rising Pune Supergiants in the Indian Premier League. He was signed by the Royal Challengers Bangalore in 
+the 2018 IPL auction. He then was purchased by Sunrisers Hyderabad for 8.75 crores during the 2022 IPL Auction. 
+
+## Sarfaraz Khan
+Sarfaraz Naushad Khan was born on 27 October 1997 in Mumbai, Maharashtra. He is a  Right-handed batter and occasionally bowls leg break. The Mumbai Cricket 
+Association initially suspended Sarfaraz for misrepresenting his age before accepting the results of a more thorough examination. Soon after, he was dismissed on 
+grounds of discipline from the MCA's indoor academy program. The young lad needed some time to put everything behind him, but once he did, he was given a place in the 
+Mumbai Under-19 team. He ultimately joined the Indian Under-19 team as a result of his performances there. 
+
+He plays for Mumbai in the Ranji Trophy, Delhi Capitals in the Indian Premier League, and also represented the Indian Cricket Team in U-19 version of 2014 and 2016. 
+Sarfaraz first got noticed when he scored a magnificent 439 in his maiden Haris Shield game in 2009 when he was just 12. In the Under-19 World Cup, 
+he scored 211 runs at an average of 70.33 and a strike rate of 105. He is well known for his outstanding performances in Domestic Cricket for the Mumbai side. He 
+averages 81.33 with 10 centuries and 8 half-centuries in First Class Cricket. He also slammed a magnificent 301 not out in Ranji Trophy against Uttar Pradesh.
+
+## Abhishek Sharma
+Abhishek Sharma was born on 04 September 2000, in Amritsar, Punjab. He is a hard-hitting left-hand batsman, who bowls fast and left-arm spin. He started playing 
+cricket with the support of his father at the early age of three. He began playing cricket under the instruction of his father at the Gandhi Sports Complex club.
+He led the Indian team to victory in the U-19 Asia Cup in 2016 and also was the second-highest wicket-taker in that tournament. He then represented India in the 2018 
+version of the U-19 World Cup under Prithvi Shaw, when India lifted the U-19 trophy. He was purchased by Delhi Daredevils in the 2018 IPL Auction and smashed a 
+magnificent knock of 46 not out in 19 balls in the debut match against Delhi Daredevils. He then was picked by the Sunrisers Hyderabad in the 2019 version. 
+
+## Jemimah Ivan Rodrigues
+Jemimah Ivan Rodrigues was born on 05 September 2000 in Mumbai, Maharashtra. She is a Right-hand Middle-order batter. She is an allrounder in the Mumbai women's 
+cricket team and was in the Under-17 Maharashtra hockey team. She started playing cricket when she was four. Her father was a junior coach in her coach, he started 
+training her since the beginning. She loved playing both Cricket and Hockey. She represented Mumbai in the under-17 and under-19 hockey tournaments.
+She was selected for the Indian team to play South Africa in a three-match ODI series in February 2018. On February 13, 2018, she played her first Women's Twenty20 
+International cricket match for India against South Africa. On March 12, 2018, she played in her first Women's One Day International match for India against Australia. 
+
+She also participated in some major leagues like the Big Bash(representing Melbourne Renegades), The Hundred(representing Northern Super Chargers) and 
+played for the SuperNovas in the Women's T20 Challenge. She was awarded the Jagmohan Dalmiya Award presented by cricketer MS Dhoni for Best Domestic Junior 
+Women's Cricketer by the Board of Control for Cricket in India in 2018.
+
+## Umran Malik
+Umran Malik was born on 22 November 1999, in Jammu, Jammu & Kashmir. He started as one of the net bowlers by the Sunrisers in the 2021 version of Indian Premium 
+League. In the 49th game of the 2021 IPL, against Kolkata Knight Riders, he made his IPL debut. When he bowled five consecutive balls at more than 150 kmph during 
+the Sunrisers Hyderabad vs. Royal Challengers Bangalore game, he attracted notice. Malik's first five-wicket haul in Twenty20 cricket came on April 27, 2022, 
+against the Gujarat Titans in an IPL game. He also won the emerging player of the season in IPL 2022.
+
+He was selected as a net bowler for India's team for the ICC Men's T20 World Cup in 2021 as a result of his fast bowling. On November 23, 2021, he played in his 
+first first-class match for India A against South Africa A.Malik was included in the Twenty20 International (T20I) team for India's series against South Africa in 
+May 2022. He was included in India's T20I squad for their two-match series against Ireland the following month. On June 26, 2022, he played his first T20 
+International for India against Ireland.
+
+
+## Sarah taylor
+Sarah Jane Taylor (born 20 May 1989) is an English cricketer and cricket coach. She appeared in 10 Test matches, 126 One Day Internationals and 90 Twenty20 Internationals for England between 2006 and her retirement from international cricket in 2019 due to an anxiety issue. Taylor is the fastest cricketer, male or female, to earn their first cap in all three formats of international cricket, doing so in the space of nine days against India in 2006.
+
+She has played domestic cricket for Sussex, Lancashire Thunder, Surrey Stars, Northern Diamonds, Welsh Fire, Wellington, South Australia and Adelaide Strikers. She is a wicket-keeper-batter known for her free-flowing stroke play, opening the batting in limited-overs matches and batting in the middle order in Test cricket.
+She opened the batting for England in their victories in the 50 over World Cup in Australia and the World T20 in 2009. However, she pulled out of the England tours of 2010 and 2011, including the Ashes match in Australia.
+
+She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
+
+## Tamsin Tilley Beaumont
+Beaumont was born in Dover, Kent.[1] She began playing cricket in nearby Sandwich,[2][3] where she also attended Sir Roger Manwood's School.[4] When she was eight years old, her mother, Julie, secured her very first selection in a cricket team.[1] Beaumont's brother, Michael, was captain of an Under-11 side coached by her father, Kevin, a research scientist. As Beaumont later explained to Wisden Cricketers' Almanack in 2019
+
+## Venkatesh Iyer
+
+Venkatesh Iyer (born 25 December 1994) is an Indian cricketer who plays for Madhya Pradesh in domestic cricket and Kolkata Knight Riders in the Indian Premier League (IPL).
+Iyer made his Twenty20 debut against Railways cricket team at Holkar Stadium in March 2015 and made his List A debut against Saurashtra cricket team at Saurashtra Cricket Association Stadium in December of the same year, while he was pursuing a Bachelor of Commerce degree. After passing the CA Intermediate examinations, he decided to dropout and enroll himself in a Master of Business Administration in finance to allow him to pursue cricket further.[6] He made his first-class debut for Madhya Pradesh in the 2018–19 Ranji Trophy on 6 December 2018.
+
+In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auction ahead of the 2021 Indian Premier League.On 20 September 2021, upon resumption of the IPL in the United Arab Emirates, he made his IPL debut against Royal Challengers Bangalore. On 23 September 2021, he scored his maiden IPL fifty against Mumbai Indians.
+
+Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
+
+## Harmanpreet Kaur
+Kaur admits to being "... not at all good at cooking." Her favourite meal is dal, or anything gravy-based, and she eats non-vegetarian food only when eating out. During overseas tours, she is often served sandwiches, which she finds "challenging".[65] Prior to matches, she eats light; after them, she has a heavy meal, "... to make up for lost calories."[65] Since about 2019, she has avoided eating glutens, even though foods containing such proteins are traditionally popular in Punjab. In 2021, she told ESPNcricinfo:
+
+"That decision has paid off massively as my recovery post-match or post-injury has become quicker.
+
+Harmanpreet Kaur born 8 March 1989) is an Indian cricketer who serves as the captain of the India Women's National Cricket Team in all formats .She plays as an all-rounder for the Indian women's cricket team;[3][4][5] and was awarded the Arjuna Award for Cricket in the year 2017 by the Ministry of Youth Affairs and Sports.
+
+In November 2018, she became the first woman for India to score a century in a Women's Twenty20 International (WT20I) match. In October 2019, during the series against South Africa, she became the first cricketer for India, male or female, to play in 100 international Twenty20 matches.
+
+## Lasith Malinga
+
+Separamadu Lasith Malinga , nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname. Malinga announced his retirement from all forms of cricket on 14 September 2021.
+
+Malinga's unorthodox action and dipping slower ball yorkers are credited with much of his success.He changed the dynamics and landscape of death bowling in limited overs cricket by bowling his toe crushing yorkers. He is best known for his ability to take consecutive wickets, with in-swinging yorkers: he is the only bowler in the world to have two World Cup hat-tricks,first bowler to take a double hatrick, the only bowler to have taken three hat-tricks in ODIs and only bowler to have two double hatricks. He is also the first bowler to take five hat-tricks across all formats of international cricket, and holds the record for most hat-tricks in international cricket.
 
