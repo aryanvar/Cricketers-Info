@@ -25,7 +25,7 @@
         "Name": "Avesh Khan",
         "Age": "25",
         "Role": "Fast Bowler",
-    },
+    }, 
 
 
     {
@@ -2207,6 +2207,12 @@
         "Role": "Batsman",
     },
     {
+        "id": 96310,
+        "Name":  "Gautam Gambhir",
+        "Age": "41",
+        "Role": "Left-handed Batsman",
+    },
+    {
         "id": 96400,
         "Name":  "Poonam Yadav",
         "Age": "31",
@@ -2217,6 +2223,5 @@
         "Name":  "Rangana Herath",
         "Age": "44",
         "Role": "Left hand Batsman",
-
     },
 ]
