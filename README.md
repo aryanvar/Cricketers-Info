@@ -582,3 +582,19 @@ Separamadu Lasith Malinga , nicknamed "Slinga Malinga", is a Sri Lankan former c
 
 Malinga's unorthodox action and dipping slower ball yorkers are credited with much of his success.He changed the dynamics and landscape of death bowling in limited overs cricket by bowling his toe crushing yorkers. He is best known for his ability to take consecutive wickets, with in-swinging yorkers: he is the only bowler in the world to have two World Cup hat-tricks,first bowler to take a double hatrick, the only bowler to have taken three hat-tricks in ODIs and only bowler to have two double hatricks. He is also the first bowler to take five hat-tricks across all formats of international cricket, and holds the record for most hat-tricks in international cricket.
 
+## Liam Livingstone
+English cricketer
+
+With an experience of more than 40 first-class matches and a highest score of 224 in the format, Liam Livingstone is a right handed aggressive batsman from England. Liam made his first-class debut for Lancashire in April 2016 and played a fantastic knock of 70 against Nottinghamshire. As a result of Livingstone's contribution in that match, Lancashire managed to topple the 300-run mark against Nottinghamshire and managed to win that first-class encounter by 8 wickets at Manchester.
+
+Livingstone is someone who has the ability to hit big sixes and he has played franchise cricket over the past few years. His international debut came against South Africa in 2017 at home. Batting in the middle order, Liam's contribution in that T20I series were 16 & 0 respectively after which the youngster failed to make it to the England squad. Livingstone is considered as one of the most destructive batsmen in England and one of his most scintillating knocks was his innings of 350 (138 balls) he played for a club called Nantwich at the age of 21.
+
+Apart from his batting, Livingstone can also chip in with handy leg-breaks and is a gun fielder too. In short, he is a perfect package for white-ball cricket and definitely one of the rising stars from England.
+
+##Charlotte Edwards (Women Cricketer)
+English cricketer
+
+Charlotte Edwards became of the most significant figures of all time during her 20-year international career, for 10 of which she was England captain before it all came to an abrupt end in 2016. Edwards became the youngest woman to have played for England when she made her debut against New Zealand at Guildford as the age of 16 - Holly Colvin later became the youngest, aged 15, in the first Ashes Test in 2005 - and went on to be central to the evolution, or even revolution, of the women's game.
+
+Edwards was anything but out of her depth when she started, and in 1997 smashed 12 centuries, including one off 118 balls against the touring South Africans. The day before her 18th birthday, she scored a then-record ODI score of 173 not out in a World Cup match against Ireland. In 1998-99 she scored her maiden Test hundred against India but, while still scoring runs, she did not score as many runs as had been expected. In 2000, she was sidelined by a serious cruciate ligament injury sustained while playing hockey which caused her to miss almost all of the 2001 season. When she returned, she showed no hint that her talent had been diminished by the lay-off and continued in the same punishing vein.
+
