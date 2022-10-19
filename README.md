@@ -424,7 +424,8 @@ Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was
 After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
 Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
 
-##Christopher Henry Gayle was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+## Christopher Henry Gayle
+He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
 
 ## Arshdeep Singh
 
