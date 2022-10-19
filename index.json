@@ -2051,6 +2051,12 @@
         "Role": "right-handed batsman",
     },
     {
+        "id": 4356,
+        "name": "jaddu singh",
+        "Age": "50",
+        "Role": "all-rounder",
+    },
+    {
         "id": 34356,
         "name": "Marcrum tenn",
         "Age": "50",
@@ -2098,17 +2104,16 @@
         "Age": "29",
         "Role": "right arm bowler",
      },
-    {
+     {
         "id": 28,
         "name": "Chetan Sakariya",
         "Age": "24",
         "Role": "left-handed batsman",
     },
-{
+    {
         "id": 96308,
         "Name":  "AMOL MAJUMDAR",
         "Age": "47",
         "Role": "right hand Batsman",
     },
-
 ]
