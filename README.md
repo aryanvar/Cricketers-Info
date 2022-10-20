@@ -62,7 +62,7 @@ Kannaur Lokesh Rahul is an Indian cricketer who currently is the vice-captain of
 Virender Sehwag is a former Indian cricketer. He represented India from 1999 to 2013. He played for Delhi and Haryana in Indian domestic cricket. He played as aggressive opening batsman throughout his playing days.
 
 ## Hardik Pandya
-Hardik Himanshu Pandya is an Indian international cricketer who plays for the India national cricket team at the international level and the Baroda cricket team in Indian domestic cricket. 
+Hardik Himanshu Pandya is an Indian international cricketer who plays for the India national cricket team at the international level and the Baroda cricket team in Indian domestic cricket.
 
 ## Rohit Sharma
 Rohit Gurunath Sharma is an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket.
@@ -93,8 +93,8 @@ Williamson was the only New Zealander to be named in the ICC Test Team of the De
 The late former New Zealand cricketer, Martin Crowe, noted that, "we're seeing the dawn of probably our greatest ever batsman" in Williamson.
 
 ## Quniton de Kock
-Quinton de Kock (born 17 December 1992) is a South African cricketer and former captain of the Proteas in all three formats. He currently plays for South Africa in limited overs cricket, Titans at the domestic level, and Lucknow Super Giants in the Indian Premier League. 
-He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards.An opening batsman and wicket-keeper, de Kock made his domestic debut for the Highveld Lions during the 2012/2013 season. He quickly caught the national selectors' eye when he starred in a match-winning partnership with Neil McKenzie in the Champions League T20 against the Mumbai Indians in the Indian Premier League (IPL). 
+Quinton de Kock (born 17 December 1992) is a South African cricketer and former captain of the Proteas in all three formats. He currently plays for South Africa in limited overs cricket, Titans at the domestic level, and Lucknow Super Giants in the Indian Premier League.
+He was named the Cricketer of the Year at Cricket South Africa's 2017 Annual Awards.An opening batsman and wicket-keeper, de Kock made his domestic debut for the Highveld Lions during the 2012/2013 season. He quickly caught the national selectors' eye when he starred in a match-winning partnership with Neil McKenzie in the Champions League T20 against the Mumbai Indians in the Indian Premier League (IPL).
 He also finished fourth on the first-class rankings, despite playing only six of the 10 matches that summer.
 De Kock made his international debut in the first match of South Africa's home Twenty20 International series against the touring New Zealanders during the 2012/13 season. He was asked to keep wickets in place of AB de Villiers, who asked to be rested. He has since played regularly for the team at both One Day International (ODI) and Twenty20 International (T20I) level. In February 2014, he also made his Test debut for South Africa, playing solely as a batsman.
 By his 20th ODI match, De Kock had already scored five centuries. He became the fourth player to score three successive one-day centuries and the second player to score four ODI centuries before his 21st birthday.In his 74th ODI, against Sri Lanka on 10 February 2017, he became the fastest player to complete 12 ODI hundreds, bettering Hashim Amla, who had achieved the landmark in 81 innings.
@@ -255,7 +255,7 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
-## Mahendra Singh Dhoni 
+## Mahendra Singh Dhoni
 Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
 Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
 Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
@@ -270,7 +270,7 @@ Shami made his international debut in a One Day International (ODI) against Paki
 ## SOURAV GANGULY
 Sourav Chandidas Ganguly, affectionately known as 'Dada', is an Indian cricket administrator, commentator and former national cricket team captain who is the 39th and current president of the Board of Control for Cricket in India.
 
-Sourav Ganguly (48) was born on 8 July 1972 in Calcutta (present-day Kolkata), India to Chandidas and Nirupa Ganguly.Sourav Ganguly initially played football as it is the favourite sport for the people of Kolkata but was later attracted to Cricket.He learnt cricket with his brother and despite being right-handed, he learnt to bat left-handed so that he could use his brother's sporting equipment. He scored a century against Orissa Under-15 and went on becoming the captain of St. Xavier's School's cricket team. 
+Sourav Ganguly (48) was born on 8 July 1972 in Calcutta (present-day Kolkata), India to Chandidas and Nirupa Ganguly.Sourav Ganguly initially played football as it is the favourite sport for the people of Kolkata but was later attracted to Cricket.He learnt cricket with his brother and despite being right-handed, he learnt to bat left-handed so that he could use his brother's sporting equipment. He scored a century against Orissa Under-15 and went on becoming the captain of St. Xavier's School's cricket team.
 
 In 1989, Sourav Ganguly was selected to play for the Bengal team.After an impressive show in the Ranji Trophy in the 1990-91 season, the left-hander came into the limelight.
 
@@ -356,7 +356,7 @@ Sehwag holds multiple records including the highest score made by an indian in t
 
 ## Mayank Anurag
 
-Mayank Anurag Agarwal (born 16 February 1991) is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League. He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG. 
+Mayank Anurag Agarwal (born 16 February 1991) is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League. He made his international debut for the India cricket team on 26 December 2018 against Australia at the MCG.
 
 Agarwal was born on 16 February 1991 in Bangalore. His father Anurag Agarwal is the CEO of the US$35 million healthcare company Natural Remedies. Agarwal studied at the Bishop Cotton Boys' School and Jain University in Bangalore, where he was teammates with K. L. Rahul and Karun Nair.
 
@@ -372,13 +372,13 @@ On 27 September 2020, Mayank scored his maiden Indian Premier League century for
 
 Agarwal became the 13th captain of the Punjab Kings on 2 May 2021, when he captained the team against Delhi Capitals in the absence of the regular captain KL Rahul, who had undergone appendicitis surgery. He scored a 99*, making him the third batsman in the IPL to score 99 not out, and was awarded the Man of the Match award although the team ended up on the losing side.
 
-Ahead of IPL 2022 season, Mayank was retained by Punjab Kings for INR 12Cr (US$1.6 Million). 
+Ahead of IPL 2022 season, Mayank was retained by Punjab Kings for INR 12Cr (US$1.6 Million).
 
 On 28 February 2022, He was appointed as a captain of Punjab Kings and became 12th full time captain of the franchise.
 
 ## Deepak Chahar
 Deepak Chahar (born 7 August 1992) is an Indian International cricketer. He is a right-arm medium-fast bowler and bowling all rounder , who plays for Rajasthan in domestic cricket and Chennai Super Kings in the Indian Premier League.
-He became the first Indian male cricketer to take a hat-trick in a Twenty20 International (T20I) match. In January 2020, Chahar was awarded with the T20I Performance of the Year award by the International Cricket Council (ICC), after taking six wickets for seven runs against Bangladesh. 
+He became the first Indian male cricketer to take a hat-trick in a Twenty20 International (T20I) match. In January 2020, Chahar was awarded with the T20I Performance of the Year award by the International Cricket Council (ICC), after taking six wickets for seven runs against Bangladesh.
 
 In May 2018, Chahar was named in India's Twenty20 International (T20I) squad for the team's tour of England. He made his T20I debut on 8 July 2018, taking one wicket. He made his One Day International debut against Afghanistan in September 2018 during the 2018 Asia Cup.
 Chahar was selected in the Indian Twenty20 squad against West Indies in 2019, playing in the final match of the series and winning the player of the match award after taking three wickets for four runs. He was subsequently selected for the three-match T20I series against Bangladesh. In the final match of the series he set new best bowling figures in a men's T20I, with six wickets for seven runs from 3.2 overs. During the series, he also took the first hat-trick by a bowler for India in T20I and his first five-wicket haul in T20Is.
@@ -461,10 +461,10 @@ Gill won the BCCI award for the Best Junior Cricketer for consecutive years in 2
 
 With India facing the eternal number-four issue, many felt Gill would be punted with the World Cup not far away but after a handful of games (that too on extremely tough surfaces), he found himself out of the squad. Of course, the selectors and he himself knew that age is on his side and that his time would come. In the 2019 IPL, he batted in the top order and on expected lines, managed to create a bigger impact. However, it’s his exploits in red-ball cricket that’s convinced people of his completeness as a batsman. By churning out runs for fun in his brief First-class career thus far, Gill has now staked a claim for a spot across formats and has rightly been picked as a back-up opener for the home Tests against South Africa.
 
-## Sam Curran 
+## Sam Curran
 His father being a national cricketer for Zimbabwe - Sam Curran (born June 3, 1998) is one of the many white African cricketers of this decade to have moved out of his traditional roots and to have relocated in the United Kingdom to ply his trade. A diminutive, mild-looking left-arm seamer whose natural angle helps him swing the Dukes away from right-handers, he doubles up as an able batsman lower down the order; and given the ease he looks in with the bat, it could soon become his primary skill.
 
-He was soon picked for the 2016 under-19 World Cup, followed by a spot in the England Lions' tour to the UAE later in the year. An injury to Ben Stokes meant that Sam was fast-tracked into national reckoning, getting his maiden Test cap at Headingly against Pakistan in June 2018. His biggest moment under the sun came in the home summer of 2018 against the then number one side in the world, India. Picked primarily as a bowler, it was his abilities with the bat from number seven that helped rescue England after middle-order collapses, match after match. It was no surprise when he was named the Man of the Series for his all-round contributions (272 runs and 11 wickets) that saw England win 4-1. He carried on his form into the Sri Lankan tour, playing a key role in England whitewashing the islanders. 
+He was soon picked for the 2016 under-19 World Cup, followed by a spot in the England Lions' tour to the UAE later in the year. An injury to Ben Stokes meant that Sam was fast-tracked into national reckoning, getting his maiden Test cap at Headingly against Pakistan in June 2018. His biggest moment under the sun came in the home summer of 2018 against the then number one side in the world, India. Picked primarily as a bowler, it was his abilities with the bat from number seven that helped rescue England after middle-order collapses, match after match. It was no surprise when he was named the Man of the Series for his all-round contributions (272 runs and 11 wickets) that saw England win 4-1. He carried on his form into the Sri Lankan tour, playing a key role in England whitewashing the islanders.
 
 And performances against India never go unrecognised monetarily. Despite being a relatively unknown quantity for his T20 exploits, Sam Curran's name at the IPL auction later in the year attracted a bidding war. In the end, he was sold for a colossal 7.2 crores INR to KXIP to become one of the biggest surprises at the auctions over the last twelve seasons. He endured a strictly average time in the IPL, with the lack of swing on Indian pitches making him cannon fodder at his pace which generally is the late 120s or early 130s. That said, he did have a game where he produced a hat-trick and has shown promise to be of use, except that it could be as a batting all-rounder. Sam is a clean striker of the ball and in T20, it's this attribute of his that will hold him in better stead while his bowling could be more of a bonus. CSK picked him at the 2020 IPL auctions and although he doesn't seem like a sure starter at this point. Sam is definitely a handy addition to the squad.
 
@@ -493,62 +493,62 @@ His Harris shield performance was followed by several others of note, including 
 Prithvi Shaw for long has been touted as the next big thing in Indian cricket and judging by that Delhi bought him at an excellent price of 1.2 Crores. Initially, he wasn't getting an opportunity to be a part of the playing eleven but the poor form of Gautam Gambhir opened the door for Shaw. He made most of his opportunities and got Delhi off to brisk starts on most occasions. He started off well with a 10-ball 22 and a flurry of aggressive innings over the course of the season and ended up cementing his spot in the side, running riot in the powerplay, before Rishabh Pant could cut loose at the death. Shaw will look to replicate those performances when he will churn out for Delhi this year.
 
 ## Smriti Mandhana
-Smriti Shriniwas Mandhana is a prominent left-hand batswoman who plays for the Indian Cricket team. She was born on July 18, 1996, in Mumbai. She is the Vice-Captain 
-of the Indian Women's cricket team and also captained the side leading to many promising victories. In April 2013, she made her first International appearance in a 
-T20I match against Bangladesh. Five days later, she made her ODI debut. She scored her first century in just her second ODI game, scoring 102 against Australia in 
-Hobart. In the Women's T20 challenge she led her team Trailblazers to a magnificent victory in the final against SuperNovas to lift the trophy.The left-hander joined 
+Smriti Shriniwas Mandhana is a prominent left-hand batswoman who plays for the Indian Cricket team. She was born on July 18, 1996, in Mumbai. She is the Vice-Captain
+of the Indian Women's cricket team and also captained the side leading to many promising victories. In April 2013, she made her first International appearance in a
+T20I match against Bangladesh. Five days later, she made her ODI debut. She scored her first century in just her second ODI game, scoring 102 against Australia in
+Hobart. In the Women's T20 challenge she led her team Trailblazers to a magnificent victory in the final against SuperNovas to lift the trophy.The left-hander joined
 the Brisbane Heat in the 2016–17 season, making her WBBL debut. Later, the Hobart Hurricanes signed Mandhana for the 2018–19 campaign.
 
-Mandhana was awarded the best female cricketer of the year as well as the ODI player of the year in December 2018. She was aslo awarded the honorable 'Arjuna Award 
+Mandhana was awarded the best female cricketer of the year as well as the ODI player of the year in December 2018. She was aslo awarded the honorable 'Arjuna Award
 in the same year.
 
 ## Washington Sundar
-Washington Sundar was born on October 5, 1999, in Chennai, Tamil Nadu. He is an all-rounder who represents the Indian cricket team on the international stage. He is a 
-left-handed batter who bowls off-spin with his right arm. On December 13th, 2017, he made his ODI debut against Srilanka. Then, on December 24, 2017, he played in his 
-first T20I for India against Sri Lanka. Young Sundar started as a batsman before becoming an offspinner. He made his first-ever century in first-class cricket in 
-October 2017 while playing for Tamil Nadu against Tripura in the 2017–18 Ranji Trophy. He represented India in the 2016 edition of the U-19 World Cup. 
+Washington Sundar was born on October 5, 1999, in Chennai, Tamil Nadu. He is an all-rounder who represents the Indian cricket team on the international stage. He is a
+left-handed batter who bowls off-spin with his right arm. On December 13th, 2017, he made his ODI debut against Srilanka. Then, on December 24, 2017, he played in his
+first T20I for India against Sri Lanka. Young Sundar started as a batsman before becoming an offspinner. He made his first-ever century in first-class cricket in
+October 2017 while playing for Tamil Nadu against Tripura in the 2017–18 Ranji Trophy. He represented India in the 2016 edition of the U-19 World Cup.
 
-On April 22, 2017, he played his first Twenty20 match for Rising Pune Supergiants in the Indian Premier League. He was signed by the Royal Challengers Bangalore in 
-the 2018 IPL auction. He then was purchased by Sunrisers Hyderabad for 8.75 crores during the 2022 IPL Auction. 
+On April 22, 2017, he played his first Twenty20 match for Rising Pune Supergiants in the Indian Premier League. He was signed by the Royal Challengers Bangalore in
+the 2018 IPL auction. He then was purchased by Sunrisers Hyderabad for 8.75 crores during the 2022 IPL Auction.
 
 ## Sarfaraz Khan
-Sarfaraz Naushad Khan was born on 27 October 1997 in Mumbai, Maharashtra. He is a  Right-handed batter and occasionally bowls leg break. The Mumbai Cricket 
-Association initially suspended Sarfaraz for misrepresenting his age before accepting the results of a more thorough examination. Soon after, he was dismissed on 
-grounds of discipline from the MCA's indoor academy program. The young lad needed some time to put everything behind him, but once he did, he was given a place in the 
-Mumbai Under-19 team. He ultimately joined the Indian Under-19 team as a result of his performances there. 
+Sarfaraz Naushad Khan was born on 27 October 1997 in Mumbai, Maharashtra. He is a  Right-handed batter and occasionally bowls leg break. The Mumbai Cricket
+Association initially suspended Sarfaraz for misrepresenting his age before accepting the results of a more thorough examination. Soon after, he was dismissed on
+grounds of discipline from the MCA's indoor academy program. The young lad needed some time to put everything behind him, but once he did, he was given a place in the
+Mumbai Under-19 team. He ultimately joined the Indian Under-19 team as a result of his performances there.
 
-He plays for Mumbai in the Ranji Trophy, Delhi Capitals in the Indian Premier League, and also represented the Indian Cricket Team in U-19 version of 2014 and 2016. 
-Sarfaraz first got noticed when he scored a magnificent 439 in his maiden Haris Shield game in 2009 when he was just 12. In the Under-19 World Cup, 
-he scored 211 runs at an average of 70.33 and a strike rate of 105. He is well known for his outstanding performances in Domestic Cricket for the Mumbai side. He 
+He plays for Mumbai in the Ranji Trophy, Delhi Capitals in the Indian Premier League, and also represented the Indian Cricket Team in U-19 version of 2014 and 2016.
+Sarfaraz first got noticed when he scored a magnificent 439 in his maiden Haris Shield game in 2009 when he was just 12. In the Under-19 World Cup,
+he scored 211 runs at an average of 70.33 and a strike rate of 105. He is well known for his outstanding performances in Domestic Cricket for the Mumbai side. He
 averages 81.33 with 10 centuries and 8 half-centuries in First Class Cricket. He also slammed a magnificent 301 not out in Ranji Trophy against Uttar Pradesh.
 
 ## Abhishek Sharma
-Abhishek Sharma was born on 04 September 2000, in Amritsar, Punjab. He is a hard-hitting left-hand batsman, who bowls fast and left-arm spin. He started playing 
+Abhishek Sharma was born on 04 September 2000, in Amritsar, Punjab. He is a hard-hitting left-hand batsman, who bowls fast and left-arm spin. He started playing
 cricket with the support of his father at the early age of three. He began playing cricket under the instruction of his father at the Gandhi Sports Complex club.
-He led the Indian team to victory in the U-19 Asia Cup in 2016 and also was the second-highest wicket-taker in that tournament. He then represented India in the 2018 
-version of the U-19 World Cup under Prithvi Shaw, when India lifted the U-19 trophy. He was purchased by Delhi Daredevils in the 2018 IPL Auction and smashed a 
-magnificent knock of 46 not out in 19 balls in the debut match against Delhi Daredevils. He then was picked by the Sunrisers Hyderabad in the 2019 version. 
+He led the Indian team to victory in the U-19 Asia Cup in 2016 and also was the second-highest wicket-taker in that tournament. He then represented India in the 2018
+version of the U-19 World Cup under Prithvi Shaw, when India lifted the U-19 trophy. He was purchased by Delhi Daredevils in the 2018 IPL Auction and smashed a
+magnificent knock of 46 not out in 19 balls in the debut match against Delhi Daredevils. He then was picked by the Sunrisers Hyderabad in the 2019 version.
 
 ## Jemimah Ivan Rodrigues
-Jemimah Ivan Rodrigues was born on 05 September 2000 in Mumbai, Maharashtra. She is a Right-hand Middle-order batter. She is an allrounder in the Mumbai women's 
-cricket team and was in the Under-17 Maharashtra hockey team. She started playing cricket when she was four. Her father was a junior coach in her coach, he started 
+Jemimah Ivan Rodrigues was born on 05 September 2000 in Mumbai, Maharashtra. She is a Right-hand Middle-order batter. She is an allrounder in the Mumbai women's
+cricket team and was in the Under-17 Maharashtra hockey team. She started playing cricket when she was four. Her father was a junior coach in her coach, he started
 training her since the beginning. She loved playing both Cricket and Hockey. She represented Mumbai in the under-17 and under-19 hockey tournaments.
-She was selected for the Indian team to play South Africa in a three-match ODI series in February 2018. On February 13, 2018, she played her first Women's Twenty20 
-International cricket match for India against South Africa. On March 12, 2018, she played in her first Women's One Day International match for India against Australia. 
+She was selected for the Indian team to play South Africa in a three-match ODI series in February 2018. On February 13, 2018, she played her first Women's Twenty20
+International cricket match for India against South Africa. On March 12, 2018, she played in her first Women's One Day International match for India against Australia.
 
-She also participated in some major leagues like the Big Bash(representing Melbourne Renegades), The Hundred(representing Northern Super Chargers) and 
-played for the SuperNovas in the Women's T20 Challenge. She was awarded the Jagmohan Dalmiya Award presented by cricketer MS Dhoni for Best Domestic Junior 
+She also participated in some major leagues like the Big Bash(representing Melbourne Renegades), The Hundred(representing Northern Super Chargers) and
+played for the SuperNovas in the Women's T20 Challenge. She was awarded the Jagmohan Dalmiya Award presented by cricketer MS Dhoni for Best Domestic Junior
 Women's Cricketer by the Board of Control for Cricket in India in 2018.
 
 ## Umran Malik
-Umran Malik was born on 22 November 1999, in Jammu, Jammu & Kashmir. He started as one of the net bowlers by the Sunrisers in the 2021 version of Indian Premium 
-League. In the 49th game of the 2021 IPL, against Kolkata Knight Riders, he made his IPL debut. When he bowled five consecutive balls at more than 150 kmph during 
-the Sunrisers Hyderabad vs. Royal Challengers Bangalore game, he attracted notice. Malik's first five-wicket haul in Twenty20 cricket came on April 27, 2022, 
+Umran Malik was born on 22 November 1999, in Jammu, Jammu & Kashmir. He started as one of the net bowlers by the Sunrisers in the 2021 version of Indian Premium
+League. In the 49th game of the 2021 IPL, against Kolkata Knight Riders, he made his IPL debut. When he bowled five consecutive balls at more than 150 kmph during
+the Sunrisers Hyderabad vs. Royal Challengers Bangalore game, he attracted notice. Malik's first five-wicket haul in Twenty20 cricket came on April 27, 2022,
 against the Gujarat Titans in an IPL game. He also won the emerging player of the season in IPL 2022.
 
-He was selected as a net bowler for India's team for the ICC Men's T20 World Cup in 2021 as a result of his fast bowling. On November 23, 2021, he played in his 
-first first-class match for India A against South Africa A.Malik was included in the Twenty20 International (T20I) team for India's series against South Africa in 
-May 2022. He was included in India's T20I squad for their two-match series against Ireland the following month. On June 26, 2022, he played his first T20 
+He was selected as a net bowler for India's team for the ICC Men's T20 World Cup in 2021 as a result of his fast bowling. On November 23, 2021, he played in his
+first first-class match for India A against South Africa A.Malik was included in the Twenty20 International (T20I) team for India's series against South Africa in
+May 2022. He was included in India's T20I squad for their two-match series against Ireland the following month. On June 26, 2022, he played his first T20
 International for India against Ireland.
 
 
@@ -663,3 +663,10 @@ Born in Bangalore, Karnataka, Kumble developed an early interest in cricket as h
 Kumble was awarded the Padma Shri, India's fourth-highest civilian honour in 2005. After having played for 18 years, he announced his retirement from international cricket in November 2008. In October 2012, Kumble was appointed the chairman of the International Cricket Council (ICC)'s cricket committee.
 
 Between 2012 and 2015, Kumble held positions as a chief mentor for the teams Royal Challengers Bangalore and Mumbai Indians in the Indian Premier League. He was also a former head coach of the Indian cricket team as well. In February 2015, he became the fourth Indian cricketer to be inducted into ICC Hall of Fame. Kumble is currently the Head Coach and the Director of Cricket Operations of Punjab Kings.
+
+## Deepak Hooda
+An allrounder who can bat in any position, Deepak Hooda also bowls offbreaks, offers plenty of athleticism as a boundary fielder, and is an asset in any T20 side. His big hitting as a 19-year-old in his debut IPL season, in 2015, earned with the nickname "Hurricane Hooda", but more importantly, got him a Rs 4.2 crore (US$ 622,000 approx) contract with Sunrisers Hyderabad at the next auction.
+
+Hooda's game is also suited to the longer formats. Appointed Baroda's captain at the start of the 2016-17 Ranji season, he reeled off three consecutive hundreds, including an unbeaten 293 against Punjab, but struggled to convert his starts thereafter. In 2021, Baroda suspended him for indiscipline after he left the T20 squad, having accused captain Krunal Pandya of "bullying" and using abusive language. He moved to Rajasthan the next season.
+
+But Hooda patched things up with Pandya before the start of the 2022 IPL, and had a breakout season for Lucknow Super Giants under Pandya's captaincy. Immediately after, he scored his maiden T20I hundred - in only his third innings - against Ireland in Malahide and found himself included in the 2022 T20 World Cup squad.
