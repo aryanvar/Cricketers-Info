@@ -612,3 +612,8 @@ Charlotte Edwards became of the most significant figures of all time during her 
 
 Edwards was anything but out of her depth when she started, and in 1997 smashed 12 centuries, including one off 118 balls against the touring South Africans. The day before her 18th birthday, she scored a then-record ODI score of 173 not out in a World Cup match against Ireland. In 1998-99 she scored her maiden Test hundred against India but, while still scoring runs, she did not score as many runs as had been expected. In 2000, she was sidelined by a serious cruciate ligament injury sustained while playing hockey which caused her to miss almost all of the 2001 season. When she returned, she showed no hint that her talent had been diminished by the lay-off and continued in the same punishing vein.
 
+## Sir Alastair Nathan Cook
+Sir Alastair Nathan Cook CBE (born 25 December 1984) is an English cricketer who plays for Essex County Cricket Club, and played for England in all international formats from 2006 to 2018. A former captain of the England Test and One-Day International (ODI) teams, he is the fifth-highest Test run scorer of all time and holds a number of English and international records.
+
+Cook is England's second most-capped Test player and has captained the English team in 59 Tests, as well as in 69 ODIs. He is the leading run-scorer in Test matches for England, and the youngest player to score 12,000 Test runs (the sixth overall, and the only Englishman). Cook has scored a record 33 Test centuries for England and is the first England player to win 50 Test matches.[3] A left-handed opening batsman (the highest-scoring left-hander in Tests), he normally fields at first slip.
+
