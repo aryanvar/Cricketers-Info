@@ -240,10 +240,7 @@ AB de Villiers took 11 catches against Pakistan in Johannesburg in the 2012-13 s
 In December 2013, at the peak of his powers, de Villiers became the ninth batsman to top the batting rankings in both Tests and ODIs. He also had a wonderful three-match Test series against Australia, where he finished as the second highest run-scorer. He continued to do well in both Tests and ODIs and ended 2014 as the second-highest run-getter for South Africa in both formats, behind his team-mate Amla.
 
 
-
-
 ## BRETT LEE
-
 
 Arguably the fastest bowler ever, Brett Lee was a potent weapon in Australia's armoury during their glory days of the 2000s. If facing Glenn McGrath and Shane Warne wasn't threatening enough, opposition batsmen rarely had the luxury of getting of taking a breather as they had to contend with the raw pace of Lee. Masterly with the new ball and equally if not more threatening with the older ball, the New South Wales pacer had every trick in the book which made him a complete fast bowler by all means. Generally, it was the outswinger that was Lee's major trump card although his pace meant that a searing yorker or a whizzing bouncer were always around the corner. A fast bowling great in the ODI format, Lee couldn't quite replicate the same amount of success in Tests although he did finish with over 300 scalps in the longest format. Clearly, injuries also hindered him but even then, he seemed to enjoy the 50-over format more.
 
@@ -269,8 +266,6 @@ Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mothe
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
 He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
 Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
-
-
 
 ## SOURAV GANGULY
 Sourav Chandidas Ganguly, affectionately known as 'Dada', is an Indian cricket administrator, commentator and former national cricket team captain who is the 39th and current president of the Board of Control for Cricket in India.
@@ -605,10 +600,15 @@ Livingstone is someone who has the ability to hit big sixes and he has played fr
 
 Apart from his batting, Livingstone can also chip in with handy leg-breaks and is a gun fielder too. In short, he is a perfect package for white-ball cricket and definitely one of the rising stars from England.
 
-##Charlotte Edwards (Women Cricketer)
-English cricketer
+## Charlotte Edwards (Women Cricketer) English cricketer
 
 Charlotte Edwards became of the most significant figures of all time during her 20-year international career, for 10 of which she was England captain before it all came to an abrupt end in 2016. Edwards became the youngest woman to have played for England when she made her debut against New Zealand at Guildford as the age of 16 - Holly Colvin later became the youngest, aged 15, in the first Ashes Test in 2005 - and went on to be central to the evolution, or even revolution, of the women's game.
 
 Edwards was anything but out of her depth when she started, and in 1997 smashed 12 centuries, including one off 118 balls against the touring South Africans. The day before her 18th birthday, she scored a then-record ODI score of 173 not out in a World Cup match against Ireland. In 1998-99 she scored her maiden Test hundred against India but, while still scoring runs, she did not score as many runs as had been expected. In 2000, she was sidelined by a serious cruciate ligament injury sustained while playing hockey which caused her to miss almost all of the 2001 season. When she returned, she showed no hint that her talent had been diminished by the lay-off and continued in the same punishing vein.
+
+## Rahul Dravid
+Rahul Sharad Dravid (born 11 January 1973) is an Indian cricket coach and former captain of the Indian national team, currently serving as its head coach. Prior to his appointment to the senior men's national team, Dravid was the Head of Cricket at the National Cricket Academy (NCA), and the head coach of the India Under-19 and India A teams. Under his tutelage, the under-19 team finished runners up at the 2016 U-19 Cricket World Cup and won the 2018 U-19 Cricket World Cup. Known for his sound batting technique, Dravid scored 24,177 runs in international cricket and is widely regarded as one of the greatest batsmen in the history of cricket. He is colloquially known as Mr. Dependable and often referred to as The Wall.
+
+Born in a Marathi family and raised in Bangalore, he started playing cricket at the age of 12 and later represented Karnataka at the under-15, under-17 and under-19 levels. Dravid was named one of the best five cricketers of the year by Wisden Cricketers' Almanack in 2000 and received the Player of the Year and the Test Player of the Year awards at the inaugural ICC awards ceremony in 2004. In December 2011, he became the first non-Australian cricketer to deliver the Bradman Oration in Canberra.
+
 
