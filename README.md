@@ -651,3 +651,7 @@ Ricky Thomas Ponting AO (born 19 December 1974) is an Australian cricket coach, 
 ## Temba Bavuma
 Temba Bavuma (born 17 May 1990)is a South African international cricketer who currently is the captain of the South African cricket team in white-ball cricket. He also vice-captains the South Africa in Test cricket. He is a Right-handed batsman. He is better known for his Test cricket play. Bavuma is one of the best fielder of South Africa. He was the first black African cricketer to make a Test century for South Africa and the first to captain the side.Bavuma is only the second South African cricketer to score a century on ODI debut, scoring 113 runs against Ireland in September 2016.
 
+## Brian Lara
+Brian Charles Lara, TC, OCC, AM (born 2 May 1969) is a Trinidadian former international cricketer, widely acknowledged as one of the greatest batsmen of all time. He topped the Test batting rankings on several occasions and holds several cricketing records, including the record for the highest individual score in first-class cricket, with 501 not out for Warwickshire against Durham at Edgbaston in 1994, which is the only quintuple-hundred in first-class cricket history.
+
+Lara also holds the record for the highest individual score in a Test innings after scoring 400 not out at Antigua during the 4th test against England in 2004. Lara also held the record of scoring the highest number of runs in a single over in a Test match for 18 years when he scored 28 runs off an over by Robin Peterson of South Africa in 2003 (overtaken by Jasprit Bumrah in 2022).
