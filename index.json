@@ -2228,46 +2228,58 @@
         "Age": "44",
         "Role": "Left hand Batsman",
     },
-
-{
+    {
         "id": 9121,
         "Name":  "arvind jaiswal",
         "Age": "22",
         "Role": "Batsman",
     },
-
-{
+    {
         "id": 601,
         "Name":  "shivam mishra",
         "Age": "23",
         "Role": "right hand Batsman",
     },
-
-{
+    {
         "id": 921,
         "Name":  "alok shukla",
         "Age": "24",
         "Role": "Left hand Batsman",
     },
-
-{
+    {
         "id": 951,
         "Name":  "Rangana ",
         "Age": "44",
         "Role": "Left hand Batsman",
     },
-
-{
+    {
         "id": 901,
         "Name":  "Rangana Herath",
         "Age": "44",
         "Role": "Left hand Batsman",
     },
-{
+    {
         "id": 901,
         "Name":  "Rangana Herath",
         "Age": "44",
         "Role": "Left hand Batsman",
     },
-
+    {
+        "id": 871,
+        "Name":  "himanshu pal",
+        "Age": "56",
+        "Role": "Left hand bowler",
+    },
+    {
+        "id": 961,
+        "Name":  "atul sharma",
+        "Age": "35",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 9502,
+        "Name":  "James Michael Anderson",
+        "Age": "40",
+        "Role": "All-Rounder",
+    },
 ]
