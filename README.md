@@ -1,3 +1,13 @@
+## Yashasvi Jaiswal
+Yashasvi Jaiswal is an Indian Cricketer from Bhadohi, Uttar Pradesh. He plays for India-Under 19s and Mumbai Cricket Team. Yashavi is the youngest cricketer in the world to score a List A Double Century. The talented cricketer Yashasvi Jaiswal has been signed by Rajasthan Royals for Rs. 2.4 Crores to play in IPL 2020.
+Cricketer Yashasvi Jaiswal is a wonder kid. Now, he is a part of the Rajasthan Royals IPL Team. After so many hardships and struggles, he achieved success and fame in the field of cricket.
+During his struggle period, he used to live in Tents with the groundsmen at the Maidan. He slept hungry often and sold panipuri to earn his livings.
+In Feb 2020, he played for the ICC U-19 World Cup. He scored an unbeaten century in the semifinal against Pakistan. Yashasvi made 105 scores off 113 balls with 8 fours and 4 sixes.
+The full name of Yashasvi Jaiswal is Yashasvi Bhupendra Kumar Jaiswal. He was born on 28th December 2001 at Suriyawan, Bhadohi, Uttar Pradesh. His height is 5 feet 10 inches. His father’s name is Bhupendra Jaiswal who was the owner of a small hardware store. While his mother Kanchan Jaiswal is a housewife. He has five brothers and sisters.
+At the age of 10 years, he moved to Mumbai with his father. He used to visit Azad Maidan and love playing cricket there for practice. His father wanted him to go back to UP, but he decided to stay there with an aim to play for Mumbai.
+He stayed in Mumbai and start living in tents. He could not get much financial support from his family. So, he started selling Pani Puris to earn his living. He used to make a century in cricket matches in the morning and sell pani puris in the evening.
+Later, his coach Jwala Singh discovered his talent and took him under his wings. in 2013, The father of Yashasvi Jaiswal handed over the responsibility of Yashasvi to his coach Jwala Singh. Since then, he had been living with him. Yashasvi Jaiswal Jersey Number is 23 which is the birthday of his coach Jawala Singh.
+But, hard work and patience payback. Now he is playing for the Indian Cricket Team. He is also a cricketer in IPL Team Rajasthan Royals for IPL 2020. He got 2.4 Crores INR for playing in IPL 2020 in Rajasthan Royals Team.
 
 ## Suresh Raina
 Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
@@ -120,7 +130,7 @@ At 19, Rishabh Pant has gone through all the highs and lows of a cricketing care
 
 And then, it happened. Kapil Dev replaced Sunil Gavaskar in the 1982-83 season and was appointed the captain for the 1983 World Cup to be played in England. He played one of the best ODI innings of all time in a must-win match against Zimbabwe at Tunbridge Wells, where India were reeling at 17 for 5. Without any official telecast of the match due to a BBC strike, Kapil strode out and tore apart the Zimbabwean bowling to hammer 175* off 138 balls - a lesson in counter-attacking cricket, and a lesson decades ahead of its time. The scarcely believable knock gave India the momentum which they seized, and went on to win the coveted vessel of victory for the first time, beating the West Indies in the league stages, the hosts in the semi-final, and finally, edging the mighty West Indies yet again in a low-scoring final at Lord's.
 
-##Cheteshwar Arvind Pujara
+## Cheteshwar Arvind Pujara
 
 Cheteshwar Arvind Pujara is an Indian international cricketer who plays Test cricket for India and represents Saurashtra in domestic cricket. He is a right-handed batsman who made his first-class debut for Saurashtra in December 2005 and made his Test debut at Bangalore in October 2010.
 He was a part of the India A team which toured England in the 2010 summers and was the highest scorer of the tour. In October 2011, the BCCI awarded him a D grade national contract. Known to have a sound technique and the temperament required to play long innings, he was one of the contenders for a spot in the Indian middle order after the retirement of Rahul Dravid and VVS Laxman.[3] and was a part of the IPL 2021 winning team Chennai Super Kings.
@@ -197,7 +207,7 @@ Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup i
 Shikhar Dhawan (born 5 December 1985) is an Indian cricketer. Being a left-handed opening batsman and occasional captain of the India national cricket team, he plays for Punjab Kings in the Indian Premier League and Delhi in first-class cricket. At the 2013 Champions Trophy, 2015 World Cup, and 2017 Champions Trophy, Dhawan was the leading run-scorer for India.He also became the first player in the history of IPL to score two back-to-back centuries.He was awarded the 'Player of the Tournament' for his exploits in the 2013 ICC Champions Trophy.
 Dhawan made his One Day International (ODI) debut against Australia in October 2010 at Visakhapatnam. His Test debut came against the same opposition in March 2013 at Mohali, where he scored the fastest century by any batsman on Test debut and ended his innings with 187 runs from 174 balls.
 
-##Mithali Raj
+## Mithali Raj
 Mithali Dorai Raj (born 3 December 1982) is an Indian cricketer and a former captain of the India women's national cricket team from 2004 to 2022. Mithali is the highest run-scorer in women’s international cricket and is considered one of the greatest cricketers of all time.
 Mithali holds numerous records in international cricket. She is the only female cricketer to surpass the 7,000-run mark in Women's One Day International matches. She is the first player to score seven consecutive 50s in ODIs. She also holds the record for most half-centuries in WODIs. In June 2018, during the 2018 Women's Twenty20 Asia Cup, she became the first player from India, male or female, to score 2000 runs in T20Is, and also became the first woman cricketer to reach 2000 WT20I runs.
 
@@ -230,10 +240,7 @@ AB de Villiers took 11 catches against Pakistan in Johannesburg in the 2012-13 s
 In December 2013, at the peak of his powers, de Villiers became the ninth batsman to top the batting rankings in both Tests and ODIs. He also had a wonderful three-match Test series against Australia, where he finished as the second highest run-scorer. He continued to do well in both Tests and ODIs and ended 2014 as the second-highest run-getter for South Africa in both formats, behind his team-mate Amla.
 
 
-
-
 ## BRETT LEE
-
 
 Arguably the fastest bowler ever, Brett Lee was a potent weapon in Australia's armoury during their glory days of the 2000s. If facing Glenn McGrath and Shane Warne wasn't threatening enough, opposition batsmen rarely had the luxury of getting of taking a breather as they had to contend with the raw pace of Lee. Masterly with the new ball and equally if not more threatening with the older ball, the New South Wales pacer had every trick in the book which made him a complete fast bowler by all means. Generally, it was the outswinger that was Lee's major trump card although his pace meant that a searing yorker or a whizzing bouncer were always around the corner. A fast bowling great in the ODI format, Lee couldn't quite replicate the same amount of success in Tests although he did finish with over 300 scalps in the longest format. Clearly, injuries also hindered him but even then, he seemed to enjoy the 50-over format more.
 
@@ -259,8 +266,6 @@ Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mothe
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
 He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
 Shami made his international debut in a One Day International (ODI) against Pakistan in January 2013, bowling four maiden overs. His Test debut in November 2013 saw him take a five-wicket haul against the West Indies. He is the fastest Indian bowler to take 100 ODI wickets. During the 2019 Cricket World Cup, he became the second Indian bowler to claim a hat-trick in a World Cup match. As of 2022 Shami has an A grade central contract from the Board of Cricket Control in India (BCCI), the second highest grade of contract.
-
-
 
 ## SOURAV GANGULY
 Sourav Chandidas Ganguly, affectionately known as 'Dada', is an Indian cricket administrator, commentator and former national cricket team captain who is the 39th and current president of the Board of Control for Cricket in India.
@@ -290,7 +295,6 @@ Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් ම
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
-## Mahend
 
 ## Dayalan Hemalatha
 
@@ -425,7 +429,8 @@ Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was
 After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
 Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
 
-##Christopher Henry Gayle was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+## Christopher Henry Gayle
+He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
 
 ## Arshdeep Singh
 
@@ -547,7 +552,7 @@ May 2022. He was included in India's T20I squad for their two-match series again
 International for India against Ireland.
 
 
-##sarah taylor
+## Sarah taylor
 Sarah Jane Taylor (born 20 May 1989) is an English cricketer and cricket coach. She appeared in 10 Test matches, 126 One Day Internationals and 90 Twenty20 Internationals for England between 2006 and her retirement from international cricket in 2019 due to an anxiety issue. Taylor is the fastest cricketer, male or female, to earn their first cap in all three formats of international cricket, doing so in the space of nine days against India in 2006.
 
 She has played domestic cricket for Sussex, Lancashire Thunder, Surrey Stars, Northern Diamonds, Welsh Fire, Wellington, South Australia and Adelaide Strikers. She is a wicket-keeper-batter known for her free-flowing stroke play, opening the batting in limited-overs matches and batting in the middle order in Test cricket.
@@ -555,10 +560,10 @@ She opened the batting for England in their victories in the 50 over World Cup i
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
 
-##Tamsin Tilley Beaumont
+## Tamsin Tilley Beaumont
 Beaumont was born in Dover, Kent.[1] She began playing cricket in nearby Sandwich,[2][3] where she also attended Sir Roger Manwood's School.[4] When she was eight years old, her mother, Julie, secured her very first selection in a cricket team.[1] Beaumont's brother, Michael, was captain of an Under-11 side coached by her father, Kevin, a research scientist. As Beaumont later explained to Wisden Cricketers' Almanack in 2019
 
-##Venkatesh Iyer
+## Venkatesh Iyer
 
 Venkatesh Iyer (born 25 December 1994) is an Indian cricketer who plays for Madhya Pradesh in domestic cricket and Kolkata Knight Riders in the Indian Premier League (IPL).
 Iyer made his Twenty20 debut against Railways cricket team at Holkar Stadium in March 2015 and made his List A debut against Saurashtra cricket team at Saurashtra Cricket Association Stadium in December of the same year, while he was pursuing a Bachelor of Commerce degree. After passing the CA Intermediate examinations, he decided to dropout and enroll himself in a Master of Business Administration in finance to allow him to pursue cricket further.[6] He made his first-class debut for Madhya Pradesh in the 2018–19 Ranji Trophy on 6 December 2018.
@@ -567,7 +572,7 @@ In February 2021, Iyer was bought by the Kolkata Knight Riders in the IPL auctio
 
 Iyer emerged as a key player for KKR for the rest of the tournament, aiding in their run to the final, by scoring 370 runs at an average of 41 and a strike rate of 129. He was named as player of the match in the second qualifier, after scoring 55 runs and he followed this up with another half century in the final. Alongside his opening partner Shubman Gill, he put on an opening stand of 91, which proved to be in vain as KKR lost the match.
 
-##Harmanpreet Kaur
+## Harmanpreet Kaur
 Kaur admits to being "... not at all good at cooking." Her favourite meal is dal, or anything gravy-based, and she eats non-vegetarian food only when eating out. During overseas tours, she is often served sandwiches, which she finds "challenging".[65] Prior to matches, she eats light; after them, she has a heavy meal, "... to make up for lost calories."[65] Since about 2019, she has avoided eating glutens, even though foods containing such proteins are traditionally popular in Punjab. In 2021, she told ESPNcricinfo:
 
 "That decision has paid off massively as my recovery post-match or post-injury has become quicker.
@@ -576,12 +581,11 @@ Harmanpreet Kaur born 8 March 1989) is an Indian cricketer who serves as the cap
 
 In November 2018, she became the first woman for India to score a century in a Women's Twenty20 International (WT20I) match. In October 2019, during the series against South Africa, she became the first cricketer for India, male or female, to play in 100 international Twenty20 matches.
 
-##Lasith Malinga
+## Lasith Malinga
 
 Separamadu Lasith Malinga , nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time. Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname. Malinga announced his retirement from all forms of cricket on 14 September 2021.
 
 Malinga's unorthodox action and dipping slower ball yorkers are credited with much of his success.He changed the dynamics and landscape of death bowling in limited overs cricket by bowling his toe crushing yorkers. He is best known for his ability to take consecutive wickets, with in-swinging yorkers: he is the only bowler in the world to have two World Cup hat-tricks,first bowler to take a double hatrick, the only bowler to have taken three hat-tricks in ODIs and only bowler to have two double hatricks. He is also the first bowler to take five hat-tricks across all formats of international cricket, and holds the record for most hat-tricks in international cricket.
-
 
 ##Shubhman Gill
 Shubman Gill is the latest prodigy of India's familial batting production line. He shot to fame with 418 runs at an average of 104.50 in the 2018 ICC U19 World Cup, where he served as Prithvi Shaw's deputy and batted at No. 3 to play a crucial role in India's record fourth world title. Also the edition's Player of the Tournament, Gill was a favourite in the 2018 IPL auctions and was picked by Kolkata Knight Riders for INR 1.8 crore (USD 280,000).
@@ -603,3 +607,40 @@ With India facing the eternal number-four issue, many felt Gill would be punted 
 
 Although it's still early days, Gill's heady mix of passion, hard work and genius promises to cultivate a career that should serve Indian cricket well in the times to come. Until then, it's a nervous wait time for Gill and the many observers of cricket.
 
+## Glenn McGrath
+Glenn Donald McGrath AM (/məˈɡrɑː/; born 9 February 1970) is an Australian former international cricketer who played international cricket for 14 years. He was a fast-medium pace bowler and is considered one of the greatest international bowlers of all time, and a leading contributor to Australia's domination of world cricket from the mid-1990s to the late-2000s.
+Known throughout his career for maintaining an accurate line and length, McGrath displayed a consistency that enabled him to be one of the most economical and successful fast bowlers of his time. In terms of total career Test wickets taken by fast bowlers, McGrath is the third-most successful of all time behind James Anderson and Stuart Broad. On the list of all Test bowlers, he is fifth, and no bowler has taken more wickets at a lower average. He has also taken the seventh-highest number of one day international wickets (381) and holds the record for most wickets (71) in the Cricket World Cup.
+
+## Devdutt Padikkal
+The rising young star in the block of Karnataka, Devdutt Padikkal was born on 07 July 2007, in Edapal, Kerala. The promising youngster plays for the Karnataka Domestic Side and The Royal Challengers Bangalore. This man with an amazing record in the domestic class came out to be one of the most promising future youngsters for Indian Cricket. He was bought by the RCB franchise for the 2019 version of the Indian Premium League. Although he didn't get any opportunities to perform in his first season he started off his IPL Journey in 2020 with a bang. He became the first player in IPL history to score three fifties in his first four matches and then scored 473 runs in 15 matches in his debut season. He also won the Emerging Player Award for the same season.
+
+In June 2021 this young lad got the International Call against the Srilankans. He debuted on the 28th of July in 2021 in a T20I match against Srilanka. In 2022, he was bought by the Rajasthan Royal for the 2022 version of IPL. Along with his astonishing performances in IPL, this lad is a sensation for Karnataka at Domestic Level. He made his List A debut for Karnataka during the 2019–20 Vijay Hazare Trophy. He was the leading run-scorer in the tournament, with 609 runs in eleven matches. He averages just below 80 with 8 Half Centuries and 6 Hundreds. He is now one of the future contenders for the Indian Cricket Side. His class and confidence makes him one of the stand-out players for the Indian Side.
+## Liam Livingstone
+English cricketer
+
+With an experience of more than 40 first-class matches and a highest score of 224 in the format, Liam Livingstone is a right handed aggressive batsman from England. Liam made his first-class debut for Lancashire in April 2016 and played a fantastic knock of 70 against Nottinghamshire. As a result of Livingstone's contribution in that match, Lancashire managed to topple the 300-run mark against Nottinghamshire and managed to win that first-class encounter by 8 wickets at Manchester.
+
+Livingstone is someone who has the ability to hit big sixes and he has played franchise cricket over the past few years. His international debut came against South Africa in 2017 at home. Batting in the middle order, Liam's contribution in that T20I series were 16 & 0 respectively after which the youngster failed to make it to the England squad. Livingstone is considered as one of the most destructive batsmen in England and one of his most scintillating knocks was his innings of 350 (138 balls) he played for a club called Nantwich at the age of 21.
+
+Apart from his batting, Livingstone can also chip in with handy leg-breaks and is a gun fielder too. In short, he is a perfect package for white-ball cricket and definitely one of the rising stars from England.
+
+## Charlotte Edwards (Women Cricketer) English cricketer
+
+Charlotte Edwards became of the most significant figures of all time during her 20-year international career, for 10 of which she was England captain before it all came to an abrupt end in 2016. Edwards became the youngest woman to have played for England when she made her debut against New Zealand at Guildford as the age of 16 - Holly Colvin later became the youngest, aged 15, in the first Ashes Test in 2005 - and went on to be central to the evolution, or even revolution, of the women's game.
+Edwards was anything but out of her depth when she started, and in 1997 smashed 12 centuries, including one off 118 balls against the touring South Africans. The day before her 18th birthday, she scored a then-record ODI score of 173 not out in a World Cup match against Ireland. In 1998-99 she scored her maiden Test hundred against India but, while still scoring runs, she did not score as many runs as had been expected. In 2000, she was sidelined by a serious cruciate ligament injury sustained while playing hockey which caused her to miss almost all of the 2001 season. When she returned, she showed no hint that her talent had been diminished by the lay-off and continued in the same punishing vein.
+
+## Adam Gilchrist
+Adam Craig Gilchrist AM is an Australian cricket commentator and former international cricketer and captain of the Australia national cricket team. He was an attacking left-handed batsman and record-breaking wicket-keeper, who redefined the role for the Australia national team through his aggressive batting. Widely regarded as one of the greatest wicket-keeper-batsmen in the history of the game, Gilchrist held the world record for the most dismissals by a wicket-keeper in One Day International (ODI) cricket until it was surpassed by Kumar Sangakkara in 2015 and the most by an Australian in Test cricket.
+
+His strike rate is amongst the highest in the history of both ODI and Test cricket; his 57 ball century against England at Perth in December 2006 is the fourth-fastest century in all Test cricket. He was the first player to have hit 100 sixes in Test cricket. His 17 Test centuries and 16 in ODIs are both second only to Sangakkara by a wicket-keeper. He holds the unique record of scoring at least 50 runs in successive World Cup finals (in 1999, 2003 and 2007). His 149 off 104 balls against Sri Lanka in the 2007 World Cup final is rated one of the greatest World Cup innings of all time. He is one of only three players to have won three World Cup titles.
+
+Gilchrist was renowned for walking when he considered himself to be out, sometimes contrary to the decision of the umpire. He made his first-class debut in 1992, his first One-Day International appearance in 1996 in India and his Test debut in 1999. During his career, he played for Australia in 96 Test matches and over 270 One-day internationals. He was Australia's regular vice-captain in both forms of the game, captaining the team when regular captains Steve Waugh and Ricky Ponting were unavailable. He retired from international cricket in March 2008, though he continued to play domestic tournaments until 2013.
+
+## Sir Alastair Nathan Cook
+Sir Alastair Nathan Cook CBE (born 25 December 1984) is an English cricketer who plays for Essex County Cricket Club, and played for England in all international formats from 2006 to 2018. A former captain of the England Test and One-Day International (ODI) teams, he is the fifth-highest Test run scorer of all time and holds a number of English and international records.
+Cook is England's second most-capped Test player and has captained the English team in 59 Tests, as well as in 69 ODIs. He is the leading run-scorer in Test matches for England, and the youngest player to score 12,000 Test runs (the sixth overall, and the only Englishman). Cook has scored a record 33 Test centuries for England and is the first England player to win 50 Test matches.[3] A left-handed opening batsman (the highest-scoring left-hander in Tests), he normally fields at first slip.
+
+## Rahul Dravid
+Rahul Sharad Dravid (born 11 January 1973) is an Indian cricket coach and former captain of the Indian national team, currently serving as its head coach. Prior to his appointment to the senior men's national team, Dravid was the Head of Cricket at the National Cricket Academy (NCA), and the head coach of the India Under-19 and India A teams. Under his tutelage, the under-19 team finished runners up at the 2016 U-19 Cricket World Cup and won the 2018 U-19 Cricket World Cup. Known for his sound batting technique, Dravid scored 24,177 runs in international cricket and is widely regarded as one of the greatest batsmen in the history of cricket. He is colloquially known as Mr. Dependable and often referred to as The Wall.
+
+Born in a Marathi family and raised in Bangalore, he started playing cricket at the age of 12 and later represented Karnataka at the under-15, under-17 and under-19 levels. Dravid was named one of the best five cricketers of the year by Wisden Cricketers' Almanack in 2000 and received the Player of the Year and the Test Player of the Year awards at the inaugural ICC awards ceremony in 2004. In December 2011, he became the first non-Australian cricketer to deliver the Bradman Oration in Canberra.
