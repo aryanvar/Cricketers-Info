@@ -1721,9 +1721,8 @@
         "name": "Ishant Sharma",
         "Age": "33",
         "Role": "Bowler",
-
-
-    {
+},
+{
 
         "id": 2,
         "Name" : "Arshdeep Singh",
@@ -1737,26 +1736,20 @@
         "Role": " Left-handed Batsman ",
 
     },
-
-{
+    {
         "id": 143, 
-	"Name": "Shane Watson",
-	"Age": "41", 
-	"Role": "All Rounder",
+	      "Name": "Shane Watson",
+	      "Age": "41", 
+	      "Role": "All Rounder",
 	
 },
-
-
 {
         "id": 145,
         "name": "Navjot sidhu",
         "Age": "43",
         "Role": "batsman"
 },
-
-
-
-  {
+{
         "id": 2001,
         "Name": "Chaminda Vaas",
         "Age": "34",
@@ -2227,6 +2220,12 @@
         "Name":  "Rangana Herath",
         "Age": "44",
         "Role": "Left hand Batsman",
+    },
+    {
+        "id": 4201,
+        "Name":  "amir ahmed",
+        "Age": "34",
+        "Role": "all rounder",
     },
     {
         "id": 9121,
