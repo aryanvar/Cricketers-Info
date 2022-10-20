@@ -1721,9 +1721,8 @@
         "name": "Ishant Sharma",
         "Age": "33",
         "Role": "Bowler",
-
-
-    {
+},
+{
 
         "id": 2,
         "Name" : "Arshdeep Singh",
@@ -1737,26 +1736,20 @@
         "Role": " Left-handed Batsman ",
 
     },
-
-{
+    {
         "id": 143, 
-	"Name": "Shane Watson",
-	"Age": "41", 
-	"Role": "All Rounder",
+	      "Name": "Shane Watson",
+	      "Age": "41", 
+	      "Role": "All Rounder",
 	
 },
-
-
 {
         "id": 145,
         "name": "Navjot sidhu",
         "Age": "43",
         "Role": "batsman"
 },
-
-
-
-  {
+{
         "id": 2001,
         "Name": "Chaminda Vaas",
         "Age": "34",
@@ -2228,11 +2221,88 @@
         "Age": "44",
         "Role": "Left hand Batsman",
     },
-
-{
+    {
         "id": 951,
         "Name":  "prem tiwari",
         "Age": "24",
         "Role": "Left hand Batsman",
+    },
+    {
+        "id": 952,
+        "Name":  "moti lal ",
+        "Age": "44",
+        "Role": "Left hand Bowler",
+      },
+      {
+        "id": 9555,
+        "Name":  "ajeet vashaney",
+        "Age": "44",
+        "Role": " Batsman",
+        },
+    {
+        "id": 9561,
+        "Name":  "amit khan",
+        "Age": "46",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 4201,
+        "Name":  "amir ahmed",
+        "Age": "34",
+        "Role": "all rounder",
+    },
+    {
+        "id": 9121,
+        "Name":  "arvind jaiswal",
+        "Age": "22",
+        "Role": "Batsman",
+    },
+    {
+        "id": 601,
+        "Name":  "shivam mishra",
+        "Age": "23",
+        "Role": "right hand Batsman",
+    },
+    {
+        "id": 921,
+        "Name":  "alok shukla",
+        "Age": "24",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 951,
+        "Name":  "Rangana ",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 901,
+        "Name":  "Rangana Herath",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 901,
+        "Name":  "Rangana Herath",
+        "Age": "44",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 871,
+        "Name":  "himanshu pal",
+        "Age": "56",
+        "Role": "Left hand bowler",
+    },
+    {
+        "id": 961,
+        "Name":  "atul sharma",
+        "Age": "35",
+        "Role": "Left hand Batsman",
+    },
+    {
+        "id": 9502,
+        "Name":  "James Michael Anderson",
+        "Age": "40",
+        "Role": "All-Rounder",
     },
 ]
