@@ -5,6 +5,12 @@
         "Age": "25",
         "Role": "Batting Allounder",
     },
+    {
+        "id": 1010,
+        "name": "Kusal Perera",
+        "Age": "32",
+        "Role": "Batting Allounder",
+    },
 
 
     {
@@ -705,7 +711,6 @@
        "Role":"Right Handed Batsman",
     },
 
-   },
 
    {
     "id":76,
@@ -723,8 +728,6 @@
 
 },
   
-
-     },
         {
          "id":72,
          "Name":"Shivam Mavi",
@@ -1192,6 +1195,7 @@
         "id": 115,
         "name": "ellyse perry",
         "Age": "29",
+	"Role": " Fast Bowler",
   },
     
     {
@@ -1270,9 +1274,9 @@
 
 
   {
-        "id": 119,
+        "id": 120,
         "name": "Pravin Tambe",
-        "Age": 35",
+        "Age": "35",
         "Role": "Bowler",
 },
 
@@ -1301,7 +1305,7 @@
 {
         "id": 120,
         "name": "Soum srivastav",
-        "Age": "21,
+        "Age": "21",
         "Role": "Batsman"
 },
 
@@ -1805,7 +1809,6 @@
         "Age": "39",
         "Role": "right-Handed Batsman",
     },
-
     {
         "id": 4004,
         "Name": "rahul dravid",
@@ -2372,28 +2375,30 @@
         "Name":"Amit Mishra",
         "Age": "36",
         "Role":"Bowler",
-
     },
     {
         "id": 9504,
         "Name":"Ashwin",
         "Age": "37",
         "Role":"Bowler",
-
     },
     {
         "id": 9505,
         "Name":"virat Kohli",
         "Age": "36",
         "Role":"All-Rounder",
-
     },
  {
         "id": 9509,
         "Name":"James Charles Laker",
         "Age": "64",
         "Role":"Right hand Batsman",
-
+    },
+ {
+        "id": 99,
+        "Name":"amod tiwari",
+        "Age": "24",
+        "Role":"left hand Batsman",
     },
  {
         "id": 44,
@@ -2402,5 +2407,56 @@
         "Role":"Batting All Rounder"
 
     },
+    {
+        "id": 669,
+        "Name":"James david",
+        "Age": "35",
+        "Role":"Batsman",
 
+    },
+  {
+        "id": 99,
+        "Name":"satyam",
+        "Age": "44",
+        "Role":"Right hand Batsman",
+  },
+{
+        "id": 209,
+        "Name":"Charles Laker",
+        "Age": "34",
+        "Role":"Batsman",
+
+    },
+ {
+        "id": 249,
+        "Name":"romit yadav",
+        "Age": "34",
+        "Role":" Batsman",
+
+    },
+    {
+        "id": 941,
+        "Name":"david Charles ",
+        "Age": "24",
+        "Role":"Right hand Batsman",
+
+    },
+ {
+        "id": 9509,
+        "Name":"aman yadav",
+        "Age": "33",
+        "Role":"Right hand bowler",
+    },
+  {
+    "id"="9510",
+    "name"="Smriti Shriniwas Mandhana",
+    "Age"="26",
+    "Role"="Left-handed Batsman",
+  },
+{
+    "id"="9511",
+    "name"="Richa Ghosh",
+    "Age"="19",
+    "Role"="Right-handed Batsman",
+  },
 ]
