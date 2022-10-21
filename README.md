@@ -676,3 +676,5 @@ Hooda's game is also suited to the longer formats. Appointed Baroda's captain at
 
 But Hooda patched things up with Pandya before the start of the 2022 IPL, and had a breakout season for Lucknow Super Giants under Pandya's captaincy. Immediately after, he scored his maiden T20I hundred - in only his third innings - against Ireland in Malahide and found himself included in the 2022 T20 World Cup squad.
 
+## Lala Amarnath
+Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Recognizing his talent in Lahore, a Muslim cricketing household adopted Amarnath.[5] He played his debut match against England in 1933 on the Bombay Gymkhana grounds in South Bombay. Amarnath also played for the Hindus in the Bombay Quadrangular. Aside from being a batsman, Lala Amarnath was also a bowler, the only one to dismiss Donald Bradman hit wicket.
