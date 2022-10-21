@@ -560,6 +560,15 @@ She opened the batting for England in their victories in the 50 over World Cup i
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
 
+
+
+## Smriti Shriniwas Mandhana
+Smriti Shriniwas Mandhana born 18 July 1996 is an Indian cricketer who plays for the Indian women's national team. In June 2018, the Board of Control for Cricket in India (BCCI) named her as the Best Women's International Cricketer.In December 2018, the International Cricket Council (ICC) awarded her with the Rachael Heyhoe-Flint Award for the best female cricketer of the year. On 30 December 2021, she became a nominee of the ICC Women's T20 Player of the Year.In December 2021, she, Tammy Beaumont, Lizelle Lee and Gaby Lewis were nominated for the ICC Women's Cricketer of the Year.In January 2022, the ICC awarded her with the Rachael Heyhoe-Flint Award for the ICC Women's Cricketer of the Year.
+
+
+## Richa Ghosh
+Richa Ghosh is an Indian cricketer and a member of the Indian Women’s National cricket team. She is a Wicketkeeper for her team.Richa Ghosh was born on 28th September 2003 in West Bengal. Her father used to play cricket at the local club and currently works as a cricket Umpire in Bengal. It was her father who encouraged her to pursue cricket. Richa enrolled in the Bagha Jatin Athletic Club at the age of seven. She played along with the boys since there was no girls’ team.
+
 ## Tamsin Tilley Beaumont
 Beaumont was born in Dover, Kent.[1] She began playing cricket in nearby Sandwich,[2][3] where she also attended Sir Roger Manwood's School.[4] When she was eight years old, her mother, Julie, secured her very first selection in a cricket team.[1] Beaumont's brother, Michael, was captain of an Under-11 side coached by her father, Kevin, a research scientist. As Beaumont later explained to Wisden Cricketers' Almanack in 2019
 
@@ -675,4 +684,5 @@ An allrounder who can bat in any position, Deepak Hooda also bowls offbreaks, of
 Hooda's game is also suited to the longer formats. Appointed Baroda's captain at the start of the 2016-17 Ranji season, he reeled off three consecutive hundreds, including an unbeaten 293 against Punjab, but struggled to convert his starts thereafter. In 2021, Baroda suspended him for indiscipline after he left the T20 squad, having accused captain Krunal Pandya of "bullying" and using abusive language. He moved to Rajasthan the next season.
 
 But Hooda patched things up with Pandya before the start of the 2022 IPL, and had a breakout season for Lucknow Super Giants under Pandya's captaincy. Immediately after, he scored his maiden T20I hundred - in only his third innings - against Ireland in Malahide and found himself included in the 2022 T20 World Cup squad.
+
 
