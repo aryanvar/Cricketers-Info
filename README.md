@@ -9,6 +9,13 @@ He stayed in Mumbai and start living in tents. He could not get much financial s
 Later, his coach Jwala Singh discovered his talent and took him under his wings. in 2013, The father of Yashasvi Jaiswal handed over the responsibility of Yashasvi to his coach Jwala Singh. Since then, he had been living with him. Yashasvi Jaiswal Jersey Number is 23 which is the birthday of his coach Jawala Singh.
 But, hard work and patience payback. Now he is playing for the Indian Cricket Team. He is also a cricketer in IPL Team Rajasthan Royals for IPL 2020. He got 2.4 Crores INR for playing in IPL 2020 in Rajasthan Royals Team.
 
+## Kusal Peerera
+Mathurage Don Kusal Janith Perera (Sinhala: කුසල් පෙරේරා) (born 17 August 1990), more commonly known as Kusal Perera, is a professional Sri Lankan cricketer and a former limited overs Captain of Sri Lanka national cricket team. He plays all forms of the game for the Sri Lanka national cricket team, and currently one of the permanent top order batsman in all formats. He was a key member of the 2014 ICC World Twenty20 winning team. In domestic cricket, he plays for the Wayamba cricket team.
+
+He smashed 153 not out against South Africa in the first Test at Durban in 2019 to snatch the victory from the hands of South Africa by adding 78 runs for the last wicket with Vishwa Fernando in the match in the 4th innings of the Test match. That innings was named as the second-best Test innings of the decade by Wisden in 2019 and he also won the best test performance from Cricinfo for 2019.
+
+In May 2021, he was named as the captain of the Sri Lankan team, ahead of their One Day International (ODI) series against Bangladesh.[4]
+
 ## Suresh Raina
 Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
 
@@ -560,6 +567,15 @@ She opened the batting for England in their victories in the 50 over World Cup i
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
 
+
+
+## Smriti Shriniwas Mandhana
+Smriti Shriniwas Mandhana born 18 July 1996 is an Indian cricketer who plays for the Indian women's national team. In June 2018, the Board of Control for Cricket in India (BCCI) named her as the Best Women's International Cricketer.In December 2018, the International Cricket Council (ICC) awarded her with the Rachael Heyhoe-Flint Award for the best female cricketer of the year. On 30 December 2021, she became a nominee of the ICC Women's T20 Player of the Year.In December 2021, she, Tammy Beaumont, Lizelle Lee and Gaby Lewis were nominated for the ICC Women's Cricketer of the Year.In January 2022, the ICC awarded her with the Rachael Heyhoe-Flint Award for the ICC Women's Cricketer of the Year.
+
+
+## Richa Ghosh
+Richa Ghosh is an Indian cricketer and a member of the Indian Women’s National cricket team. She is a Wicketkeeper for her team.Richa Ghosh was born on 28th September 2003 in West Bengal. Her father used to play cricket at the local club and currently works as a cricket Umpire in Bengal. It was her father who encouraged her to pursue cricket. Richa enrolled in the Bagha Jatin Athletic Club at the age of seven. She played along with the boys since there was no girls’ team.
+
 ## Tamsin Tilley Beaumont
 Beaumont was born in Dover, Kent.[1] She began playing cricket in nearby Sandwich,[2][3] where she also attended Sir Roger Manwood's School.[4] When she was eight years old, her mother, Julie, secured her very first selection in a cricket team.[1] Beaumont's brother, Michael, was captain of an Under-11 side coached by her father, Kevin, a research scientist. As Beaumont later explained to Wisden Cricketers' Almanack in 2019
 
@@ -678,3 +694,4 @@ But Hooda patched things up with Pandya before the start of the 2022 IPL, and ha
 
 ## Lala Amarnath
 Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Recognizing his talent in Lahore, a Muslim cricketing household adopted Amarnath.[5] He played his debut match against England in 1933 on the Bombay Gymkhana grounds in South Bombay. Amarnath also played for the Hindus in the Bombay Quadrangular. Aside from being a batsman, Lala Amarnath was also a bowler, the only one to dismiss Donald Bradman hit wicket.
+
