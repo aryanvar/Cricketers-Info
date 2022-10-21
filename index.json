@@ -2394,5 +2394,12 @@
         "Role":"Right hand Batsman",
 
     },
+ {
+        "id": 669,
+        "Name":"James david",
+        "Age": "35",
+        "Role":"Batsman",
+
+    },
 
 ]
