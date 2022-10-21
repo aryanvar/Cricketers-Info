@@ -541,3 +541,7 @@ She has played domestic cricket for Sussex, Lancashire Thunder, Surrey Stars, No
 She opened the batting for England in their victories in the 50 over World Cup in Australia and the World T20 in 2009. However, she pulled out of the England tours of 2010 and 2011, including the Ashes match in Australia.
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
+
+
+## Smriti Shriniwas Mandhana
+Smriti Shriniwas Mandhana born 18 July 1996 is an Indian cricketer who plays for the Indian women's national team. In June 2018, the Board of Control for Cricket in India (BCCI) named her as the Best Women's International Cricketer.In December 2018, the International Cricket Council (ICC) awarded her with the Rachael Heyhoe-Flint Award for the best female cricketer of the year. On 30 December 2021, she became a nominee of the ICC Women's T20 Player of the Year.In December 2021, she, Tammy Beaumont, Lizelle Lee and Gaby Lewis were nominated for the ICC Women's Cricketer of the Year.In January 2022, the ICC awarded her with the Rachael Heyhoe-Flint Award for the ICC Women's Cricketer of the Year.
