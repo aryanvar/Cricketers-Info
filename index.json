@@ -2430,7 +2430,12 @@
         "Role":"Right hand Batsman",
 
     },
-
+ {
+        "id": 9509,
+        "Name":"aman yadav",
+        "Age": "33",
+        "Role":"Right hand bowler",
+    },
   {
     "id"="9510",
     "name"="Smriti Shriniwas Mandhana",
@@ -2443,4 +2448,5 @@
     "Age"="19",
     "Role"="Right-handed Batsman",
   },
+
 ]
