@@ -9,6 +9,13 @@ He stayed in Mumbai and start living in tents. He could not get much financial s
 Later, his coach Jwala Singh discovered his talent and took him under his wings. in 2013, The father of Yashasvi Jaiswal handed over the responsibility of Yashasvi to his coach Jwala Singh. Since then, he had been living with him. Yashasvi Jaiswal Jersey Number is 23 which is the birthday of his coach Jawala Singh.
 But, hard work and patience payback. Now he is playing for the Indian Cricket Team. He is also a cricketer in IPL Team Rajasthan Royals for IPL 2020. He got 2.4 Crores INR for playing in IPL 2020 in Rajasthan Royals Team.
 
+## Kusal Peerera
+Mathurage Don Kusal Janith Perera (Sinhala: කුසල් පෙරේරා) (born 17 August 1990), more commonly known as Kusal Perera, is a professional Sri Lankan cricketer and a former limited overs Captain of Sri Lanka national cricket team. He plays all forms of the game for the Sri Lanka national cricket team, and currently one of the permanent top order batsman in all formats. He was a key member of the 2014 ICC World Twenty20 winning team. In domestic cricket, he plays for the Wayamba cricket team.
+
+He smashed 153 not out against South Africa in the first Test at Durban in 2019 to snatch the victory from the hands of South Africa by adding 78 runs for the last wicket with Vishwa Fernando in the match in the 4th innings of the Test match. That innings was named as the second-best Test innings of the decade by Wisden in 2019 and he also won the best test performance from Cricinfo for 2019.
+
+In May 2021, he was named as the captain of the Sri Lankan team, ahead of their One Day International (ODI) series against Bangladesh.[4]
+
 ## Suresh Raina
 Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
 
