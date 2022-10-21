@@ -2377,30 +2377,33 @@
         "Name":"Amit Mishra",
         "Age": "36",
         "Role":"Bowler",
-
     },
     {
         "id": 9504,
         "Name":"Ashwin",
         "Age": "37",
         "Role":"Bowler",
-
     },
     {
         "id": 9505,
         "Name":"virat Kohli",
         "Age": "36",
         "Role":"All-Rounder",
-
     },
  {
         "id": 9509,
         "Name":"James Charles Laker",
         "Age": "64",
         "Role":"Right hand Batsman",
-
     },
  {
+        "id": 99,
+        "Name":"amod tiwari",
+        "Age": "24",
+        "Role":"left hand Batsman",
+
+    },
+    {
         "id": 669,
         "Name":"James david",
         "Age": "35",
