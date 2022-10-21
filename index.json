@@ -2394,5 +2394,11 @@
         "Role":"Right hand Batsman",
 
     },
+ {
+        "id": 99,
+        "Name":"amod tiwari",
+        "Age": "24",
+        "Role":"left hand Batsman",
 
+    },
 ]
