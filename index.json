@@ -1610,7 +1610,7 @@
         "id": 145, 
 	      "Name": "Cameron Green", 
 	      "Age": "23", 
-	      "Role": "All rounder",
+	      "Role": "All rounder"
 },
 
 
@@ -1804,13 +1804,11 @@
         "Age": "26",
         "Role": "left-Handed Batsman",
     },
-
-   {
+    {
         "Name": "Hashim Amla",
         "Age": "39",
         "Role": "right-Handed Batsman",
     },
-
     {
         "id": 4004,
         "Name": "rahul dravid",
@@ -2401,6 +2399,12 @@
         "Name":"amod tiwari",
         "Age": "24",
         "Role":"left hand Batsman",
+    },
+ {
+        "id": 44,
+        "Name":"HANUMA Vihari",
+        "Age": "29",
+        "Role":"Batting All Rounder"
 
     },
     {
