@@ -545,3 +545,8 @@ She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and w
 
 ## Smriti Shriniwas Mandhana
 Smriti Shriniwas Mandhana born 18 July 1996 is an Indian cricketer who plays for the Indian women's national team. In June 2018, the Board of Control for Cricket in India (BCCI) named her as the Best Women's International Cricketer.In December 2018, the International Cricket Council (ICC) awarded her with the Rachael Heyhoe-Flint Award for the best female cricketer of the year. On 30 December 2021, she became a nominee of the ICC Women's T20 Player of the Year.In December 2021, she, Tammy Beaumont, Lizelle Lee and Gaby Lewis were nominated for the ICC Women's Cricketer of the Year.In January 2022, the ICC awarded her with the Rachael Heyhoe-Flint Award for the ICC Women's Cricketer of the Year.
+
+
+## Richa Ghosh
+Richa Ghosh is an Indian cricketer and a member of the Indian Women’s National cricket team. She is a Wicketkeeper for her team.Richa Ghosh was born on 28th September 2003 in West Bengal. Her father used to play cricket at the local club and currently works as a cricket Umpire in Bengal. It was her father who encouraged her to pursue cricket. Richa enrolled in the Bagha Jatin Athletic Club at the age of seven. She played along with the boys since there was no girls’ team.
+
