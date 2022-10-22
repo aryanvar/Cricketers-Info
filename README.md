@@ -695,3 +695,5 @@ But Hooda patched things up with Pandya before the start of the 2022 IPL, and ha
 ## Lala Amarnath
 Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Recognizing his talent in Lahore, a Muslim cricketing household adopted Amarnath.[5] He played his debut match against England in 1933 on the Bombay Gymkhana grounds in South Bombay. Amarnath also played for the Hindus in the Bombay Quadrangular. Aside from being a batsman, Lala Amarnath was also a bowler, the only one to dismiss Donald Bradman hit wicket.
 
+## Bishan Singh Bedi
+Bishan Singh Bedi born 25 September 1946) is a former Indian cricketer who was primarily a slow left-arm orthodox bowler. He played Test cricket for India from 1966 to 1979 and formed part of the famous Indian spin quartet. He played a total of 67 Tests and took 266 wickets. He also captained the national side in 22 Test matches. Bedi wore a colourful patka and has voiced outspoken and forthright views on cricketing matters. He was awarded the Padma Shri award in 1970.
