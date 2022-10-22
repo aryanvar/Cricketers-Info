@@ -695,3 +695,9 @@ But Hooda patched things up with Pandya before the start of the 2022 IPL, and ha
 ## Lala Amarnath
 Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Recognizing his talent in Lahore, a Muslim cricketing household adopted Amarnath.[5] He played his debut match against England in 1933 on the Bombay Gymkhana grounds in South Bombay. Amarnath also played for the Hindus in the Bombay Quadrangular. Aside from being a batsman, Lala Amarnath was also a bowler, the only one to dismiss Donald Bradman hit wicket.
 
+## Nicholas Pooran
+A prodigy, breaking school cricket records over the years, and turning up in his 20s as a blonde-haired big-hitter, Nicholas Pooran, today, has broken out as one of the many aggressive young West Indian batsmen coming up through the ranks. 
+
+A left-handed stylish batsman, who can also double up as a wicket-keeper if necessary, Pooran's first major claim to fame was at the age of 16 the 2013 CPL, where he was signed up for Trinidad Red Steel - becoming the youngest ever player to play in the CPL - and lit up the stage in his first match with a stunning 54 off just 24 balls. He followed it up with equally impressive performances in the Champions League that followed. Representing the Windies under-19s in the U-19 World Cup of 2014, he emerged as one of the brightest talking points. finishing with 303 runs from six matches. 
+
+However, just as his career showed signs of taking off to bigger things, he suffered a chronic ankle injury in a car accident which put him out of action for almost two years. He returned with a bang though - scoring 217 runs in the eight games - in the 2016 season of the CPL which led to an international cap against Pakistan later in the year. Trouble wasn't far though again, finding himself in a soup after opting to play in the Bangladesh Premier League over the domestic season, leading to a 10-month ban.
