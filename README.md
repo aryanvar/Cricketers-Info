@@ -695,3 +695,5 @@ But Hooda patched things up with Pandya before the start of the 2022 IPL, and ha
 ## Lala Amarnath
 Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Recognizing his talent in Lahore, a Muslim cricketing household adopted Amarnath.[5] He played his debut match against England in 1933 on the Bombay Gymkhana grounds in South Bombay. Amarnath also played for the Hindus in the Bombay Quadrangular. Aside from being a batsman, Lala Amarnath was also a bowler, the only one to dismiss Donald Bradman hit wicket.
 
+## Srinivasaraghavan Venkataraghavan
+Srinivasaraghavan Venkataraghavan is an Indian former cricketer. He captained the Indian cricket team at the first two ICC Cricket World Cups, and later became an umpire on the elite International Cricket Council Test panel. His Test career was one of the longest for any Indian player. He also played for Derbyshire in English county cricket from 1973 to 1975. A qualified engineer and an alumnus of Chennai's famed College of Engineering, Guindy, he is a recipient of the civilian honour of Padma Shri in 2003.
