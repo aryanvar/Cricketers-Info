@@ -695,3 +695,7 @@ But Hooda patched things up with Pandya before the start of the 2022 IPL, and ha
 ## Lala Amarnath
 Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Recognizing his talent in Lahore, a Muslim cricketing household adopted Amarnath.[5] He played his debut match against England in 1933 on the Bombay Gymkhana grounds in South Bombay. Amarnath also played for the Hindus in the Bombay Quadrangular. Aside from being a batsman, Lala Amarnath was also a bowler, the only one to dismiss Donald Bradman hit wicket.
 
+## Gregory Stephen Chappell
+Gregory Stephen Chappell (born 7 August 1948) is a former cricketer who represented Australia at international level in both Tests and One-Day Internationals (ODI). The second of three brothers to play Test cricket, Chappell was the pre-eminent Australian batsman of his time who allied elegant stroke making to fierce concentration. An exceptional all round player who bowled medium pace and, at his retirement, held the world record for the most catches in Test cricket, Chappell's career straddled two eras as the game moved toward a greater level of professionalism after the WSC schism.
+
+Since his retirement as a player in 1984, Chappell has pursued various business and media interests as well as maintaining connections to professional cricket; he has been a selector for national and Queensland teams, a member of the Australian Cricket Board, and a coach.
