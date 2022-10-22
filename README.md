@@ -700,3 +700,6 @@ Amarnath was born in an impoverished Brahmin family[4] of Kapurthala, Punjab. Re
 Gregory Stephen Chappell (born 7 August 1948) is a former cricketer who represented Australia at international level in both Tests and One-Day Internationals (ODI). The second of three brothers to play Test cricket, Chappell was the pre-eminent Australian batsman of his time who allied elegant stroke making to fierce concentration. An exceptional all round player who bowled medium pace and, at his retirement, held the world record for the most catches in Test cricket, Chappell's career straddled two eras as the game moved toward a greater level of professionalism after the WSC schism.
 
 Since his retirement as a player in 1984, Chappell has pursued various business and media interests as well as maintaining connections to professional cricket; he has been a selector for national and Queensland teams, a member of the Australian Cricket Board, and a coach.
+
+## Thangarasu Natarajan
+Thangarasu Natarajan is an Indian cricketer. He made his international debut for the India cricket team in December 2020. He plays for Sunrisers Hyderabad in the Indian Premier League and for Tamil Nadu in domestic cricket. He became the first Indian cricketer to make his international debut across all three formats on the same tour when he was playing in India's 2020–21 tour of Australia.
