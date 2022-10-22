@@ -55,21 +55,8 @@ He is now an Indian international cricketer who is the current captain of the In
 
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
 
-
-## Suresh Raina
-Suresh Raina is an Indian former international cricketer. He occasionally served as stand-in captain for Indian men's national cricket team during the absence of the main captain.
-
-## KL Rahul
-Kannaur Lokesh Rahul is an Indian cricketer who currently is the vice-captain of the India national team in all formats. He plays for Karnataka in domestic cricket. He is the current captain of Lucknow Super Giants in the Indian Premier League.
-
-## Virender Sehwag
-Virender Sehwag is a former Indian cricketer. He represented India from 1999 to 2013. He played for Delhi and Haryana in Indian domestic cricket. He played as aggressive opening batsman throughout his playing days.
-
 ## Hardik Pandya
 Hardik Himanshu Pandya is an Indian international cricketer who plays for the India national cricket team at the international level and the Baroda cricket team in Indian domestic cricket.
-
-## Rohit Sharma
-Rohit Gurunath Sharma is an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket.
 
 ## Ravindra Jadeja
 Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
@@ -77,14 +64,8 @@ Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian
 ## Mayank agarwal
 Mayank Anurag Agarwal is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League.
 
-## Glenn Maxwell
-Glenn James Maxwell is an Australian professional cricketer, who represents Australia national cricket team in One Day International and Twenty20 International formats of the game and has played Test cricket for Australia. Maxwell is an all-rounder who bats right handed and bowl off break.
-
 ## Suryakumar yadav
 Suryakumar Ashok Yadav, also known as Suryakumar Yadav or SKY, is an Indian cricketer who plays for India in the ODI and T20I formats. He represents Mumbai cricket team in domestic cricket and plays for Mumbai Indians in the Indian Premier League.
-
-## Dinesh karthik
-Krishnakumar Dinesh Karthik is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket.
 
 ## AB de Villiers
 Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
@@ -259,13 +240,6 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
-## Mahendra Singh Dhoni
-Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
-Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
-Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
-
-
-
 ## Mohammed Shami
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
 He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
@@ -287,15 +261,6 @@ After some match-fixing scandal by some of the players of the team in 2000. Sour
 Sourav Ganguly was awarded the Padma Shri in 2004, India's fourth-highest civilian award, in recognition of his distinguished contribution in the field of sports. In the latter stages, he was doing well consistently and decided to bid adieu to international cricket after being in a form. He retired from international cricket in a Test series against Australia at home in 2008.
 
 In 2008, he was one of the icon players in the inaugural edition of the Indian Premier League. He was the captain of the Kolkata Night Riders. Zee Bangla the television channel also appointed him as the host of the reality quiz show titled Dadagiri Unlimited. He was also appointed the chairman of CAB's Cricket Development Committee. In 2019, Sourav Ganguly was elected as the President of the Board of Cricket Control of India. He has been awarded several awards for his outstanding contributions in the field of sports. Some of them are Sports Star Person of the Year, Arjuna Award, CEAT Indian Captain of the Year, Padma Shri 2004, Rammohan Roy Award. On 20 May 2013, the Government of West Bengal honoured Sourav Ganguly with the Banga Bibhushan Award.
-
-
-## Kapil Dev
-
-Kapil Dev was the greatest pace bowler India has produced, and their greatest fast-bowling allrounder. If he had played at any other time - not when Imran Khan, Ian Botham and Richard Hadlee were contemporaries - he would surely have been recognised as the best allrounder in the world. In any case he did enough to be voted India's Cricketer of the Century during 2002, ahead of Sunil Gavaskar and Sachin Tendulkar. His greatest feats were to lead India almost jauntily, and by his all-round example, to the 1983 World Cup, and to take the world-record aggregate of Test wickets from Hadlee. It was the stamina of the marathon runner that took him finally to 431 wickets and only a yard beyond. He might not have been quite the bowling equal of Imran, Hadlee or Botham at his best, and his strike rate was less than four wickets per Test, but he was still outstanding in his accuracy and ability to swing the ball, usually away from right-handers. And he could hit a ball even more brilliantly than he bowled it, with uncomplicated flair.
-
-
-## Lasith Malinga
-Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් මාලිංග; born 28 August 1983), nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time.[1][2][3] Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname.[4] Malinga announced his retirement from all forms of cricket on 14 September 2021.
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
@@ -424,14 +389,6 @@ In February 2017, Pant was named Delhi's captain for the 2016–17 Vijay Hazare 
 On 14 January 2018, in the 2017–18 Zonal T20 League match between Himachal Pradesh and Delhi, Pant scored the second-fastest century in a Twenty20 match, making 100 from 32 balls.
 
 
-## Mahendra Singh Dhoni
-
-In 1995, M.S Dhoni joined the Commando cricket club and stood behind the stumps for them for the next three years. He was then picked for the Vinoo Mankad Trophy Under-16 Championship in the 1997/98 season and performed well.
-In 1998, Dhoni started to play for the Central Coal Fields Limited (CCL) team. During his time at the CCL, Deval Sahay would gift him fifty rupees for every 6 that he scored in Sheesh Mahal tournament cricket games. Sahay then pushed for Dhoni selection in the Bihar team.
-Dhoni was selected in 1998 by Deval Sahay to play for the Central CoalFields Limited (CCL) team. This was the first time that Dhoni stepped into professional cricket. Dhoni showed exceptional talent which impressed Deval Sahay who used his contacts in Bihar Cricket Association to push for his selection in the Bihar team.
-Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was also included in the Bihar U-19 squad for the 1998-99 season where he scored 176 runs in 7 innings from 5 matches.Dhoni however was not picked for the East Zone U-19 squad (CK Nayudu Trophy) or Rest of India squad (MA Chidambaram Trophy and Vinoo Mankad Trophy). Dhoni made the first-class debut in Ranji Trophy debut for Bihar in the 1999 - 2000 season. He was just eighteen-year-old at that moment.
-After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
-Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
 
 ## Christopher Henry Gayle
 He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
@@ -669,9 +626,6 @@ Brian Charles Lara, TC, OCC, AM (born 2 May 1969) is a Trinidadian former intern
 
 Lara also holds the record for the highest individual score in a Test innings after scoring 400 not out at Antigua during the 4th test against England in 2004. Lara also held the record of scoring the highest number of runs in a single over in a Test match for 18 years when he scored 28 runs off an over by Robin Peterson of South Africa in 2003 (overtaken by Jasprit Bumrah in 2022).
 
-## Kapil Dev
-Kapil Dev Ramlal Nikhanj was born 6 January 1959 is an Indian former cricketer. He was a fast-medium bowler and a hard-hitting middle-order batsman, and was named by Wisden as the Indian Cricketer of the Century in 2002.
-Dev captained the Indian cricket team that won the 1983 Cricket World Cup, and in the process became the first Indian captain to win the Cricket World Cup, and is still the youngest captain (at the age of 24) to win the World Cup for any team. He retired in 1994, at the times of holding the world record for the highest number of wickets taken in Test cricket, a record subsequently broken by Courtney Walsh in 2000. At the time, he was also India's highest wicket-taker in both major forms of cricket, Tests and ODIs. He is the first player to take 200 ODI wickets. He is the only player in the history of cricket to have taken more than 400 wickets (434 wickets) and scored more than 5,000 runs in Tests, making him one of the greatest all-rounders in the history of cricket. Dev's all-round performance has been praised by cricketers including Sunil Gavaskar who regards him as one of the greatest all-rounders to play the game. He was the coach of the Indian national team between September 1999 and September 2000. On 11 March 2010, Dev was inducted into the ICC Cricket Hall of Fame. In 1982 awarded with the Padma Shri and in 1991 the Padma Bhushan.
 
 ## Anil Kumble
 Anil Kumble was born on 17 October 1970 is a former Indian cricket captain, coach and commentator who played Test and One Day International cricket for his national team over an international career of 18 years. Widely regarded as one of the best leg spin bowlers in Test cricket history, he took 619 wickets in Test cricket and is the fourth highest wicket taker of all time as of 2022. In 1999 while playing against Pakistan, Kumble dismissed all ten batsmen in a Test match innings, joining England's Jim Laker as the second player to achieve the feat. Unlike his contemporaries, Kumble was not a big turner of the ball, but relied primarily on pace, bounce, and accuracy. He was nicknamed "Apple" and "Jumbo". Kumble was selected as the Cricketer of the Year in 1993 Indian Cricket, and one of the Wisden Cricketers of the Year three years later.
