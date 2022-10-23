@@ -2464,11 +2464,41 @@
     "Age"="19",
     "Role"="Right-handed Batsman",
   },
-
 {
     "id"="771",
     "name"="amod pal",
     "Age"="49",
     "Role"="Right-handed Batsman",
   },
+{
+    "id"="9111",
+    "name"="Rajit yadav",
+    "Age"="18",
+    "Role"=" Batsman",
+  },
+{
+    "id"="9513",
+    "name"="Bishan Singh Bedi",
+    "Age"="76",
+    "Role"="Bowler",
+  },
+  {
+    "id"="9515",
+    "name"="Srinivasaraghavan Venkataraghavan",
+    "Age"="77",
+    "Role"="Bowler",
+  },
+  {
+    "id": "9512",
+    "name": "Thangarasu Natarajan",
+    "Age": "29",
+    "Role": "Left-handed Batsman",
+  },
+
+    {
+        "id": 102102,
+        "name": "Kusal Perera",
+        "Age": "31",
+        "Role": "Allounder",
+    },
 ]
