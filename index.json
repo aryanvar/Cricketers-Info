@@ -2402,5 +2402,12 @@
         "Role":"Batting All Rounder"
 
     },
+ {
+        "id": 3,
+        "Name":"Riyan Parag",
+        "Age": "20",
+        "Role":"right-handed batsman"
+
+    }
 
 ]
