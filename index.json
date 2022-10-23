@@ -2470,4 +2470,11 @@
     "Age": "29",
     "Role": "Left-handed Batsman",
   },
+
+    {
+        "id": 102102,
+        "name": "Kusal Perera",
+        "Age": "31",
+        "Role": "Allounder",
+    },
 ]
