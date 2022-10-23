@@ -1,3 +1,7 @@
+# Cricketers-Info
+
+This repository contains the information on the different crickerters, their ages and their respective roles in the history of cricket.
+
 ## Yashasvi Jaiswal
 Yashasvi Jaiswal is an Indian Cricketer from Bhadohi, Uttar Pradesh. He plays for India-Under 19s and Mumbai Cricket Team. Yashavi is the youngest cricketer in the world to score a List A Double Century. The talented cricketer Yashasvi Jaiswal has been signed by Rajasthan Royals for Rs. 2.4 Crores to play in IPL 2020.
 Cricketer Yashasvi Jaiswal is a wonder kid. Now, he is a part of the Rajasthan Royals IPL Team. After so many hardships and struggles, he achieved success and fame in the field of cricket.
@@ -9,6 +13,13 @@ He stayed in Mumbai and start living in tents. He could not get much financial s
 Later, his coach Jwala Singh discovered his talent and took him under his wings. in 2013, The father of Yashasvi Jaiswal handed over the responsibility of Yashasvi to his coach Jwala Singh. Since then, he had been living with him. Yashasvi Jaiswal Jersey Number is 23 which is the birthday of his coach Jawala Singh.
 But, hard work and patience payback. Now he is playing for the Indian Cricket Team. He is also a cricketer in IPL Team Rajasthan Royals for IPL 2020. He got 2.4 Crores INR for playing in IPL 2020 in Rajasthan Royals Team.
 
+## Kusal Peerera
+Mathurage Don Kusal Janith Perera (Sinhala: කුසල් පෙරේරා) (born 17 August 1990), more commonly known as Kusal Perera, is a professional Sri Lankan cricketer and a former limited overs Captain of Sri Lanka national cricket team. He plays all forms of the game for the Sri Lanka national cricket team, and currently one of the permanent top order batsman in all formats. He was a key member of the 2014 ICC World Twenty20 winning team. In domestic cricket, he plays for the Wayamba cricket team.
+
+He smashed 153 not out against South Africa in the first Test at Durban in 2019 to snatch the victory from the hands of South Africa by adding 78 runs for the last wicket with Vishwa Fernando in the match in the 4th innings of the Test match. That innings was named as the second-best Test innings of the decade by Wisden in 2019 and he also won the best test performance from Cricinfo for 2019.
+
+In May 2021, he was named as the captain of the Sri Lankan team, ahead of their One Day International (ODI) series against Bangladesh.[4]
+
 ## Suresh Raina
 Arguably among India's finest T20 batsmen, Suresh Raina stormed into the international scene as a teenage prodigy during the Greg Chappell regime. Typical left-hander's elegance, power game and a fine temperament were the hallmark of Raina the batsman and he exhibited it beautifully during his ODI debut in 2005. After a stupendous start though, his form dipped over the next year and that was followed by a serious injury which meant that the career had hit a roadblock towards the latter part of 2007. The talent was obvious but Raina needed to translate that on the field as well. That's when the IPL Caravan debuted in 2008.
 
@@ -16,14 +27,6 @@ Arguably among India's finest T20 batsmen, Suresh Raina stormed into the interna
 Gautam Gambhir's cricketing career has all the trappings of a typical Bollywood flick- the glamour, the drama, the passion, the chutzpah, the wrangles, and of course the proverbial acche din and bure din.
 
 Gambhir's journey as a first-class cricketer began in the 1999-2000 season. But, it was a couple of years later, in 2002, that the Delhi lad first stole the spotlight. Then playing for the Board President's XI against a touring Zimbabwe team, the left-hander smashed a double century scoring 218 runs. A year later, came the big moment: Gambhir secured his place in the Indian team for the TVS Cup, a triangular fixture.
-
-# Cricketers-Info
-
-This repository contains the information on the different crickerters, their ages and their respective roles in the history of cricket.
-
-Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
-Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
-Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
 
 ## Sachin Tendulkar
 Sachin Tendulkar, in full Sachin Ramesh Tendulkar, (born April 24, 1973, Bombay [Mumbai], India), Indian professional cricket player, considered by many to be one of the greatest batsmen of all time. In 2012 he became the first cricketer to score 100 centuries (100 runs in a single innings) in international play.
@@ -33,11 +36,12 @@ Tendulkar was given his first bat when he was 11 years of age. As a 14-year-old,
 
 Mahendra Singh Dhoni was born on July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
 He was captain of the Indian national cricket team in limited-overs formats from 2007 to 2017 and in Test cricket from 2008 to 2014. He is a right handed wicket-keeper batsman.He led the team to three ICC trophies including the 2007 ICC World Twenty20, 2011 ICC Cricket World Cup and 2013 ICC Champions Trophy. Under his captaincy, India won the ACC Asia Cup two times, in 2010 and 2016. India also won ICC Test Championship Mace two times in 2010, 2011 and ICC ODI Shield for one time in 2013 under his leadership. He is considered as one of the greatest Captains and Wicket Keeper Batsman of all time.Throughout his 15 year long international career, Dhoni has won several awards and accolades.
-In Indian domestic cricket he played for Bihar and Jharkhand Cricket team. He is the captain of Chennai Super Kings (CSK) in the Indian Premier League. He captained the side to championships in the 2010, 2011, 2018 and 2021 editions of IPL league. Also under his captaincy Chennai Super Kings (CSK) Won Champions League T20 two times, in 2010 and 2014.
+In Indian domestic cricket he played for Bihar and Jharkhand Cricket team. He is the captain of Chennai Super Kings (CSK) in the Indian Premier League. He captained the side to championships in the 2010, 2011, 2018 and 2021 editions of IPL league. Also under his captaincy Chennai Super Kings (CSK) Won Champions League T20 two times, in 2010 and 2014. 
+Apart from Cricket, MS Dhoni has also made key diverse investments in companies ranging from auto, and sports to food beverages segments. His latest investment is in the drone company Garuda Aerospace.
 
 ## Virat Kohli
 
-Virat Kohli is an Indian cricketer who plays for India national cricket team. He was born in Delhi, India on November 5, 1988. Virat is the first player in ICC cricket history to win all 3 ICC awards in a single year- ICC ODI player of the year, ICC Test player of the year and ICC Player of the year award in 2018. He is rated as one of the best batsmen in the world.
+Virat Kohli is an Indian cricketer who plays for Indian national cricket team. He was born in Delhi, India on November 5, 1988. Virat is the first player in ICC cricket history to win all 3 ICC awards in a single year- ICC ODI player of the year, ICC Test player of the year and ICC Player of the year award in 2018. He is rated as one of the best batsmen in the world.
 Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
 In 2016, he was ranked as one of the world's most famous athletes by ESPN and one of the most valuable athlete brands by Forbes. In 2018, Time magazine named him one of the 100 most influential people in the world.In 2020, he was ranked 66th in Forbes list of the top 100 highest-paid athletes in the world for the year 2020 with estimated earnings of over $26 million.
 
@@ -45,27 +49,14 @@ In 2016, he was ranked as one of the world's most famous athletes by ESPN and on
 
 Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
 
-He is now an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket. In the IPL, the Mumbai Indians have won the tournament a record five times under his leadership.Sharma currently holds the world record for the highest individual score (264) in a one-day international match and is the only player to have scored three double-centuries in one-day internationals. He won the ICC Men's ODI Cricketer of the Year award in 2019 after he scored five centuries in the 2019 World Cup. Sharma has received two national honours, the Arjuna Award in 2015 and the prestigious Major Dhyan Chand Khel Ratna in 2020.Outside cricket, Sharma is an active supporter of animal welfare campaigns. He is the official Rhino Ambassador for WWF-India and is a member of People for the Ethical Treatment of Animals (PETA). He has worked with PETA in its campaign to raise awareness of the plight of homeless cats and dogs in India.
+He is now an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket. In the IPL, the Mumbai Indians have won the tournament a record five times under his leadership.Sharma currently holds the world record for the highest individual score (264) in a one-day international match and is the only player to have scored three double-centuries in one-day internationals. He won the ICC Men's ODI Cricketer of the Year award in 2019 after he scored five centuries in the 2019 World Cup. Sharma has received two national honours, the Arjuna Award in 2015 and the prestigious Major Dhyan Chand Khel Ratna in 2020.Outside cricket, Sharma is an active supporter KL of animal welfare campaigns. He is the official Rhino Ambassador for WWF-India and is a member of People for the Ethical Treatment of Animals (PETA). He has worked with PETA in its campaign to raise awareness of the plight of homeless cats and dogs in India.
 
 ## Yuvraj Singh
 
 Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer who played in all formats of the game. He is an all-rounder who batted left-handed in the middle order and bowled slow left-arm orthodox, and is known for his aggressive batting style and all-round ability.
 
-
-## Suresh Raina
-Suresh Raina is an Indian former international cricketer. He occasionally served as stand-in captain for Indian men's national cricket team during the absence of the main captain.
-
-## KL Rahul
-Kannaur Lokesh Rahul is an Indian cricketer who currently is the vice-captain of the India national team in all formats. He plays for Karnataka in domestic cricket. He is the current captain of Lucknow Super Giants in the Indian Premier League.
-
-## Virender Sehwag
-Virender Sehwag is a former Indian cricketer. He represented India from 1999 to 2013. He played for Delhi and Haryana in Indian domestic cricket. He played as aggressive opening batsman throughout his playing days.
-
 ## Hardik Pandya
 Hardik Himanshu Pandya is an Indian international cricketer who plays for the India national cricket team at the international level and the Baroda cricket team in Indian domestic cricket.
-
-## Rohit Sharma
-Rohit Gurunath Sharma is an Indian international cricketer who is the current captain of the Indian national cricket team. In the Indian Premier League he captains Mumbai Indians and is a right-handed opening batsman, and an occasional right-arm off break bowler. He plays for Mumbai in domestic cricket.
 
 ## Ravindra Jadeja
 Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
@@ -73,14 +64,8 @@ Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian
 ## Mayank agarwal
 Mayank Anurag Agarwal is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League.
 
-## Glenn Maxwell
-Glenn James Maxwell is an Australian professional cricketer, who represents Australia national cricket team in One Day International and Twenty20 International formats of the game and has played Test cricket for Australia. Maxwell is an all-rounder who bats right handed and bowl off break.
-
 ## Suryakumar yadav
 Suryakumar Ashok Yadav, also known as Suryakumar Yadav or SKY, is an Indian cricketer who plays for India in the ODI and T20I formats. He represents Mumbai cricket team in domestic cricket and plays for Mumbai Indians in the Indian Premier League.
-
-## Dinesh karthik
-Krishnakumar Dinesh Karthik is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket.
 
 ## AB de Villiers
 Abraham Benjamin de Villiers is a former South African international cricketer. AB de Villiers was named as the ICC ODI Player of the Year three times during his 15-year international career and was one of the five Wisden cricketers of the decade at the end of 2019.
@@ -255,13 +240,6 @@ David Warner (born 27 October 1986) is an Australian international cricketer and
 
 In January 2017, he became the fourth player to win the Allan Border Medal more than once and also win the award in consecutive years. On 28 September 2017, he played in his 100th ODI and became the first batsman for Australia and 8th batsman overall to score a century in his 100th ODI.
 
-## Mahendra Singh Dhoni
-Mahendra Singh Dhoni born July 7, 1981 Indian cricketer whose rise to prominence in the early 21st century culminated in his captaincy of the Indian national team that won the one-day Cricket World Cup in 2011.
-Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
-Rohit Sharma was born on 30 April 1987 in Bansod, Nagpur, Maharashtra. His mother, Purnima Sharma, is from Visakhapatnam, Andhra Pradesh. His father, Gurunath Sharma, worked as a caretaker of a transport firm storehouse. Sharma was raised by his grandparents and uncles in Borivali because of his father's low income. He would visit his parents, who lived in a single-room house in Dombivli, only during weekends. He has a younger brother, Vishal Sharma.
-
-
-
 ## Mohammed Shami
 Mohammed Shami[b] (born 3 September 1990) is an Indian international cricketer, who plays for the Indian national cricket team in all formats of the game as a bowler. He plays domestically for Bengal and in the Indian Premier League for Gujarat Titans.
 He is a right-arm fast bowler, who bowls the ball off the seam and using swing, including reverse swing, to move the ball both ways.
@@ -283,15 +261,6 @@ After some match-fixing scandal by some of the players of the team in 2000. Sour
 Sourav Ganguly was awarded the Padma Shri in 2004, India's fourth-highest civilian award, in recognition of his distinguished contribution in the field of sports. In the latter stages, he was doing well consistently and decided to bid adieu to international cricket after being in a form. He retired from international cricket in a Test series against Australia at home in 2008.
 
 In 2008, he was one of the icon players in the inaugural edition of the Indian Premier League. He was the captain of the Kolkata Night Riders. Zee Bangla the television channel also appointed him as the host of the reality quiz show titled Dadagiri Unlimited. He was also appointed the chairman of CAB's Cricket Development Committee. In 2019, Sourav Ganguly was elected as the President of the Board of Cricket Control of India. He has been awarded several awards for his outstanding contributions in the field of sports. Some of them are Sports Star Person of the Year, Arjuna Award, CEAT Indian Captain of the Year, Padma Shri 2004, Rammohan Roy Award. On 20 May 2013, the Government of West Bengal honoured Sourav Ganguly with the Banga Bibhushan Award.
-
-
-## Kapil Dev
-
-Kapil Dev was the greatest pace bowler India has produced, and their greatest fast-bowling allrounder. If he had played at any other time - not when Imran Khan, Ian Botham and Richard Hadlee were contemporaries - he would surely have been recognised as the best allrounder in the world. In any case he did enough to be voted India's Cricketer of the Century during 2002, ahead of Sunil Gavaskar and Sachin Tendulkar. His greatest feats were to lead India almost jauntily, and by his all-round example, to the 1983 World Cup, and to take the world-record aggregate of Test wickets from Hadlee. It was the stamina of the marathon runner that took him finally to 431 wickets and only a yard beyond. He might not have been quite the bowling equal of Imran, Hadlee or Botham at his best, and his strike rate was less than four wickets per Test, but he was still outstanding in his accuracy and ability to swing the ball, usually away from right-handers. And he could hit a ball even more brilliantly than he bowled it, with uncomplicated flair.
-
-
-## Lasith Malinga
-Separamadu Lasith Malinga (Sinhala: සෙපරමාදු ලසිත් මාලිංග; born 28 August 1983), nicknamed "Slinga Malinga", is a Sri Lankan former cricketer who is widely regarded as one of the greatest limited overs bowlers of all time.[1][2][3] Malinga captained the Sri Lankan 2014 T20 World Cup winning side and is the only bowler to take 4 wickets in 4 balls twice in international cricket. Malinga is a right-arm fast bowler that is commonly used as a specialist death bowler, and is well known for his distinctive round-arm action, sometimes referred to as a sling action, hence his aforementioned nickname.[4] Malinga announced his retirement from all forms of cricket on 14 September 2021.
 
 ## Sunil Gavaskar
 Sunil Manohar Gavaskar (born 10 July 1949), is an Indian cricket commentator and former cricketer who represented India and Bombay from 1971 to 1987. Gavaskar is acknowledged as one of the greatest Batsman of all time. Gavaskar was widely admired for his technique against fast bowling, with a particularly high average of 65.45 against the West Indies, who possessed a four-pronged fast bowling attack regarded as the most vicious in Test history. However, most of Gavaskar's centuries against West Indies were against their second string team when their four-pronged attack were not playing together.His captaincy of the Indian team, however, was mentioned as less successful despite of team winning the Benson & Hedges World Championship of Cricket in 1985. Turbulent performances of the team led to multiple exchanges of captaincy between Gavaskar and Kapil Dev, with one of Gavaskar's sackings coming just six months before Kapil led India to victory at the 1983 Cricket World Cup.Gavaskar is a recipient of the Indian sports honour of the Arjuna Award and the civilian honour of the Padma Bhushan.He was inducted into the ICC Cricket Hall of Fame in 2009.In 2012, he was awarded the Col CK Nayudu Lifetime Achievement Award for Cricket in India.
@@ -420,17 +389,10 @@ In February 2017, Pant was named Delhi's captain for the 2016–17 Vijay Hazare 
 On 14 January 2018, in the 2017–18 Zonal T20 League match between Himachal Pradesh and Delhi, Pant scored the second-fastest century in a Twenty20 match, making 100 from 32 balls.
 
 
-## Mahendra Singh Dhoni
-
-In 1995, M.S Dhoni joined the Commando cricket club and stood behind the stumps for them for the next three years. He was then picked for the Vinoo Mankad Trophy Under-16 Championship in the 1997/98 season and performed well.
-In 1998, Dhoni started to play for the Central Coal Fields Limited (CCL) team. During his time at the CCL, Deval Sahay would gift him fifty rupees for every 6 that he scored in Sheesh Mahal tournament cricket games. Sahay then pushed for Dhoni selection in the Bihar team.
-Dhoni was selected in 1998 by Deval Sahay to play for the Central CoalFields Limited (CCL) team. This was the first time that Dhoni stepped into professional cricket. Dhoni showed exceptional talent which impressed Deval Sahay who used his contacts in Bihar Cricket Association to push for his selection in the Bihar team.
-Dhoni debuted for the senior Bihar Ranji Team for the 1999 - 2000 season. He was also included in the Bihar U-19 squad for the 1998-99 season where he scored 176 runs in 7 innings from 5 matches.Dhoni however was not picked for the East Zone U-19 squad (CK Nayudu Trophy) or Rest of India squad (MA Chidambaram Trophy and Vinoo Mankad Trophy). Dhoni made the first-class debut in Ranji Trophy debut for Bihar in the 1999 - 2000 season. He was just eighteen-year-old at that moment.
-After playing Ranji Trophy for over three years, Dhoni was picked over international cricketer Deep Dasgupta to represent East Zone. It was then that Dhoni stepped into the limelight. Dhoni was scouted by BCCI small-town talent-spotting initiative TRDW and discovered by TRDO Prakash Poddar.
-Dhoni was selected for India A squad for a tour of Zimbabwe and Kenya. His performances in that tour earned him the attention of the likes of Sourav Ganguly and Ravi Shastri.
 
 ## Christopher Henry Gayle
 He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+Gayle had a slow start to his international career, but invigorated it in 2002, ending the year with three centuries against India in November and becoming the third West Indian to score over 1,000 runs in a calendar year, along with Vivian Richards and Brian Lara. He is one of only six players in One Day International history to have three or more scores of 150. In 2005, Gayle was dropped for the first Test against South Africa along with six other players following a dispute over sponsorship issues.Gayle made the first century in international Twenty20 cricket, scoring 117 against South Africa in the first match of the 2007 World Twenty20.In November 2012, during the First Test against Bangladesh in Dhaka, Gayle became the first player in the history of Test cricket to hit a six off the first ball of a match
 
 ## Arshdeep Singh
 
@@ -450,7 +412,7 @@ Blessed with the keenest of cricket minds, and driven by a loathing for defeat, 
 He holds the record for most hundreds in both Tests and ODIs - remarkable, considering he didn't score his first ODI hundred until his 79th match. At just under 37 years of age, he made the first double-century in one-day cricket. In 2012, a month short of his 39th birthday, he became the first player to score 100 international centuries, which, like Bradman's batting average, might be a mark that lasts for ever. Later that year, though, he announced his retirement from ODIs after a disappointing 18 months in international cricket. And on November 16, 2013, he retired from Test cricket after a memorable 200th Test, against West Indies.
 Tendulkar's considerable achievements seem greater still when looked at in the light of the burden of expectation he had to bear from his adoring but somewhat unreasonable followers, who were prone to regarding anything less than a hundred in every innings as a failure. He still remains, by a distance, the most worshipped cricketer in the world.
 
-# Meghann Moira Lanning
+## Meghann Moira Lanning
 
 Meghann Moira Lanning AM (born 25 March 1992) is an Australian cricketer who currently captains the national women's team. She has been a member of six successful world championship campaigns, winning two Women's Cricket World Cup and four ICC Women's World Twenty20 titles. Lanning holds the record for the most Women's One Day International centuries[1] and is the first Australian to score 2,000 Twenty20 International runs.[2][3] Domestically, she is the captain of Victoria in the Women's National Cricket League and the Melbourne Stars in the Women's Big Bash League
 
@@ -560,6 +522,15 @@ She opened the batting for England in their victories in the 50 over World Cup i
 
 She won the ICC Women's T20I Cricketer of the Year award in 2012 and 2013, and was the holder of one of the first tranche of 18 ECB central contracts for women players, which were announced in April 2014.
 
+
+
+## Smriti Shriniwas Mandhana
+Smriti Shriniwas Mandhana born 18 July 1996 is an Indian cricketer who plays for the Indian women's national team. In June 2018, the Board of Control for Cricket in India (BCCI) named her as the Best Women's International Cricketer.In December 2018, the International Cricket Council (ICC) awarded her with the Rachael Heyhoe-Flint Award for the best female cricketer of the year. On 30 December 2021, she became a nominee of the ICC Women's T20 Player of the Year.In December 2021, she, Tammy Beaumont, Lizelle Lee and Gaby Lewis were nominated for the ICC Women's Cricketer of the Year.In January 2022, the ICC awarded her with the Rachael Heyhoe-Flint Award for the ICC Women's Cricketer of the Year.
+
+
+## Richa Ghosh
+Richa Ghosh is an Indian cricketer and a member of the Indian Women’s National cricket team. She is a Wicketkeeper for her team.Richa Ghosh was born on 28th September 2003 in West Bengal. Her father used to play cricket at the local club and currently works as a cricket Umpire in Bengal. It was her father who encouraged her to pursue cricket. Richa enrolled in the Bagha Jatin Athletic Club at the age of seven. She played along with the boys since there was no girls’ team.
+
 ## Tamsin Tilley Beaumont
 Beaumont was born in Dover, Kent.[1] She began playing cricket in nearby Sandwich,[2][3] where she also attended Sir Roger Manwood's School.[4] When she was eight years old, her mother, Julie, secured her very first selection in a cricket team.[1] Beaumont's brother, Michael, was captain of an Under-11 side coached by her father, Kevin, a research scientist. As Beaumont later explained to Wisden Cricketers' Almanack in 2019
 
@@ -656,9 +627,6 @@ Brian Charles Lara, TC, OCC, AM (born 2 May 1969) is a Trinidadian former intern
 
 Lara also holds the record for the highest individual score in a Test innings after scoring 400 not out at Antigua during the 4th test against England in 2004. Lara also held the record of scoring the highest number of runs in a single over in a Test match for 18 years when he scored 28 runs off an over by Robin Peterson of South Africa in 2003 (overtaken by Jasprit Bumrah in 2022).
 
-## Kapil Dev
-Kapil Dev Ramlal Nikhanj was born 6 January 1959 is an Indian former cricketer. He was a fast-medium bowler and a hard-hitting middle-order batsman, and was named by Wisden as the Indian Cricketer of the Century in 2002.
-Dev captained the Indian cricket team that won the 1983 Cricket World Cup, and in the process became the first Indian captain to win the Cricket World Cup, and is still the youngest captain (at the age of 24) to win the World Cup for any team. He retired in 1994, at the times of holding the world record for the highest number of wickets taken in Test cricket, a record subsequently broken by Courtney Walsh in 2000. At the time, he was also India's highest wicket-taker in both major forms of cricket, Tests and ODIs. He is the first player to take 200 ODI wickets. He is the only player in the history of cricket to have taken more than 400 wickets (434 wickets) and scored more than 5,000 runs in Tests, making him one of the greatest all-rounders in the history of cricket. Dev's all-round performance has been praised by cricketers including Sunil Gavaskar who regards him as one of the greatest all-rounders to play the game. He was the coach of the Indian national team between September 1999 and September 2000. On 11 March 2010, Dev was inducted into the ICC Cricket Hall of Fame. In 1982 awarded with the Padma Shri and in 1991 the Padma Bhushan.
 
 ## Anil Kumble
 Anil Kumble was born on 17 October 1970 is a former Indian cricket captain, coach and commentator who played Test and One Day International cricket for his national team over an international career of 18 years. Widely regarded as one of the best leg spin bowlers in Test cricket history, he took 619 wickets in Test cricket and is the fourth highest wicket taker of all time as of 2022. In 1999 while playing against Pakistan, Kumble dismissed all ten batsmen in a Test match innings, joining England's Jim Laker as the second player to achieve the feat. Unlike his contemporaries, Kumble was not a big turner of the ball, but relied primarily on pace, bounce, and accuracy. He was nicknamed "Apple" and "Jumbo". Kumble was selected as the Cricketer of the Year in 1993 Indian Cricket, and one of the Wisden Cricketers of the Year three years later.
@@ -675,4 +643,47 @@ An allrounder who can bat in any position, Deepak Hooda also bowls offbreaks, of
 Hooda's game is also suited to the longer formats. Appointed Baroda's captain at the start of the 2016-17 Ranji season, he reeled off three consecutive hundreds, including an unbeaten 293 against Punjab, but struggled to convert his starts thereafter. In 2021, Baroda suspended him for indiscipline after he left the T20 squad, having accused captain Krunal Pandya of "bullying" and using abusive language. He moved to Rajasthan the next season.
 
 But Hooda patched things up with Pandya before the start of the 2022 IPL, and had a breakout season for Lucknow Super Giants under Pandya's captaincy. Immediately after, he scored his maiden T20I hundred - in only his third innings - against Ireland in Malahide and found himself included in the 2022 T20 World Cup squad.
+## Muttiah Muralitharan
+Deshabandu Muttiah Muralitharan is a Sri Lankan cricket coach, former professional cricketer, businessman and a member of the ICC Cricket Hall of Fame. Averaging over six wickets per Test match, Muralitharan is widely regarded as the most successful and one of the greatest bowlers in the history of the sport. He is the only bowler to take 800 Test wickets and more than 530 One Day International (ODI) wickets. As of 2022, he has taken more wickets in international cricket than any other bowler.
 
+Muralitharan's international career was beset by controversy over his bowling action. Due to an unusual hyperextension of his congenitally bent arm during delivery, his bowling action was called into question on a number of occasions by umpires and sections of the cricket community. After biomechanical analysis under simulated playing conditions, Muralitharan's action was cleared by the International Cricket Council, first in 1996 and again in 1999.
+
+Muralitharan held the number one spot in the International Cricket Council's player rankings for Test bowlers for a record period of 1,711 days spanning 214 Test matches. He became the highest wicket-taker in Test cricket when he overtook the previous record-holder Shane Warne on 3 December 2007. Muralitharan had previously held the record when he surpassed Courtney Walsh's 519 wickets in 2004, but he suffered a shoulder injury later that year and was overtaken by Warne. Muralitharan took the wicket of Gautam Gambhir on 5 February 2009 in Colombo to surpass Wasim Akram's ODI record of 502 wickets. He retired from Test cricket in 2010, registering his 800th and final wicket on 22 July 2010 from his final ball in his last Test match.
+
+Muralitharan was rated the greatest Test match bowler by Wisden's Cricketers' Almanack in 2002, and in 2017 was the first Sri Lankan cricketer to be inducted into the ICC Cricket Hall of Fame. He won the Ada Derana Sri Lankan of the Year award in 2017.
+
+## Gregory Stephen Chappell
+Gregory Stephen Chappell (born 7 August 1948) is a former cricketer who represented Australia at international level in both Tests and One-Day Internationals (ODI). The second of three brothers to play Test cricket, Chappell was the pre-eminent Australian batsman of his time who allied elegant stroke making to fierce concentration. An exceptional all round player who bowled medium pace and, at his retirement, held the world record for the most catches in Test cricket, Chappell's career straddled two eras as the game moved toward a greater level of professionalism after the WSC schism.
+
+Since his retirement as a player in 1984, Chappell has pursued various business and media interests as well as maintaining connections to professional cricket; he has been a selector for national and Queensland teams, a member of the Australian Cricket Board, and a coach.
+
+## S. Sreesanth
+Shanthakumaran Nair Sreesanth ( born 6 February 1983) is an Indian former cricketer and film actor who played all forms of the game. He is a right-arm fast-medium-pace bowler and a right-handed tail-ender batsman. In first class cricket, he played for Kerala. In the Indian Premier League (IPL) he played for the Rajasthan Royals. He is also the first Kerala Ranji player to have played Twenty20 cricket for India. Initially banned for life after spot-fixing in the 2013 IPL, the ban was reduced to seven years in August 2019. Again he is selected for Kerala cricket team in 2020 and resumes his Career in national cricket. In 2018, he participated in the popular reality show, Bigg Boss and became the runner up. In March 2022, Sreesanth announced his retirement from domestic cricket.
+
+## Thangarasu Natarajan
+Thangarasu Natarajan is an Indian cricketer. He made his international debut for the India cricket team in December 2020. He plays for Sunrisers Hyderabad in the Indian Premier League and for Tamil Nadu in domestic cricket. He became the first Indian cricketer to make his international debut across all three formats on the same tour when he was playing in India's 2020–21 tour of Australia.
+
+## Ashok Dinda 
+Paras Mhambrey, who coached the Bengal Ranji side for two years, had this to say about Ashok Dinda: \"The best thing about him is his attitude. He has come up the hard way, and doesn't take anything for granted. He is always prepared to bowl long spells, and never shies away from hard work.\" That sentence sums up Dinda's rise in domestic cricket and his subsequent selection on the fringes of the national team.
+
+Dinda's was not an instant success story, though his spotting was to an extent fortuitous. It was a happy accident though, for Bengal and for Dinda. Sometime in 2004-05, Dinda came to Kolkata - a 3-hour drive away from his village - and bowled in one of the nets under the watchful eyes of coach Atal Dev Burman. Burman was so impressed with the bowler that he asked him to stay back, and that started Dinda's journey.
+
+## Nicholas Pooran
+A prodigy, breaking school cricket records over the years, and turning up in his 20s as a blonde-haired big-hitter, Nicholas Pooran, today, has broken out as one of the many aggressive young West Indian batsmen coming up through the ranks. 
+
+A left-handed stylish batsman, who can also double up as a wicket-keeper if necessary, Pooran's first major claim to fame was at the age of 16 the 2013 CPL, where he was signed up for Trinidad Red Steel - becoming the youngest ever player to play in the CPL - and lit up the stage in his first match with a stunning 54 off just 24 balls. He followed it up with equally impressive performances in the Champions League that followed. Representing the Windies under-19s in the U-19 World Cup of 2014, he emerged as one of the brightest talking points. finishing with 303 runs from six matches. 
+## Ajit Wadekar
+1 April 1941 – 15 August 2018) was an Indian international cricketer who played for the Indian national team between 1966 and 1974. Described as an "aggressive batsman", Wadekar made his first-class debut in 1958, before making his foray into international cricket in 1966. He batted at number three and was considered to be one of the finest slip fielders. Wadekar also captained the Indian cricket team which won series in the West Indies and England in 1971 (first victory of Indian team in test cricket outside of India was recorded in 1968 under the captaincy of Mamoor Pataudi against New Zealand). The Government of India honoured him with the Arjuna Award (1967) and Padmashri (1972), India's fourth highest civilian honour.
+However, just as his career showed signs of taking off to bigger things, he suffered a chronic ankle injury in a car accident which put him out of action for almost two years. He returned with a bang though - scoring 217 runs in the eight games - in the 2016 season of the CPL which led to an international cap against Pakistan later in the year. Trouble wasn't far though again, finding himself in a soup after opting to play in the Bangladesh Premier League over the domestic season, leading to a 10-month ban.
+## Srinivasaraghavan Venkataraghavan
+Srinivasaraghavan Venkataraghavan is an Indian former cricketer. He captained the Indian cricket team at the first two ICC Cricket World Cups, and later became an umpire on the elite International Cricket Council Test panel. His Test career was one of the longest for any Indian player. He also played for Derbyshire in English county cricket from 1973 to 1975. A qualified engineer and an alumnus of Chennai's famed College of Engineering, Guindy, he is a recipient of the civilian honour of Padma Shri in 2003.
+Soon he broke into the Bengal Ranji side, where he became a regular member. Dinda has an exaggerated leap in his delivery stride that almost makes it seem as if he is floating in air before releasing the ball. That has not impacted his speed though, and he is capable of consistently hitting the high 130s kmph mark.
+
+## Ruturaj Dashrat Gaikwad
+Ruturaj Gaikwad, the promising opener was born on 31 January 1997, in Pune, Maharashtra. October 6, 2016, he made his first-class debut for Maharashtra in the Ranji Trophy for the 2016–17 season. On February 2, 2017, he played his first Twenty20 match for Maharashtra in the Inter State Twenty-20 Tournament during the 2016–17 season. On February 25, 2017, he made his List A debut for Maharashtra in the Vijay Hazare Trophy for the 2016–17 season. He played in 7 matches during this competition, scoring 444 runs at an average of 63.42. He got a century as well as three half centuries. He finished third in the 2016–17 Vijay Hazare Trophy run total rankings. He participated in domestic cricket matches for Maharashtra, India U-23, India A, India B, and India Blue. Gaikwad captained Maharashtra in the 2021 Mushtaq Ali trophy and amassed 259 runs in five matches at an average of 51.80, including three fifty-plus runs at a strike rate of 150.71. He came in as one of the competition's top scorers. He scored four hundreds in the 2021–22 Vijay Hazare Trophy, tying Virat Kohli's record for the most hundreds in a single Vijay Hazare tournament, and helped Maharashtra score nearly 600 runs overall.
+
+Gaikwad was purchased by the Chennai Super Kings (CSK) in December 2018 during the player auction for the 2019 Indian Premier League. Gaikwad made his first IPL century against the Rajasthan Royals on October 2, 2021, going 101 not out. He featured in the 2021 season's victorious team. He was given the Emerging Player of the Year award in addition to winning the Orange Cap for scoring the most runs (635) in the 2021 tournament. 
+
+Gaikwad was included in the One Day and T20I squads for India's series against Sri Lanka in June 2021. On July 28, 2021, he played in his first T20I match for India against Sri Lanka. Gaikwad was again selected for India's ODI team in December 2021 and January 2022, this time for a home series against the West Indies. He earned his first T20I half-century against South Africa in June 2022. On October 6, 2022, he played in his first ODI match against South Africa. The young man astonishing us with his fearless performances in domestic and IPL, is one of the promising future openers for the Indian Cricketing Side.
+## Bishan Singh Bedi
+Bishan Singh Bedi born 25 September 1946) is a former Indian cricketer who was primarily a slow left-arm orthodox bowler. He played Test cricket for India from 1966 to 1979 and formed part of the famous Indian spin quartet. He played a total of 67 Tests and took 266 wickets. He also captained the national side in 22 Test matches. Bedi wore a colourful patka and has voiced outspoken and forthright views on cricketing matters. He was awarded the Padma Shri award in 1970.
