@@ -651,5 +651,8 @@ Gregory Stephen Chappell (born 7 August 1948) is a former cricketer who represen
 
 Since his retirement as a player in 1984, Chappell has pursued various business and media interests as well as maintaining connections to professional cricket; he has been a selector for national and Queensland teams, a member of the Australian Cricket Board, and a coach.
 
+## S. Sreesanth
+Shanthakumaran Nair Sreesanth ( born 6 February 1983) is an Indian former cricketer and film actor who played all forms of the game. He is a right-arm fast-medium-pace bowler and a right-handed tail-ender batsman. In first class cricket, he played for Kerala. In the Indian Premier League (IPL) he played for the Rajasthan Royals. He is also the first Kerala Ranji player to have played Twenty20 cricket for India. Initially banned for life after spot-fixing in the 2013 IPL, the ban was reduced to seven years in August 2019. Again he is selected for Kerala cricket team in 2020 and resumes his Career in national cricket. In 2018, he participated in the popular reality show, Bigg Boss and became the runner up. In March 2022, Sreesanth announced his retirement from domestic cricket.
+
 ## Thangarasu Natarajan
 Thangarasu Natarajan is an Indian cricketer. He made his international debut for the India cricket team in December 2020. He plays for Sunrisers Hyderabad in the Indian Premier League and for Tamil Nadu in domestic cricket. He became the first Indian cricketer to make his international debut across all three formats on the same tour when he was playing in India's 2020–21 tour of Australia.
