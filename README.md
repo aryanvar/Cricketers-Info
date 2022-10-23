@@ -41,7 +41,7 @@ Apart from Cricket, MS Dhoni has also made key diverse investments in companies 
 
 ## Virat Kohli
 
-Virat Kohli is an Indian cricketer who plays for India national cricket team. He was born in Delhi, India on November 5, 1988. Virat is the first player in ICC cricket history to win all 3 ICC awards in a single year- ICC ODI player of the year, ICC Test player of the year and ICC Player of the year award in 2018. He is rated as one of the best batsmen in the world.
+Virat Kohli is an Indian cricketer who plays for Indian national cricket team. He was born in Delhi, India on November 5, 1988. Virat is the first player in ICC cricket history to win all 3 ICC awards in a single year- ICC ODI player of the year, ICC Test player of the year and ICC Player of the year award in 2018. He is rated as one of the best batsmen in the world.
 Virat Kholi is the first player in ICC cricket history to win all 3 ICC awards in a single year.
 In 2016, he was ranked as one of the world's most famous athletes by ESPN and one of the most valuable athlete brands by Forbes. In 2018, Time magazine named him one of the 100 most influential people in the world.In 2020, he was ranked 66th in Forbes list of the top 100 highest-paid athletes in the world for the year 2020 with estimated earnings of over $26 million.
 
@@ -392,6 +392,7 @@ On 14 January 2018, in the 2017–18 Zonal T20 League match between Himachal Pra
 
 ## Christopher Henry Gayle
 He was born on born 21 September 1979, is a Jamaican cricketer who is playing international cricket for the West Indies from 1999.[5] A destructive batter, Gayle is widely regarded as one of the greatest batsmen to have played Twenty20 cricket, and by some as the best ever.[6][7] He played a crucial role in the West Indies teams thawon 2004 ICC Champions Trophy, 2012 ICC World Twenty20 and 2016 ICC World Twenty20.
+Gayle had a slow start to his international career, but invigorated it in 2002, ending the year with three centuries against India in November and becoming the third West Indian to score over 1,000 runs in a calendar year, along with Vivian Richards and Brian Lara. He is one of only six players in One Day International history to have three or more scores of 150. In 2005, Gayle was dropped for the first Test against South Africa along with six other players following a dispute over sponsorship issues.Gayle made the first century in international Twenty20 cricket, scoring 117 against South Africa in the first match of the 2007 World Twenty20.In November 2012, during the First Test against Bangladesh in Dhaka, Gayle became the first player in the history of Test cricket to hit a six off the first ball of a match
 
 ## Arshdeep Singh
 
