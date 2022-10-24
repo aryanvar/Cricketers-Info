@@ -690,3 +690,19 @@ Gaikwad was purchased by the Chennai Super Kings (CSK) in December 2018 during t
 Gaikwad was included in the One Day and T20I squads for India's series against Sri Lanka in June 2021. On July 28, 2021, he played in his first T20I match for India against Sri Lanka. Gaikwad was again selected for India's ODI team in December 2021 and January 2022, this time for a home series against the West Indies. He earned his first T20I half-century against South Africa in June 2022. On October 6, 2022, he played in his first ODI match against South Africa. The young man astonishing us with his fearless performances in domestic and IPL, is one of the promising future openers for the Indian Cricketing Side.
 ## Bishan Singh Bedi
 Bishan Singh Bedi born 25 September 1946) is a former Indian cricketer who was primarily a slow left-arm orthodox bowler. He played Test cricket for India from 1966 to 1979 and formed part of the famous Indian spin quartet. He played a total of 67 Tests and took 266 wickets. He also captained the national side in 22 Test matches. Bedi wore a colourful patka and has voiced outspoken and forthright views on cricketing matters. He was awarded the Padma Shri award in 1970.
+#ARSHDEEP SINGH
+
+As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.[4]
+
+Singh made his List A debut for Punjab in the 2018–19 Vijay Hazare Trophy on 19 September 2018.[8] Prior to his List A debut, he was named in India's squad for the 2018 Under-19 Cricket World Cup.[9]
+
+In December 2018, he was bought by the Kings XI Punjab in the player auction for the 2019 Indian Premier League.[10][11] He made his Twenty20 debut for Kings XI Punjab in the 2019 Indian Premier League on 16 April 2019.[12] He finished as the team's second-highest wicket-taker [13] and has been lauded for his good performances. [14] In November 2019, he was named in India's squad for the 2019 ACC Emerging Teams Asia Cup in Bangladesh.[15] He made his first-class debut on 25 December 2019, for Punjab in the 2019–20 Ranji Trophy.[16]
+
+In June 2021, he was named as one of five net bowlers for India's tour of Sri Lanka.[17] Following a positive case for COVID-19 in the Indian team, Singh was added to India's main squad for their final two Twenty20 International (T20I) matches of the tour.[18] In May 2022, Singh was named in India's T20I squad for their series against South Africa.[19] The following month, he was named in India's T20I squad for their two-match series against Ireland.[20]
+
+In June 2022, Singh was named in India's One Day International (ODI) and T20I squads for their tour of England.[21] In July 2022, he was again named in India's ODI squad, this time for their away series against the West Indies.[22] He made his T20I debut on 7 July 2022, for India against England.[23] In a 2022 series against West Indies he picked seven wickets in five matches with a 16.14 bowling average and was named player of the series.[24]
+
+On 8 August 2022, he was named in India's squad for the Asia Cup.[25]
+
+#Mohammad Rizwan
+Mohammad Rizwan is a Pakistani international cricketer who has represented Pakistan in international cricket since 2015. He is currently ranked first in the ICC Men's T20I rankings. 
