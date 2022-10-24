@@ -2546,4 +2546,10 @@
         "Age": "53",
         "Role": "Right Handed Batsman",
     },
+{
+        "id": 07,
+        "Name": "Cricketer1",
+        "Age": "23",
+        "Role": "Left Handed Batsman",
+    },
 
