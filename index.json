@@ -2414,6 +2414,14 @@
         "Role":"Batting All Rounder"
 
     },
+
+ {
+        "id": 3,
+        "Name":"Riyan Parag",
+        "Age": "20",
+        "Role":"right-handed batsman"
+
+    }
     {
         "id": 669,
         "Name":"James david",
