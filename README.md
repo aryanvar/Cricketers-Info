@@ -703,3 +703,6 @@ In June 2021, he was named as one of five net bowlers for India's tour of Sri La
 In June 2022, Singh was named in India's One Day International (ODI) and T20I squads for their tour of England.[21] In July 2022, he was again named in India's ODI squad, this time for their away series against the West Indies.[22] He made his T20I debut on 7 July 2022, for India against England.[23] In a 2022 series against West Indies he picked seven wickets in five matches with a 16.14 bowling average and was named player of the series.[24]
 
 On 8 August 2022, he was named in India's squad for the Asia Cup.[25]
+
+#Mohammad Rizwan
+Mohammad Rizwan is a Pakistani international cricketer who has represented Pakistan in international cricket since 2015. He is currently ranked first in the ICC Men's T20I rankings. 
