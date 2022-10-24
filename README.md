@@ -2,6 +2,9 @@
 
 This repository contains the information on the different crickerters, their ages and their respective roles in the history of cricket.
 
+## Deepti Sharma
+Deepti Bhagwan Sharma is an Indian all rounder crickter, she was born on born 24 August 1997 in Agra, Utter Pradesh India. She is a left-handed batter and a right-arm off-spinner and made her debut in November 2014 against South Africa in Bengaluru. She has the highest ODI score of 188 and it remains the highest individual score for an India woman cricketer. On 24 September 2022, India sweeped the three match T20 series against England, when Deepti got Charlie Dean run out at the non-strickers end as Charlie left the crease while Deepti was still in her delivery stride. This incident made various personalities from cricket fraternity come in support and against Deepti's actions. In cricket, Mankading (named after former Indian cricketer Vinoo Mankad) is the informal name given to running out the non-striking batsman whilst they're backing up too far. This kind of run-out is legal as per the Laws of Cricket, but there's a long term implied rule regarding the spirit of the game, which states that the bowler or the captain of the bowling team should warn the batting person on the non-strikers end first. In an interview Deepti revealed that they had warned her various times and even told the umpires after which only she decided to run-out Charlie.
+
 ## Yashasvi Jaiswal
 Yashasvi Jaiswal is an Indian Cricketer from Bhadohi, Uttar Pradesh. He plays for India-Under 19s and Mumbai Cricket Team. Yashavi is the youngest cricketer in the world to score a List A Double Century. The talented cricketer Yashasvi Jaiswal has been signed by Rajasthan Royals for Rs. 2.4 Crores to play in IPL 2020.
 Cricketer Yashasvi Jaiswal is a wonder kid. Now, he is a part of the Rajasthan Royals IPL Team. After so many hardships and struggles, he achieved success and fame in the field of cricket.
