@@ -707,6 +707,9 @@ On 8 August 2022, he was named in India's squad for the Asia Cup.[25]
 #Mohammad Rizwan
 Mohammad Rizwan is a Pakistani international cricketer who has represented Pakistan in international cricket since 2015. He is currently ranked first in the ICC Men's T20I rankings. 
 
+#DINESH KARTIK
+
+Krishnakumar Dinesh Karthik is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. 
 ## Devang Jayant Gandhi
 Devang Jayant Gandhi (born 6 September 1971, in Bhavnagar, Gujarat) is a former Indian cricketer. He was a right-handed opening batsman and a very occasional right-arm medium-pace bowler. He played for Bengal, Hadleigh and Thundersley Cricket Club, Essex.
 
