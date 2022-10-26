@@ -690,7 +690,7 @@ Gaikwad was purchased by the Chennai Super Kings (CSK) in December 2018 during t
 Gaikwad was included in the One Day and T20I squads for India's series against Sri Lanka in June 2021. On July 28, 2021, he played in his first T20I match for India against Sri Lanka. Gaikwad was again selected for India's ODI team in December 2021 and January 2022, this time for a home series against the West Indies. He earned his first T20I half-century against South Africa in June 2022. On October 6, 2022, he played in his first ODI match against South Africa. The young man astonishing us with his fearless performances in domestic and IPL, is one of the promising future openers for the Indian Cricketing Side.
 ## Bishan Singh Bedi
 Bishan Singh Bedi born 25 September 1946) is a former Indian cricketer who was primarily a slow left-arm orthodox bowler. He played Test cricket for India from 1966 to 1979 and formed part of the famous Indian spin quartet. He played a total of 67 Tests and took 266 wickets. He also captained the national side in 22 Test matches. Bedi wore a colourful patka and has voiced outspoken and forthright views on cricketing matters. He was awarded the Padma Shri award in 1970.
-#ARSHDEEP SINGH
+##ARSHDEEP SINGH
 
 As of 5 October 2022, Arshdeep Singh has played for India under-19, India under-23, Punjab, Punjab kings teams and for Indian men's national cricket team in T20Is.[4]
 
@@ -704,10 +704,10 @@ In June 2022, Singh was named in India's One Day International (ODI) and T20I sq
 
 On 8 August 2022, he was named in India's squad for the Asia Cup.[25]
 
-#Mohammad Rizwan
+##Mohammad Rizwan
 Mohammad Rizwan is a Pakistani international cricketer who has represented Pakistan in international cricket since 2015. He is currently ranked first in the ICC Men's T20I rankings. 
 
-#DINESH KARTIK
+## DINESH KARTIK
 
 Krishnakumar Dinesh Karthik is an Indian professional cricketer & Commentator who nationally plays for the Indian Cricket Team and currently in Indian Premier League playing for Royal Challengers Bangalore. He is also the current captain of the Tamil Nadu cricket team in domestic cricket. 
 ## Devang Jayant Gandhi
@@ -716,3 +716,6 @@ Devang Jayant Gandhi (born 6 September 1971, in Bhavnagar, Gujarat) is a former 
 Despite the 1999–2000 tour of Australia exposing Gandhi's weakness in technique against faster deliveries, his domestic form stayed constant, having had a good start to his international career in India. Successive stands with Sadagoppan Ramesh in New Zealand lifted Gandhi's Test average above 50. Poor performances saw him dropped during the Australian tour. Gandhi played domestic cricket for Bengal in the Ranji Trophy and East Zone in the Duleep Trophy before retiring after the 2005–06 season. Gandhi also had two seasons playing for Gwersyllt Park CC, who play in the North Wales cricket league. He was appointed as a national selector for Indian cricket team. A former Indian opening batsman, Devang Gandhi, featured for India in 4 Tests and 3 ODIs. Despite showing a lot of promise at the beginning of his international career, Gandhi's inability to handle short-pitched bowling meant that his days as an Indian opener were limited.
 He made his international debut in the first Test against New Zealand in Mohali in 1999. Even though he got out for a duck in the first innings, he cemented his place in the team by scoring 75 in the second essay and put on 137 runs for the opening wicket with Sadagoppan Ramesh. His good form continued in the second Test as well. He was the top scorer for India in the game, making 88 and 31 not out as India won the game by 8 wickets.
 Gandhi played two ODIs against Australia during the tri-series that followed the Tests. He registered scores of 6 and 13 in those two games and never played for India again. He played 95 first-class matches during his career, collecting 6111 runs at an average of 42.73. He retired in April 2006.
+
+## R Ashwin
+Ravichandran Ashwin  (born 17 September 1986) is an Indian international cricketer who plays for the Indian cricket team as a bowling All-rounder who bats right-handed and bowls right-arm off-break, he plays for Tamil Nadu in domestic cricket and Rajasthan Royals in the Indian Premier League. He is the fastest Indian bowler (also in some records the joint-fastest in the world) to reach the 50-, 100-, 150-, 200-, 250-, 300-, 350- and 400-wicket mark in Test cricket in terms of number of innings. In 2016, he became the third Indian to win the ICC Cricketer of the Year award. Considered to be one of the Greatest spin bowlers of his generation, he is currently the highest-ranked spinner in Test cricket, and the highest-ranked Test bowler for India on the ICC Player Rankings.
