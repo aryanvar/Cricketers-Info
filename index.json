@@ -5,6 +5,12 @@
         "Age": "25",
         "Role": "Batting Allounder",
     },
+{
+        "id": 2323389423,
+        "name": "Karan Gupta",
+        "Age": "15",
+        "Role": "Batting, wicket keeper",
+    },
     {
         "id": 1010,
         "name": "Kusal Perera",
@@ -2285,6 +2291,47 @@
 	"id": 181200
 	"Name": "Msd"
 	"Age": "30,
+},
+{
+	"id": 181700
+	"Name": "Ekta lust"
+	"Age": "26,
+	"Role": "Left Handed Batter"
+},
+{
+	"id": 1987
+	"Name": "Vishal"
+	"Age": "21",
+	"Role": "cricketer"
+},
+{
+	"id": 181700
+	"Name": "Raman Bisht
+	"Age": "46,
+	"Role": "Left Handed Btsman, Left arm fast spinner"
+},
+{
+	"id": 8767
+	"Name": "amit singh"
+	"Age": "22",
+	"Role": "batsman"
+},
+{
+	"id": 15965
+	"Name": "Akansha"
+	"Age": "23",
+	"Role": "all rounder"
+},
+{
+	"id": 85325
+	"Name": "Rahul bisht",
+	"Age": "25",
+	"Role": "Left Handed Bowler"
+},
+{
+	"id": 1817000,
+	"Name": "Jemimah Rodrigues",
+	"Age": "22",
 	"Role": "Right Handed Batsman"
 },
 ]
