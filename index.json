@@ -2286,5 +2286,29 @@
 	"Name": "Raman Bisht
 	"Age": "46,
 	"Role": "Left Handed Btsman, Left arm fast spinner"
-}
+},
+{
+	"id": 8767
+	"Name": "amit singh"
+	"Age": "22",
+	"Role": "batsman"
+},
+{
+	"id": 15965
+	"Name": "Akansha"
+	"Age": "23",
+	"Role": "all rounder"
+},
+{
+	"id": 85325
+	"Name": "Rahul bisht",
+	"Age": "25",
+	"Role": "Left Handed Bowler"
+},
+{
+	"id": 1817000,
+	"Name": "Jemimah Rodrigues",
+	"Age": "22",
+	"Role": "Right Handed Batsman"
+},
 ]
