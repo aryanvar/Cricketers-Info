@@ -666,6 +666,15 @@ Shanthakumaran Nair Sreesanth ( born 6 February 1983) is an Indian former cricke
 ## Thangarasu Natarajan
 Thangarasu Natarajan is an Indian cricketer. He made his international debut for the India cricket team in December 2020. He plays for Sunrisers Hyderabad in the Indian Premier League and for Tamil Nadu in domestic cricket. He became the first Indian cricketer to make his international debut across all three formats on the same tour when he was playing in India's 2020–21 tour of Australia.
 
+##Viv Richards
+Sir Isaac Vivian Alexander Richards KNH OBE OOC (born 7 March 1952) is an Antiguan retired cricketer who represented the West Indies cricket team between 1974 and 1991. Batting generally at number three in a dominant West Indies side, Richards is widely regarded as one of the greatest batsmen of all time.
+Richards made his test debut in 1974 against India along with Gordon Greenidge. His best years were between 1976 and 1983 where he averaged a remarkable 66.51 with the bat in test cricket. In 1984 he suffered from pterygium and had an eye surgery which affected his eyesight and reflexes. although he remained the best batsman in world for next four years and average 50 in those four years as well until the decline in last couple of years where he averaged 36. Overall, Richards scored 8,540 runs in 121 Test matches at an average of 50.23, including 24 centuries. He also scored 1281 runs in World Series Cricket with five tons at average of over 55 which was regarded as highest and most difficult cricket ever played. As a captain, he won 27 of 50 Test matches and lost only 8. He also scored nearly 7,000 runs in One Day Internationals and more than 36,000 in first-class cricket.
+
+He was knighted for his contributions to cricket in 1999. In 2000 he was voted one of Wisden's five Cricketers of the Century by a 100-member panel of experts and in 2002 the almanack judged that he had played the best One Day International innings of all time. In December 2002, he was chosen by Wisden as the greatest One Day International batsman who had played to that date and as the third greatest Test cricket batter. In 2009, Richards was inducted into the ICC Cricket Hall of Fame.
+In October 2013, Wisden selected the best test team across 150 years of test history and slotted Viv at number 3 slot, he was only batsman of post war era along with Sachin Tendulkar to get featured in that team.
+
+
+
 ## Ashok Dinda 
 Paras Mhambrey, who coached the Bengal Ranji side for two years, had this to say about Ashok Dinda: \"The best thing about him is his attitude. He has come up the hard way, and doesn't take anything for granted. He is always prepared to bowl long spells, and never shies away from hard work.\" That sentence sums up Dinda's rise in domestic cricket and his subsequent selection on the fringes of the national team.
 
@@ -733,3 +742,4 @@ The allrounder debuted for New South Wales at the age of 18. He enjoyed his brea
 
 Ronald Draper was born in Oudtshoorn, Cape Province, and was educated at Grey High School in Port Elizabeth.Batting at number three, on his 19th birthday he made a century on his first-class debut for Eastern Province in December 1945, making the top score in the match.
 Draper was selected as wicket-keeper for a South African XI that played the Australian touring team in 1949-50.A few weeks later he made 86 opening the batting for Eastern Province against the Australians. After South Africa lost the first three Tests to Australia, Draper was one of five new players the selectors brought in for the Fourth Test, four of whom, including Draper, were making their Test debuts.Batting at number three, he made only 15, but the match was drawn and he kept his place for the Fifth Test, when he made 7 and 3 in an innings defeat.
+
