@@ -64,6 +64,8 @@ Hardik Himanshu Pandya is an Indian international cricketer who plays for the In
 ## Ravindra Jadeja
 Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
 
+Jadeja was vice-captain of the Indian U-19 cricket team that won the World Cup in Malaysia in 2008, under the captaincy of former Indian captain Virat Kohli. He made his ODI debut against Sri Lanka on 8 February 2009 and scored an unbeaten 60 off 77 balls in that match. However, his Test debut came almost four years later, on 13 December 2012, against England at Nagpur.
+
 ## Mayank agarwal
 Mayank Anurag Agarwal is an Indian international cricketer who plays as a right-handed top-order batter. He plays for Karnataka cricket team in domestic cricket and captains Punjab Kings in the Indian Premier League.
 
