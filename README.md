@@ -60,6 +60,7 @@ Yuvraj Singh born on 12 December 1981 is a former Indian international cricketer
 
 ## Hardik Pandya
 Hardik Himanshu Pandya is an Indian international cricketer who plays for the India national cricket team at the international level and the Baroda cricket team in Indian domestic cricket.
+Hardik Pandya was born on 11 October 1993 in Surat, Gujarat. His father, Himanshu Pandya, ran a small car finance business in Surat which he shut down and moved to Vadodara when Hardik was five to provide his sons with better cricket training facilities. Himanshu Pandya worked as Loan agent in Vadodara. He enrolled his two sons into Kiran More's cricket academy[which?] in Vadodara. Lacking finances, the Pandya family lived in a rented apartment in Gorwa, with the brothers using a second-hand car to travel to the cricket ground. Hardik studied at the MK High School until ninth grade before dropping out to focus on cricket.
 
 ## Ravindra Jadeja
 Ravindrasinh Anirudhsinh Jadeja, commonly known as Ravindra Jadeja, is an Indian international cricketer. He is an all-rounder, who bats left-handed and bowls left-arm orthodox spin. He was the captain of the Chennai Super Kings in the Indian Premier League. He represents Saurashtra in first-class cricket.
