@@ -763,3 +763,5 @@ Sir Donald George Bradman, AC, nicknamed "The Don", was an Australian internatio
 #BRIAN LARA 
 Brian Charles Lara, TC, OCC, AM is a Trinidadian former international cricketer, widely acknowledged as one of the greatest batsmen of all time.
 
+#prithvi Shaw
+Prithvi Pankaj Shaw is an Indian international cricketer who played for the Indian cricket team in all formats. He currently plays for Mumbai in domestic cricket and Delhi Capitals in the Indian Premier
