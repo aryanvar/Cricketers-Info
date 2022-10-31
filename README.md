@@ -759,3 +759,7 @@ Draper was selected as wicket-keeper for a South African XI that played the Aust
 #SIR DON BRADMAN
 
 Sir Donald George Bradman, AC, nicknamed "The Don", was an Australian international cricketer, widely acknowledged as the greatest batsman of all time. Bradman's career Test batting average of 99.94 has been cited as the greatest achievement by any sportsman in any major sport.
+
+#BRIAN LARA 
+Brian Charles Lara, TC, OCC, AM is a Trinidadian former international cricketer, widely acknowledged as one of the greatest batsmen of all time.
+
