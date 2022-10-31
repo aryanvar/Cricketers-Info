@@ -752,3 +752,7 @@ The allrounder debuted for New South Wales at the age of 18. He enjoyed his brea
 Ronald Draper was born in Oudtshoorn, Cape Province, and was educated at Grey High School in Port Elizabeth.Batting at number three, on his 19th birthday he made a century on his first-class debut for Eastern Province in December 1945, making the top score in the match.
 Draper was selected as wicket-keeper for a South African XI that played the Australian touring team in 1949-50.A few weeks later he made 86 opening the batting for Eastern Province against the Australians. After South Africa lost the first three Tests to Australia, Draper was one of five new players the selectors brought in for the Fourth Test, four of whom, including Draper, were making their Test debuts.Batting at number three, he made only 15, but the match was drawn and he kept his place for the Fifth Test, when he made 7 and 3 in an innings defeat.
 
+
+#SIR DON BRADMAN
+
+Sir Donald George Bradman, AC, nicknamed "The Don", was an Australian international cricketer, widely acknowledged as the greatest batsman of all time. Bradman's career Test batting average of 99.94 has been cited as the greatest achievement by any sportsman in any major sport.
