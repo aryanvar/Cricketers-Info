@@ -765,3 +765,7 @@ Brian Charles Lara, TC, OCC, AM is a Trinidadian former international cricketer,
 
 #prithvi Shaw
 Prithvi Pankaj Shaw is an Indian international cricketer who played for the Indian cricket team in all formats. He currently plays for Mumbai in domestic cricket and Delhi Capitals in the Indian Premier
+
+#VVS LAXMAN
+
+Vangipurapu Venkata Sai Laxman is a former Indian international cricketer and a former cricket commentator and pundit. A right-hand batsman known for his elegant stroke play, Laxman played as a middle-order batsman in Test cricket.
