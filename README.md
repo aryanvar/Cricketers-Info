@@ -386,7 +386,7 @@ Ravishankar Jayadritha Shastri (born 27 May 1962) is the former head coach of th
 As a cricketer, Shastri was essentially defensive with his trademark "chapati shot"[1][2] (a flick off the pads), but he could raise his strike rate when required. Due to his above-average height (he stood 6' 3" tall) and an upright stance, he had a limited number of shots against fast bowling, but was able to put the lofted shot to good use against spin bowling. Ravi played either as an opening batsman or in the middle order.
 
 The highlight of his career was when he was elected Champion of Champions in the World Championship of Cricket in Australia in 1985. In the same season, on 10 January 1985,[3] he equaled West Indian Garry Sobers's record of hitting six sixes in an over in first class cricket. He was regarded as a potential captain, but his image outside cricket,[4] injuries and tendency to lose form at crucial times meant that he captained India in only one Test match.
-## Rishad Pant
+## Rishabh Pant
 Rishabh Rajendra Pant (born 4 October 1997), is an Indian cricketer who plays as a middle order wicket-keeper batter for India, Delhi, and captains the Delhi Capitals in the Indian Premier League. He was the vice-captain of the India U-19 team for the 2016 Under-19 Cricket World Cup.
 
 He made his Twenty20 International (T20I) debut for India in January 2017, his Test debut in August 2018, and his One Day International (ODI) debut in October 2018. In January 2019, Pant was named the ICC Men's Emerging Cricketer of the Year at the 2018 ICC Awards. In February 2021, Pant was named the Men's Player of the Month in the first edition of the ICC Player of the Month Awards.
@@ -769,3 +769,8 @@ Prithvi Pankaj Shaw is an Indian international cricketer who played for the Indi
 #VVS LAXMAN
 
 Vangipurapu Venkata Sai Laxman is a former Indian international cricketer and a former cricket commentator and pundit. A right-hand batsman known for his elegant stroke play, Laxman played as a middle-order batsman in Test cricket.
+
+##HARRY BRROK
+
+Harry Cherrington Brook (born 22 February 1999) is an English cricketer who plays international cricket for England and domestic cricket for Yorkshire. Primarily a right-handed batsman, he also bowls right-arm medium pace. He made his international debut for England in January 2022.
+He made an extraordinary start to his test career by amassing 809 runs in his first six test appearances having batted ten times with a career average of 80.90 and with strike rate of almost 100.Brook was part of the England cricket team that won the 2022 T20 World Cup.
