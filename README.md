@@ -769,3 +769,16 @@ Prithvi Pankaj Shaw is an Indian international cricketer who played for the Indi
 #VVS LAXMAN
 
 Vangipurapu Venkata Sai Laxman is a former Indian international cricketer and a former cricket commentator and pundit. A right-hand batsman known for his elegant stroke play, Laxman played as a middle-order batsman in Test cricket.
+## SHOAIB AKHTAR
+
+Shoaib Akhtar (born 13 August 1975) is a Pakistani former international cricketer and commentator. Nicknamed the "Rawalpindi Express", he is regarded as one of the fastest bowlers in cricketing history. Akhtar made his Test match debut in November 1997 as an opening fast bowler and played his first One Day International three months later. 
+He has been involved in several controversies during his career, often accused of unsportsmanlike conduct. Akhtar was sent home during a Test match series in Australia in 2005 for alleged poor attitude and a year later received a ban after testing positive for the performance-enhancing substance nandrolone. 
+However, the ban imposed on him was lifted on appeal.In 2008, Akhtar was banned for five years for publicly criticising the Pakistan Cricket Board, although in October 2008, the Lahore High Court suspended the ban and Akhtar was selected in the 15-man squad for the Twenty20 Quadrangular Tournament in Canada. Akhtar retired from international cricket after the 2011 World Cup. Post-retirement, he began a YouTube career by starting his own channel, where he gives reviews on International and league matches and Pakistani cricket.
+
+## ISHAN KISHAN
+
+shan Kishan (born 18 July 1998) is an Indian international cricketer who plays for the Indian national cricket team as a wicket-keeper batsman. He made his international debut in March 2021 against England. He plays for Mumbai Indians in the Indian Premier League (IPL) and for Jharkhand in domestic cricket.
+
+In December 2022 he scored 210 runs in 131 balls in a One Day International (ODI) match against Bangladesh, becoming the youngest cricketer to score an ODI double century and the first to convert a maiden ODI century to a double century. The innings was also the fastest double century in an ODI.
+
+He was the captain of India's squad for the 2016 Under-19 Cricket World Cup.
